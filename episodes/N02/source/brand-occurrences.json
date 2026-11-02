@@ -1,0 +1,23 @@
+[
+  {
+    "stem": "00_00",
+    "time": 4.695541,
+    "duration": 0.290166,
+    "text": "企业已经有文档系统，也接入了大模型，为什么还需要问学知识平台？",
+    "review": "C treatment applied; new context awaits listening"
+  },
+  {
+    "stem": "03_00",
+    "time": 79.78175,
+    "duration": 0.334833,
+    "text": "现在进入问学的售后知识库。这里已经有三份就绪的文档：售后质量处置指引、批次质量异常应急预案，以及供应商质量管理制度。",
+    "review": "C treatment applied; new context awaits listening"
+  },
+  {
+    "stem": "08_01",
+    "time": 252.63187500000004,
+    "duration": 0.323666,
+    "text": "当这些知识需要持续更新、反复使用，并供给多个业务应用时，就值得评估问学带来的知识处理、检索、维护和来源核查能力。",
+    "review": "C treatment applied; new context awaits listening"
+  }
+]

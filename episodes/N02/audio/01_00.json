@@ -1,0 +1,212 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 2232080,
+    "text": "先"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3178750,
+    "duration": 1674160,
+    "text": "看"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4964160,
+    "duration": 1227500,
+    "text": "这"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6192080,
+    "duration": 1785830,
+    "text": "张"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8200830,
+    "duration": 3348330,
+    "text": "异常"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11660830,
+    "duration": 3459580,
+    "text": "反馈"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15120410,
+    "duration": 2232080,
+    "text": "单"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22321250,
+    "duration": 2790000,
+    "text": "这是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25335000,
+    "duration": 2790000,
+    "text": "演示"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28236660,
+    "duration": 4464160,
+    "text": "情境"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35714160,
+    "duration": 1339160,
+    "text": "一"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37053750,
+    "duration": 1785830,
+    "text": "辆"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38950830,
+    "duration": 2790000,
+    "text": "车"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41964160,
+    "duration": 3906250,
+    "text": "出现"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 46093750,
+    "duration": 2901660,
+    "text": "电池"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49107080,
+    "duration": 2678750,
+    "text": "管理"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 51897500,
+    "duration": 3571250,
+    "text": "系统"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55692080,
+    "duration": 3348330,
+    "text": "通信"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 59151660,
+    "duration": 3906250,
+    "text": "故障"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 66406250,
+    "duration": 3236660,
+    "text": "软件"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 69754580,
+    "duration": 3125000,
+    "text": "升级"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 72879580,
+    "duration": 2790000,
+    "text": "后"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 75892910,
+    "duration": 5803330,
+    "text": "第四十五"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 81696250,
+    "duration": 3013330,
+    "text": "天"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 86830410,
+    "duration": 3460000,
+    "text": "再次"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 90401660,
+    "duration": 3682910,
+    "text": "报出"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 94307910,
+    "duration": 3794580,
+    "text": "相同"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 98214160,
+    "duration": 3013330,
+    "text": "故障"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 101227500,
+    "duration": 2455410,
+    "text": "码"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 108705410,
+    "duration": 6026660,
+    "text": "服务站"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 114955410,
+    "duration": 1339160,
+    "text": "已"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 116406250,
+    "duration": 2790000,
+    "text": "记录"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 119307910,
+    "duration": 1785830,
+    "text": "为"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 121317080,
+    "duration": 3459580,
+    "text": "高严"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 124776660,
+    "duration": 4352500,
+    "text": "重度"
+  }
+]

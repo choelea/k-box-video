@@ -1,0 +1,98 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 4241250,
+    "text": "企业"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5410830,
+    "duration": 2232080,
+    "text": "已经"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7642910,
+    "duration": 1227500,
+    "text": "有"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9093750,
+    "duration": 3125000,
+    "text": "文档"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12330410,
+    "duration": 3682910,
+    "text": "系统"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18245410,
+    "duration": 1339160,
+    "text": "也"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19696250,
+    "duration": 2120410,
+    "text": "接入"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21817080,
+    "duration": 781250,
+    "text": "了"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22821250,
+    "duration": 1785830,
+    "text": "大"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24607080,
+    "duration": 4464160,
+    "text": "模型"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33312500,
+    "duration": 3236660,
+    "text": "为什么"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36772500,
+    "duration": 1116250,
+    "text": "还"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38000000,
+    "duration": 1897500,
+    "text": "需要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 40008750,
+    "duration": 4575830,
+    "text": "问学"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 46147500,
+    "duration": 3125000,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49383750,
+    "duration": 3906250,
+    "text": "平台"
+  }
+]

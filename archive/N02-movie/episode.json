@@ -1,0 +1,19 @@
+{
+  "id": "N02",
+  "title": "N02 电影场景试片（历史版）",
+  "category": "认知与选型",
+  "status": "archived",
+  "duration_seconds": 221.28,
+  "target_duration_seconds": [
+    120,
+    420
+  ],
+  "product_version": "未记录；2026-11-01 演示环境",
+  "imported_on": "2026-11-02",
+  "video": "N02-为什么还需要K-BOX.mp4",
+  "script": "source/plan.json",
+  "reading_copy": "讲解稿.md",
+  "timeline": "source/timeline.json",
+  "pending": [],
+  "notes": "仅供历史对照；当前企业场景版位于 episodes/N02。"
+}

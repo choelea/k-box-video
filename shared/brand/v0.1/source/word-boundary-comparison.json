@@ -1,0 +1,77 @@
+{
+  "interpretation": "仅供定位词组切分，不能代替实际核听",
+  "rows": [
+    {
+      "candidate": "A",
+      "probe": 1,
+      "brand_word_event": false,
+      "after_brand_gap_seconds": null
+    },
+    {
+      "candidate": "A",
+      "probe": 2,
+      "brand_word_event": false,
+      "after_brand_gap_seconds": null
+    },
+    {
+      "candidate": "A",
+      "probe": 3,
+      "brand_word_event": false,
+      "after_brand_gap_seconds": null
+    },
+    {
+      "candidate": "B",
+      "probe": 1,
+      "brand_word_event": true,
+      "after_brand_gap_seconds": 0.18975
+    },
+    {
+      "candidate": "B",
+      "probe": 2,
+      "brand_word_event": true,
+      "after_brand_gap_seconds": 0.178542
+    },
+    {
+      "candidate": "B",
+      "probe": 3,
+      "brand_word_event": true,
+      "after_brand_gap_seconds": 0.178542
+    },
+    {
+      "candidate": "C",
+      "probe": 1,
+      "brand_word_event": true,
+      "after_brand_gap_seconds": 0.022334
+    },
+    {
+      "candidate": "C",
+      "probe": 2,
+      "brand_word_event": true,
+      "after_brand_gap_seconds": 0.022334
+    },
+    {
+      "candidate": "C",
+      "probe": 3,
+      "brand_word_event": true,
+      "after_brand_gap_seconds": 0.022334
+    },
+    {
+      "candidate": "D",
+      "probe": 1,
+      "brand_word_event": true,
+      "after_brand_gap_seconds": 0.245541
+    },
+    {
+      "candidate": "D",
+      "probe": 2,
+      "brand_word_event": true,
+      "after_brand_gap_seconds": 0.178584
+    },
+    {
+      "candidate": "D",
+      "probe": 3,
+      "brand_word_event": true,
+      "after_brand_gap_seconds": 0.156292
+    }
+  ]
+}

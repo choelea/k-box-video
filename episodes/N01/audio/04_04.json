@@ -1,0 +1,158 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 2567080,
+    "text": "如果"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3625000,
+    "duration": 5245410,
+    "text": "问题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9763330,
+    "duration": 1339160,
+    "text": "落"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11102500,
+    "duration": 1450830,
+    "text": "在"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12776660,
+    "duration": 5022500,
+    "text": "数据库"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18022500,
+    "duration": 1004580,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19138330,
+    "duration": 2008750,
+    "text": "数"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21147500,
+    "duration": 2901660,
+    "text": "仓"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25835000,
+    "duration": 1450830,
+    "text": "就"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27285830,
+    "duration": 3348330,
+    "text": "选择"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30857080,
+    "duration": 2678750,
+    "text": "数据"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33647500,
+    "duration": 4575830,
+    "text": "洞察"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 40901660,
+    "duration": 1562500,
+    "text": "在"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42575830,
+    "duration": 4464160,
+    "text": "治理表"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47151660,
+    "duration": 3571250,
+    "text": "关系"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50946250,
+    "duration": 1227500,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52285830,
+    "duration": 3125000,
+    "text": "指标"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55522500,
+    "duration": 3906250,
+    "text": "口径"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 59428750,
+    "duration": 2455410,
+    "text": "后"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 63892910,
+    "duration": 3571250,
+    "text": "生成"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 67687500,
+    "duration": 1562500,
+    "text": "可"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 69250000,
+    "duration": 4687500,
+    "text": "校验"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 76004580,
+    "duration": 4129160,
+    "text": "受控"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 80133750,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 81138330,
+    "duration": 3571250,
+    "text": "查询"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 84821250,
+    "duration": 4575830,
+    "text": "语句"
+  }
+]

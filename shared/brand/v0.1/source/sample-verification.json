@@ -1,0 +1,12 @@
+{
+  "duration": 30.0,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": "25/1",
+  "chapters": 4,
+  "full_decode": "passed",
+  "pronunciation_approval": "pending",
+  "sha256": "1d6654b9baf48f00f567be3e85aba672aa8da989bb6c584c8c6d80c732ed54e4"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "知识消费｜K-BOX 问学",
+  "text": "K\nK-BOX 问学\n首页\n产品定位\n产品能力\n知识消费\n应用场景\n企业级保障\n开发者文档\n立即体验 ↗\n登录\n04 / KNOWLEDGE ACCESS\n知识消费\n\n治理后的知识通过原生 API、MCP 和 Skill 提供给不同的调用方。\n\n01 / 自建系统与应用\n原生 API\n\n直接调用检索、Wiki、图谱与数据洞察等 HTTP 接口，由应用决定业务流程和交互。\n\n查看 Open API\n↗\n02 / 支持 MCP 的 Agent\nMCP\n\n连接独立部署的 MCP 服务，让 Agent 发现检索工具、搜索知识片段并回读来源。\n\n查看 MCP 接入\n↗\n03 / 支持 Skill 的 Agent Harness\nSkill\n\n将选定的知识资源或数据主题封装为 Skill，由 Agent 按使用说明和工具流程调用。\n\n查看 Skill 接入\n↗\nK-BOX 问学 · Enterprise Knowledge Infrastructure\n开发者文档\nAI 问答\nAPI 调试台\n意见反馈",
+  "height": 1081,
+  "headings": [
+    {
+      "text": "知识消费",
+      "y": 399.71875
+    },
+    {
+      "text": "原生 API",
+      "y": 548.265625
+    },
+    {
+      "text": "MCP",
+      "y": 548.265625
+    },
+    {
+      "text": "Skill",
+      "y": 548.265625
+    }
+  ]
+}

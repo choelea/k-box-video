@@ -1,0 +1,10 @@
+{
+  "episode": "episodes/N02",
+  "duration_seconds": 272.24,
+  "media_files": 126,
+  "asset_hashes": "passed",
+  "decode": "passed",
+  "pending_content_review": [
+    "新语境品牌词与整片音画同步待用户核听审阅"
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "path": "source/review-desktop.png",
+      "bytes": 414077,
+      "sha256": "372f2c242c2ae6d27becdacbd77f1ffe0c8451ea2a829ed0c55765ba07bd414e"
+    },
+    {
+      "path": "source/review-mobile.png",
+      "bytes": 115653,
+      "sha256": "a1ea775b54b5047259652c071c6b66d9e3104e78300dcc86f833e495991ceb8e"
+    },
+    {
+      "path": "source/sample-ui-check.jpg",
+      "bytes": 121418,
+      "sha256": "a6bcf6ea7c0f079709c4ef1eb7cca94da46495669a0ae5dcd2b01d4e95606cc9"
+    },
+    {
+      "path": "visual/frames/concept.png",
+      "bytes": 348473,
+      "sha256": "a2d64037161a7ac155739b74a79be263b7fc264b42da3dd6b85adc973ba71502"
+    },
+    {
+      "path": "visual/frames/ending.png",
+      "bytes": 265098,
+      "sha256": "69ce6d2c734eeefbe077bcf8c872eda23a99e08314326b49df3ea70bc63a8a78"
+    },
+    {
+      "path": "visual/frames/opening.png",
+      "bytes": 324533,
+      "sha256": "8c6eb0a30308335f8b40ffc6d4e1751b03ad3cff3d26763690d822f3a4c06df9"
+    },
+    {
+      "path": "visual/frames/ui.png",
+      "bytes": 628493,
+      "sha256": "834c6a4358bec3b58f08007faea9608d9fe4b56024af0115de9247502bba8d36"
+    },
+    {
+      "path": "visual/product-logo.png",
+      "bytes": 32143,
+      "sha256": "ac148a5690188876e0dccf2e4672d622f23df76c67055776c5ae516b4a78aa87"
+    },
+    {
+      "path": "visual/风格总览.jpg",
+      "bytes": 254368,
+      "sha256": "b991dc005d05b8ee67e554b724d54b85d601777f0d265c2c35ba05b5ed90716f"
+    },
+    {
+      "path": "voice/A-1.mp3",
+      "bytes": 10944,
+      "sha256": "048e43f709b847e98a34d4250f294045f206b4f98c560473058aaeeed21a6355"
+    },
+    {
+      "path": "voice/A-2.mp3",
+      "bytes": 38736,
+      "sha256": "90425840a33965ef770ecb04db25d9d09cd77588075fd6fd8486eaaf932794cf"
+    },
+    {
+      "path": "voice/A-3.mp3",
+      "bytes": 34848,
+      "sha256": "2df0641965d591949cc6af75da58ad5b9f752dfcdba39985edf067c8b2840772"
+    },
+    {
+      "path": "voice/B-1.mp3",
+      "bytes": 12672,
+      "sha256": "64565deaa67ba92eb468b952bf09b8371cbe74d5096b2eaaee342ca9ef7aebd8"
+    },
+    {
+      "path": "voice/B-2.mp3",
+      "bytes": 40320,
+      "sha256": "89f79b4aff4055663e0cc7b115e04b00f185e2fe51d6c4857008633e2abead66"
+    },
+    {
+      "path": "voice/B-3.mp3",
+      "bytes": 35568,
+      "sha256": "ea02f376e418f7c61ae7e537737b64b43ec281e93e5e6de58cbc39e0b8439a8c"
+    },
+    {
+      "path": "voice/C-1.mp3",
+      "bytes": 10944,
+      "sha256": "bd2265b06a653139148454a3ca60f584a4058b0b026aaf270defa741253c35a9"
+    },
+    {
+      "path": "voice/C-2.mp3",
+      "bytes": 38736,
+      "sha256": "9f895f116f52e6a60af9f54bf65de3279142b2580a047b457fcfa767ffe20c32"
+    },
+    {
+      "path": "voice/C-3.mp3",
+      "bytes": 33696,
+      "sha256": "72b85bd680b496e4b194cd03bf409b0101d4fabe68c7e4f5b4943f92ed90a670"
+    },
+    {
+      "path": "voice/D-1.mp3",
+      "bytes": 14544,
+      "sha256": "d271301392718f03f09f9d51990d4ccce1090e78cd0fe3222bdbaedaed505958"
+    },
+    {
+      "path": "voice/D-2.mp3",
+      "bytes": 42768,
+      "sha256": "f1f9f81f106c52f1e4fcc9159cc60338d79c1012cf0d79ede62bba6409f5de00"
+    },
+    {
+      "path": "voice/D-3.mp3",
+      "bytes": 36720,
+      "sha256": "b2db40fc5787260d27e439a6f66a7692de3848421d8e793a8079068657566e12"
+    },
+    {
+      "path": "voice/candidate-A.mp3",
+      "bytes": 386540,
+      "sha256": "b3b784c8aa1b16aafaf8d62d69141a1769df6d3bbe21a9f8b446cfc4e1d2b5f2"
+    },
+    {
+      "path": "voice/candidate-B.mp3",
+      "bytes": 402668,
+      "sha256": "0a0f5d66d79ef435f8c353a1f857a2ba57a8a4d687994d9400e7cb16072afed1"
+    },
+    {
+      "path": "voice/candidate-C.mp3",
+      "bytes": 381932,
+      "sha256": "7b555c1f3d7f4f69986e63218e8682585c3c5c7f9d7e002d07c77218c1f773a3"
+    },
+    {
+      "path": "voice/candidate-D.mp3",
+      "bytes": 424556,
+      "sha256": "dacd9a6f1bc05842988813e245f3b2ed2ef8c80f42789c112de269d2d67212db"
+    },
+    {
+      "path": "voice/sample-concept.mp3",
+      "bytes": 40464,
+      "sha256": "0598e3e82cffe2cb12d20d06750861f7033fb881811aada8e85773f78576bff0"
+    },
+    {
+      "path": "voice/sample-ending.mp3",
+      "bytes": 16848,
+      "sha256": "9e018c82931fd4cd09f58cd0a71805496166a0d20e150740db9e4f46e25c2a0e"
+    },
+    {
+      "path": "voice/sample-opening.mp3",
+      "bytes": 14688,
+      "sha256": "961149c9ba1a77f4a5e5f53cbe60f7e7852cbb29050619f5ed2e50c17f1b2361"
+    },
+    {
+      "path": "voice/sample-ui.mp3",
+      "bytes": 39024,
+      "sha256": "a02d987790914f1a9fa354f7fca069a4d1223c4af06f014cc369aab3075185c9"
+    },
+    {
+      "path": "品牌风格样片.mp4",
+      "bytes": 1163586,
+      "sha256": "1d6654b9baf48f00f567be3e85aba672aa8da989bb6c584c8c6d80c732ed54e4"
+    }
+  ],
+  "dependencies": [
+    {
+      "path": "episodes/N02/frames/record-evidence-ten.png",
+      "relative_to": "repository",
+      "sha256": "81ab3f0155cb6abb95659c163e9a1eebdb523fc9892ecd525ba9e91efaa8955d"
+    }
+  ]
+}

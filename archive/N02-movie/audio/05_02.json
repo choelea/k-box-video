@@ -1,0 +1,188 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 2678750,
+    "text": "这里"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3736660,
+    "duration": 3013330,
+    "text": "验证"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6750000,
+    "duration": 1004580,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7754580,
+    "duration": 2901660,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11549160,
+    "duration": 3571250,
+    "text": "答案"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15343750,
+    "duration": 3460000,
+    "text": "是否"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18915000,
+    "duration": 2901660,
+    "text": "符合"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22040000,
+    "duration": 3460000,
+    "text": "演示"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25611660,
+    "duration": 3794580,
+    "text": "文档"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34486660,
+    "duration": 3348330,
+    "text": "文档"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37946250,
+    "duration": 3906250,
+    "text": "本身"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42075830,
+    "duration": 3125000,
+    "text": "是否"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 45312500,
+    "duration": 4910830,
+    "text": "准确"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52008750,
+    "duration": 3571250,
+    "text": "是否"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55692080,
+    "duration": 4799160,
+    "text": "过时"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 63057910,
+    "duration": 3125000,
+    "text": "仍然"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 66294580,
+    "duration": 2567080,
+    "text": "需要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 69085000,
+    "duration": 2790000,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71986660,
+    "duration": 3236660,
+    "text": "维护"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 75223330,
+    "duration": 1450830,
+    "text": "者"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 76785830,
+    "duration": 4464160,
+    "text": "确认"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 86383750,
+    "duration": 1674160,
+    "text": "有"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 88057910,
+    "duration": 4129580,
+    "text": "引用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 94754580,
+    "duration": 892910,
+    "text": "也"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 95647500,
+    "duration": 1227500,
+    "text": "要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 96986660,
+    "duration": 5022500,
+    "text": "检查"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 102790000,
+    "duration": 2901660,
+    "text": "引用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 105915000,
+    "duration": 3125000,
+    "text": "是否"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 109151660,
+    "duration": 3571250,
+    "text": "真正"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 112835000,
+    "duration": 2678750,
+    "text": "支持"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 115625000,
+    "duration": 3906250,
+    "text": "结论"
+  }
+]

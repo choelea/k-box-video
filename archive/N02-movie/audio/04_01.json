@@ -1,0 +1,134 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 2567080,
+    "text": "这个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3625000,
+    "duration": 4910830,
+    "text": "问题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9317080,
+    "duration": 2567080,
+    "text": "需要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11995410,
+    "duration": 2901660,
+    "text": "找到"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15120410,
+    "duration": 1785830,
+    "text": "两"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16906250,
+    "duration": 892910,
+    "text": "部"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 17910830,
+    "duration": 3013330,
+    "text": "影片"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20924160,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21817080,
+    "duration": 3906250,
+    "text": "记录"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28067080,
+    "duration": 1450830,
+    "text": "再"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29629580,
+    "duration": 2678750,
+    "text": "比较"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32531250,
+    "duration": 3125000,
+    "text": "主演"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35767910,
+    "duration": 3794580,
+    "text": "名单"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44531250,
+    "duration": 4352500,
+    "text": "界面"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48995410,
+    "duration": 1339160,
+    "text": "会"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50446250,
+    "duration": 3348330,
+    "text": "展示"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54017910,
+    "duration": 3460000,
+    "text": "查询"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 57589160,
+    "duration": 4799160,
+    "text": "状态"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 64397500,
+    "duration": 2343750,
+    "text": "以及"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 66964160,
+    "duration": 3460000,
+    "text": "生成"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 70424160,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71317080,
+    "duration": 4352500,
+    "text": "回答"
+  }
+]

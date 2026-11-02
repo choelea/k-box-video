@@ -1,0 +1,170 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3348330,
+    "text": "判断"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4406250,
+    "duration": 1785830,
+    "text": "这个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6303750,
+    "duration": 4352500,
+    "text": "问题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13000000,
+    "duration": 1450830,
+    "text": "要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14450830,
+    "duration": 1785830,
+    "text": "看"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16460000,
+    "duration": 2567080,
+    "text": "企业"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19138330,
+    "duration": 3906250,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23267910,
+    "duration": 2901660,
+    "text": "能否"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26281250,
+    "duration": 5133750,
+    "text": "持续"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32977500,
+    "duration": 1674160,
+    "text": "可"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34651660,
+    "duration": 4129580,
+    "text": "控地"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39004580,
+    "duration": 2343750,
+    "text": "进入"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41460000,
+    "duration": 4241250,
+    "text": "业务"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50781250,
+    "duration": 5580410,
+    "text": "接下来"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 58705410,
+    "duration": 1785830,
+    "text": "我们"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 60602500,
+    "duration": 1339160,
+    "text": "用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 61942080,
+    "duration": 1785830,
+    "text": "一个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 63950830,
+    "duration": 3460000,
+    "text": "真实"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 67410830,
+    "duration": 1004580,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 68526660,
+    "duration": 3013330,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71763330,
+    "duration": 3125000,
+    "text": "问答"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 75000000,
+    "duration": 4241250,
+    "text": "过程"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 81807910,
+    "duration": 3013330,
+    "text": "看看"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 84932910,
+    "duration": 4799160,
+    "text": "中间"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 89955410,
+    "duration": 1450830,
+    "text": "还"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 91517910,
+    "duration": 2455410,
+    "text": "需要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 94196250,
+    "duration": 3013330,
+    "text": "哪些"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 97321250,
+    "duration": 4017910,
+    "text": "工作"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3571250,
+    "text": "欢迎"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4629580,
+    "duration": 3236660,
+    "text": "使用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8089160,
+    "duration": 3348330,
+    "text": "问学"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11660830,
+    "duration": 2455410,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14227500,
+    "duration": 4910830,
+    "text": "平台"
+  }
+]

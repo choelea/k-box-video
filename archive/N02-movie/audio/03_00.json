@@ -1,0 +1,110 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3682910,
+    "text": "现在"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4741250,
+    "duration": 2790000,
+    "text": "进入"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7754580,
+    "duration": 3348330,
+    "text": "演示"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11214160,
+    "duration": 4575830,
+    "text": "环境"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20870410,
+    "duration": 2790000,
+    "text": "这里"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23772500,
+    "duration": 4241250,
+    "text": "使用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28236660,
+    "duration": 2455410,
+    "text": "已经"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30803750,
+    "duration": 3682910,
+    "text": "存在"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34486660,
+    "duration": 1116250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35825830,
+    "duration": 2790000,
+    "text": "中国"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38727500,
+    "duration": 2678750,
+    "text": "电影"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41517910,
+    "duration": 5915000,
+    "text": "文档库"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50223330,
+    "duration": 1339160,
+    "text": "不"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 51562500,
+    "duration": 3460000,
+    "text": "需要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55245410,
+    "duration": 2901660,
+    "text": "另外"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 58258750,
+    "duration": 3571250,
+    "text": "编造"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62053750,
+    "duration": 2901660,
+    "text": "测试"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 65067080,
+    "duration": 4352500,
+    "text": "材料"
+  }
+]

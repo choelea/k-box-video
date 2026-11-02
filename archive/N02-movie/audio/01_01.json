@@ -1,0 +1,128 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 1785830,
+    "text": "大"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2732080,
+    "duration": 4352500,
+    "text": "模型"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7307910,
+    "duration": 2678750,
+    "text": "负责"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10210000,
+    "duration": 2901660,
+    "text": "理解"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13223330,
+    "duration": 4687500,
+    "text": "问题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19807910,
+    "duration": 3013330,
+    "text": "组织"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22932910,
+    "duration": 3460000,
+    "text": "语言"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26616250,
+    "duration": 1116250,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27843750,
+    "duration": 4464160,
+    "text": "推理"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37388330,
+    "duration": 1227500,
+    "text": "把"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38727500,
+    "duration": 3013330,
+    "text": "材料"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41964160,
+    "duration": 2790000,
+    "text": "交给"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44866250,
+    "duration": 5022500,
+    "text": "模型"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 51897500,
+    "duration": 1227500,
+    "text": "它"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53236660,
+    "duration": 1004580,
+    "text": "就"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54352500,
+    "duration": 2120410,
+    "text": "可以"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 56585000,
+    "duration": 2790000,
+    "text": "帮助"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 59598330,
+    "duration": 4799160,
+    "text": "阅读"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 66071250,
+    "duration": 2901660,
+    "text": "比较"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 69196250,
+    "duration": 1116250,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 70424160,
+    "duration": 5468750,
+    "text": "总结"
+  }
+]

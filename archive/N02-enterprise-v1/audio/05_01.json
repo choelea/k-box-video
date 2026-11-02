@@ -1,0 +1,164 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3794580,
+    "text": "深度"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4852500,
+    "duration": 4575830,
+    "text": "模式"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10321250,
+    "duration": 3013330,
+    "text": "提供"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13335000,
+    "duration": 1116250,
+    "text": "了"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14674160,
+    "duration": 3013330,
+    "text": "继续"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 17799160,
+    "duration": 4129580,
+    "text": "检索"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22151660,
+    "duration": 1116250,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23379580,
+    "duration": 2790000,
+    "text": "整理"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26281250,
+    "duration": 2790000,
+    "text": "证据"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29071250,
+    "duration": 892910,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30075830,
+    "duration": 4352500,
+    "text": "过程"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37330410,
+    "duration": 1339160,
+    "text": "但"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38781250,
+    "duration": 2901660,
+    "text": "使用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41906250,
+    "duration": 3348330,
+    "text": "深度"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 45366250,
+    "duration": 2901660,
+    "text": "模式"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48379580,
+    "duration": 4464160,
+    "text": "本身"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54799160,
+    "duration": 1227500,
+    "text": "不"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 56026660,
+    "duration": 3348330,
+    "text": "代表"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 59486660,
+    "duration": 3236660,
+    "text": "答案"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62946250,
+    "duration": 2790000,
+    "text": "一定"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 65848330,
+    "duration": 4575830,
+    "text": "正确"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 75557910,
+    "duration": 6361660,
+    "text": "接下来"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 82812500,
+    "duration": 2901660,
+    "text": "仍然"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 85714160,
+    "duration": 1116250,
+    "text": "要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 86942080,
+    "duration": 3682910,
+    "text": "检查"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 90848330,
+    "duration": 2790000,
+    "text": "具体"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 93750000,
+    "duration": 4129580,
+    "text": "结论"
+  }
+]

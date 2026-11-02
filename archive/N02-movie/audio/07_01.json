@@ -1,0 +1,164 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 2567080,
+    "text": "如果"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3736660,
+    "duration": 3125000,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6973330,
+    "duration": 2567080,
+    "text": "需要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9763330,
+    "duration": 3236660,
+    "text": "持续"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13111660,
+    "duration": 4575830,
+    "text": "更新"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19250000,
+    "duration": 1450830,
+    "text": "多"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20700830,
+    "duration": 3348330,
+    "text": "应用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24160830,
+    "duration": 4241250,
+    "text": "复用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30410830,
+    "duration": 1674160,
+    "text": "按"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32196250,
+    "duration": 3460000,
+    "text": "身份"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35879580,
+    "duration": 2455410,
+    "text": "控制"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38446250,
+    "duration": 4017910,
+    "text": "访问"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 45700830,
+    "duration": 2678750,
+    "text": "并且"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48491250,
+    "duration": 4687500,
+    "text": "回答"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54071250,
+    "duration": 2455410,
+    "text": "需要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 56638330,
+    "duration": 2567080,
+    "text": "能够"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 59428750,
+    "duration": 3460000,
+    "text": "核查"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 63000000,
+    "duration": 4352500,
+    "text": "依据"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 69419580,
+    "duration": 2232080,
+    "text": "那么"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71763330,
+    "duration": 1227500,
+    "text": "就"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 73102500,
+    "duration": 2678750,
+    "text": "值得"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 75892910,
+    "duration": 3460000,
+    "text": "评估"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 79575830,
+    "duration": 3348330,
+    "text": "问学"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 83035830,
+    "duration": 1674160,
+    "text": "这"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 84710000,
+    "duration": 1339160,
+    "text": "类"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 86272500,
+    "duration": 2455410,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 88839160,
+    "duration": 5133750,
+    "text": "平台"
+  }
+]

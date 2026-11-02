@@ -1,0 +1,12 @@
+{
+  "id": "待分配",
+  "title": "待填写",
+  "category": "待填写",
+  "status": "candidate",
+  "target_duration_seconds": [
+    120,
+    420
+  ],
+  "product_version": null,
+  "pending": []
+}

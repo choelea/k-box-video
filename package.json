@@ -1,0 +1,8 @@
+{
+  "name": "k-box-video",
+  "private": true,
+  "description": "问学知识平台视频制作与维护",
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

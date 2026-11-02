@@ -1,0 +1,20 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 5468750,
+    "text": "问学"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8870410,
+    "duration": 3125000,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12107080,
+    "duration": 4241250,
+    "text": "平台"
+  }
+]

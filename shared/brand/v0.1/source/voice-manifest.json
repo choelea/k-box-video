@@ -1,0 +1,106 @@
+{
+  "status": "awaiting-human-listening",
+  "files": [
+    {
+      "path": "voice/A-1.mp3",
+      "duration": 1.824,
+      "sha256": "048e43f709b847e98a34d4250f294045f206b4f98c560473058aaeeed21a6355"
+    },
+    {
+      "path": "voice/A-2.mp3",
+      "duration": 6.456,
+      "sha256": "90425840a33965ef770ecb04db25d9d09cd77588075fd6fd8486eaaf932794cf"
+    },
+    {
+      "path": "voice/A-3.mp3",
+      "duration": 5.808,
+      "sha256": "2df0641965d591949cc6af75da58ad5b9f752dfcdba39985edf067c8b2840772"
+    },
+    {
+      "path": "voice/B-1.mp3",
+      "duration": 2.112,
+      "sha256": "64565deaa67ba92eb468b952bf09b8371cbe74d5096b2eaaee342ca9ef7aebd8"
+    },
+    {
+      "path": "voice/B-2.mp3",
+      "duration": 6.72,
+      "sha256": "89f79b4aff4055663e0cc7b115e04b00f185e2fe51d6c4857008633e2abead66"
+    },
+    {
+      "path": "voice/B-3.mp3",
+      "duration": 5.928,
+      "sha256": "ea02f376e418f7c61ae7e537737b64b43ec281e93e5e6de58cbc39e0b8439a8c"
+    },
+    {
+      "path": "voice/C-1.mp3",
+      "duration": 1.824,
+      "sha256": "bd2265b06a653139148454a3ca60f584a4058b0b026aaf270defa741253c35a9"
+    },
+    {
+      "path": "voice/C-2.mp3",
+      "duration": 6.456,
+      "sha256": "9f895f116f52e6a60af9f54bf65de3279142b2580a047b457fcfa767ffe20c32"
+    },
+    {
+      "path": "voice/C-3.mp3",
+      "duration": 5.616,
+      "sha256": "72b85bd680b496e4b194cd03bf409b0101d4fabe68c7e4f5b4943f92ed90a670"
+    },
+    {
+      "path": "voice/D-1.mp3",
+      "duration": 2.424,
+      "sha256": "d271301392718f03f09f9d51990d4ccce1090e78cd0fe3222bdbaedaed505958"
+    },
+    {
+      "path": "voice/D-2.mp3",
+      "duration": 7.128,
+      "sha256": "f1f9f81f106c52f1e4fcc9159cc60338d79c1012cf0d79ede62bba6409f5de00"
+    },
+    {
+      "path": "voice/D-3.mp3",
+      "duration": 6.12,
+      "sha256": "b2db40fc5787260d27e439a6f66a7692de3848421d8e793a8079068657566e12"
+    },
+    {
+      "path": "voice/candidate-A.mp3",
+      "duration": 16.038,
+      "sha256": "b3b784c8aa1b16aafaf8d62d69141a1769df6d3bbe21a9f8b446cfc4e1d2b5f2"
+    },
+    {
+      "path": "voice/candidate-B.mp3",
+      "duration": 16.71,
+      "sha256": "0a0f5d66d79ef435f8c353a1f857a2ba57a8a4d687994d9400e7cb16072afed1"
+    },
+    {
+      "path": "voice/candidate-C.mp3",
+      "duration": 15.846,
+      "sha256": "7b555c1f3d7f4f69986e63218e8682585c3c5c7f9d7e002d07c77218c1f773a3"
+    },
+    {
+      "path": "voice/candidate-D.mp3",
+      "duration": 17.622,
+      "sha256": "dacd9a6f1bc05842988813e245f3b2ed2ef8c80f42789c112de269d2d67212db"
+    },
+    {
+      "path": "voice/sample-concept.mp3",
+      "duration": 6.744,
+      "sha256": "0598e3e82cffe2cb12d20d06750861f7033fb881811aada8e85773f78576bff0"
+    },
+    {
+      "path": "voice/sample-ending.mp3",
+      "duration": 2.808,
+      "sha256": "9e018c82931fd4cd09f58cd0a71805496166a0d20e150740db9e4f46e25c2a0e"
+    },
+    {
+      "path": "voice/sample-opening.mp3",
+      "duration": 2.448,
+      "sha256": "961149c9ba1a77f4a5e5f53cbe60f7e7852cbb29050619f5ed2e50c17f1b2361"
+    },
+    {
+      "path": "voice/sample-ui.mp3",
+      "duration": 6.504,
+      "sha256": "a02d987790914f1a9fa354f7fca069a4d1223c4af06f014cc369aab3075185c9"
+    }
+  ],
+  "note": "Audio generation and timing metadata do not prove pronunciation correctness."
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "documents",
+    "elapsed": 25.03,
+    "videoPath": "assets/recordings/page@abb2d91ddcf254eb698b54c5560cdaef.webm",
+    "duration": 24.828
+  },
+  {
+    "name": "question",
+    "elapsed": 26.325,
+    "videoPath": "assets/recordings/page@f471b2e68197a1277119e399988e4ec5.webm",
+    "duration": 26.124
+  },
+  {
+    "name": "answer",
+    "elapsed": 32.528,
+    "videoPath": "assets/recordings/page@9d59cc1892b65139655b3f787e15f3ad.webm",
+    "duration": 32.326
+  },
+  {
+    "name": "evidence",
+    "elapsed": 40.943,
+    "videoPath": "assets/recordings/page@6cb5caa37a8541eb894c1cc148f2bed5.webm",
+    "duration": 40.74
+  }
+]

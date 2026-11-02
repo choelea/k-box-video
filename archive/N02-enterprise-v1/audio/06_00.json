@@ -1,0 +1,176 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 2232080,
+    "text": "对于"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3290000,
+    "duration": 1450830,
+    "text": "这"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4741250,
+    "duration": 1673750,
+    "text": "辆"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6415000,
+    "duration": 2790000,
+    "text": "车"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12330410,
+    "duration": 4129580,
+    "text": "四十五"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16460000,
+    "duration": 2343750,
+    "text": "天"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18803750,
+    "duration": 2567080,
+    "text": "内"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22263330,
+    "duration": 3348330,
+    "text": "复发"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25723330,
+    "duration": 1227500,
+    "text": "落"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26950830,
+    "duration": 1450830,
+    "text": "在"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28625000,
+    "duration": 3125000,
+    "text": "九十"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31750000,
+    "duration": 1785830,
+    "text": "天"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33647500,
+    "duration": 4017500,
+    "text": "窗口"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37665000,
+    "duration": 1674160,
+    "text": "里"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41071250,
+    "duration": 3125000,
+    "text": "维修"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44307910,
+    "duration": 3794580,
+    "text": "建议"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48325830,
+    "duration": 1227500,
+    "text": "应"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49665000,
+    "duration": 3571250,
+    "text": "升级"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53236660,
+    "duration": 2790000,
+    "text": "为"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 56807910,
+    "duration": 3682910,
+    "text": "更换"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 60602500,
+    "duration": 3125000,
+    "text": "电池"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 63839160,
+    "duration": 2901660,
+    "text": "管理"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 66852500,
+    "duration": 3013330,
+    "text": "系统"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 69977500,
+    "duration": 5803750,
+    "text": "控制器"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 78571250,
+    "duration": 1674160,
+    "text": "而"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 80245410,
+    "duration": 2343750,
+    "text": "不是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 82812500,
+    "duration": 3460000,
+    "text": "重复"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 86495410,
+    "duration": 3460000,
+    "text": "软件"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 90067080,
+    "duration": 4799160,
+    "text": "升级"
+  }
+]

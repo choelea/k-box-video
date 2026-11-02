@@ -1,0 +1,158 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 1897500,
+    "text": "这"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2843750,
+    "duration": 1116250,
+    "text": "集"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4182910,
+    "duration": 1450830,
+    "text": "先"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5745410,
+    "duration": 4575830,
+    "text": "说明"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11102500,
+    "duration": 3571250,
+    "text": "为什么"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14785830,
+    "duration": 3906250,
+    "text": "需要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23772500,
+    "duration": 3571250,
+    "text": "后续"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27567080,
+    "duration": 2120410,
+    "text": "任务"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29799160,
+    "duration": 4687500,
+    "text": "实操"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37276660,
+    "duration": 1785830,
+    "text": "我们"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39174160,
+    "duration": 1339160,
+    "text": "会"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 40736660,
+    "duration": 3125000,
+    "text": "完整"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 43973330,
+    "duration": 5133750,
+    "text": "演示"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50000000,
+    "duration": 3236660,
+    "text": "如何"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53348330,
+    "duration": 1450830,
+    "text": "把"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54910830,
+    "duration": 2678750,
+    "text": "一批"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 57700830,
+    "duration": 4241250,
+    "text": "资料"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62835000,
+    "duration": 3682910,
+    "text": "建成"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 66741250,
+    "duration": 3236250,
+    "text": "可用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 69977500,
+    "duration": 892910,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71093750,
+    "duration": 2678750,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 73883750,
+    "duration": 4017910,
+    "text": "服务"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 80468750,
+    "duration": 1450830,
+    "text": "并"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 82031250,
+    "duration": 3682910,
+    "text": "验证"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 85937500,
+    "duration": 3236660,
+    "text": "实际"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 89285830,
+    "duration": 5133750,
+    "text": "效果"
+  }
+]

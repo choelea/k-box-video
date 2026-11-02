@@ -1,0 +1,13 @@
+{
+  "duration": 221.28,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": "25/1",
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "chapters": 8,
+  "size_mb": 16.23,
+  "full_decode": "passed"
+}

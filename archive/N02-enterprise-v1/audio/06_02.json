@@ -1,0 +1,128 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3682910,
+    "text": "这些"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4741250,
+    "duration": 1339160,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6192080,
+    "duration": 3236660,
+    "text": "根据"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9651660,
+    "duration": 1450830,
+    "text": "给"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11102500,
+    "duration": 1562500,
+    "text": "定"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12776660,
+    "duration": 4241250,
+    "text": "情境"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 17241250,
+    "duration": 2790000,
+    "text": "整理"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20031250,
+    "duration": 1562500,
+    "text": "出"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21593750,
+    "duration": 1116250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22932910,
+    "duration": 2567080,
+    "text": "建议"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25611660,
+    "duration": 4352500,
+    "text": "动作"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32977500,
+    "duration": 1116250,
+    "text": "不"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34093750,
+    "duration": 2790000,
+    "text": "代表"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36995410,
+    "duration": 5022500,
+    "text": "平台"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42241250,
+    "duration": 2455410,
+    "text": "已经"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44807910,
+    "duration": 3236660,
+    "text": "完成"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48044580,
+    "duration": 781250,
+    "text": "了"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49049160,
+    "duration": 4799160,
+    "text": "冻结"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55299160,
+    "duration": 4241250,
+    "text": "派单"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 59763330,
+    "duration": 1450830,
+    "text": "或"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 61325830,
+    "duration": 4575830,
+    "text": "通知"
+  }
+]

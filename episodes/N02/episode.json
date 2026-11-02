@@ -1,0 +1,25 @@
+{
+  "id": "N02",
+  "title": "已有文档系统和大模型，为什么还需要 K-BOX？",
+  "category": "认知与选型",
+  "status": "needs-review",
+  "duration_seconds": 272.228,
+  "target_duration_seconds": [
+    120,
+    420
+  ],
+  "product_version": "未记录；2026-11-01 演示环境",
+  "imported_on": "2026-11-02",
+  "video": "N02-企业场景版.mp4",
+  "script": "source/plan.json",
+  "reading_copy": "讲解稿.md",
+  "timeline": "source/timeline.json",
+  "pending": [
+    "新语境品牌词与整片音画同步待用户核听审阅"
+  ],
+  "notes": "已应用用户确认的 C 配音方案与深蓝金色模板；片头复用已确认同句音频，其余新语境待核听。真实问答与引用沿用已核验素材。",
+  "revision": 2,
+  "updated_on": "2026-11-02",
+  "brand_baseline": "0.1",
+  "previous_version": "../../archive/N02-enterprise-v1"
+}

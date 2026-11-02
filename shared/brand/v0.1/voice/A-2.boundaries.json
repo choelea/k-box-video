@@ -1,0 +1,98 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3571250,
+    "text": "欢迎"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4629580,
+    "duration": 3236660,
+    "text": "使用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8089160,
+    "duration": 1674160,
+    "text": "问"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9763330,
+    "duration": 1674160,
+    "text": "学"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11549160,
+    "duration": 2567080,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14227500,
+    "duration": 5022500,
+    "text": "平台"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24330410,
+    "duration": 4687500,
+    "text": "本期"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32031250,
+    "duration": 1785830,
+    "text": "我们"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33928750,
+    "duration": 1227500,
+    "text": "来"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35156250,
+    "duration": 1785830,
+    "text": "看"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37165000,
+    "duration": 2567080,
+    "text": "企业"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39843750,
+    "duration": 4799160,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 45535830,
+    "duration": 3571250,
+    "text": "怎样"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49218750,
+    "duration": 2901660,
+    "text": "支持"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52343750,
+    "duration": 2343750,
+    "text": "业务"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54799160,
+    "duration": 4575830,
+    "text": "判断"
+  }
+]

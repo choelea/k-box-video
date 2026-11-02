@@ -1,0 +1,23 @@
+{
+  "version": "0.1",
+  "created_on": "2026-11-02",
+  "voice_status": "approved",
+  "visual_status": "approved",
+  "sample_candidate": "C",
+  "selected_standard_audio": "voice/C-1.mp3",
+  "technical_checks": {
+    "sample_full_decode": "passed",
+    "candidate_audio_decode": 20,
+    "browser_playback_and_seeks": "passed",
+    "responsive_layout": "passed",
+    "source_media_lfs": 30,
+    "broken_document_links": 0
+  },
+  "existing_episode_videos_modified": false,
+  "selected_voice_candidate": "C",
+  "voice_approved_on": "2026-11-02",
+  "voice_confirmation": "C 的读音没有问题",
+  "visual_approved_on": "2026-11-02",
+  "visual_confirmation": "视觉也可以",
+  "overall_status": "approved"
+}

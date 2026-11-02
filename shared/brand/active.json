@@ -1,0 +1,12 @@
+{
+  "version": "0.1",
+  "status": "approved",
+  "approved_on": "2026-11-02",
+  "voice_candidate": "C",
+  "pronunciation_config": "../pronunciation.json",
+  "visual_tokens": "v0.1/visual/tokens.json",
+  "visual_template": "v0.1/visual/template.html",
+  "reference_sample": "v0.1/品牌风格样片.mp4",
+  "review_record": "v0.1/source/review-status.json",
+  "scope": "后续视频统一采用；新句子继续逐处核听，现有两条视频的修订单独记录。"
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "scene": "opening",
+    "viewport": [
+      1920,
+      1080
+    ],
+    "imagesLoaded": true,
+    "overflow": []
+  },
+  {
+    "scene": "concept",
+    "viewport": [
+      1920,
+      1080
+    ],
+    "imagesLoaded": true,
+    "overflow": []
+  },
+  {
+    "scene": "ui",
+    "viewport": [
+      1920,
+      1080
+    ],
+    "imagesLoaded": true,
+    "overflow": []
+  },
+  {
+    "scene": "ending",
+    "viewport": [
+      1920,
+      1080
+    ],
+    "imagesLoaded": true,
+    "overflow": []
+  }
+]

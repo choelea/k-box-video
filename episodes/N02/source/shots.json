@@ -1,0 +1,168 @@
+{
+  "basis": "speech-segment-and-subtitle-anchors",
+  "shots": [
+    {
+      "id": "intro",
+      "kind": "slide",
+      "start": 0,
+      "end": 16.646,
+      "frame": "brand-intro.png",
+      "start_frame": 0,
+      "end_frame": 416
+    },
+    {
+      "id": "case",
+      "kind": "slide",
+      "start": 16.646,
+      "end": 53.94,
+      "frame": "brand-case.png",
+      "start_frame": 416,
+      "end_frame": 1348
+    },
+    {
+      "id": "roles",
+      "kind": "slide",
+      "start": 53.94,
+      "end": 78.98400000000001,
+      "frame": "brand-roles.png",
+      "start_frame": 1348,
+      "end_frame": 1975
+    },
+    {
+      "id": "documents",
+      "kind": "record",
+      "start": 78.98400000000001,
+      "end": 103.81200000000001,
+      "record": "documents",
+      "frame": "brand-ui-documents.png",
+      "start_frame": 1975,
+      "end_frame": 2595
+    },
+    {
+      "id": "question",
+      "kind": "record",
+      "start": 103.81200000000001,
+      "end": 129.936,
+      "record": "question",
+      "frame": "brand-ui-question.png",
+      "start_frame": 2595,
+      "end_frame": 3248
+    },
+    {
+      "id": "search",
+      "kind": "live",
+      "start": 129.936,
+      "end": 152.844,
+      "frame": "brand-ui-search.png",
+      "start_frame": 3248,
+      "end_frame": 3821
+    },
+    {
+      "id": "answer-repair",
+      "kind": "still",
+      "start": 152.844,
+      "end": 163.196625,
+      "source": "record-answer-repair.png",
+      "frame": "brand-ui-answer-repair.png",
+      "start_frame": 3821,
+      "end_frame": 4080
+    },
+    {
+      "id": "answer-batch",
+      "kind": "still",
+      "start": 163.196625,
+      "end": 185.17000000000002,
+      "source": "record-answer-batch.png",
+      "frame": "brand-ui-answer-batch.png",
+      "start_frame": 4080,
+      "end_frame": 4629
+    },
+    {
+      "id": "evidence-repair",
+      "kind": "still",
+      "start": 185.17000000000002,
+      "end": 189.63891600000002,
+      "source": "record-evidence-repair.png",
+      "frame": "brand-ui-evidence-repair.png",
+      "start_frame": 4629,
+      "end_frame": 4741
+    },
+    {
+      "id": "evidence-threshold",
+      "kind": "still",
+      "start": 189.63891600000002,
+      "end": 196.82662500000004,
+      "source": "record-evidence-threshold.png",
+      "frame": "brand-ui-evidence-threshold.png",
+      "start_frame": 4741,
+      "end_frame": 4921
+    },
+    {
+      "id": "evidence-seven",
+      "kind": "still",
+      "start": 196.82662500000004,
+      "end": 203.93066600000003,
+      "source": "record-evidence-seven.png",
+      "frame": "brand-ui-evidence-seven.png",
+      "start_frame": 4921,
+      "end_frame": 5098
+    },
+    {
+      "id": "evidence-three",
+      "kind": "still",
+      "start": 203.93066600000003,
+      "end": 210.03662500000004,
+      "source": "record-evidence-three.png",
+      "frame": "brand-ui-evidence-three.png",
+      "start_frame": 5098,
+      "end_frame": 5251
+    },
+    {
+      "id": "evidence-ten",
+      "kind": "still",
+      "start": 210.03662500000004,
+      "end": 216.63841600000003,
+      "source": "record-evidence-ten.png",
+      "frame": "brand-ui-evidence-ten.png",
+      "start_frame": 5251,
+      "end_frame": 5416
+    },
+    {
+      "id": "evidence-supplier",
+      "kind": "still",
+      "start": 216.63841600000003,
+      "end": 225.95862500000004,
+      "source": "record-evidence-supplier.png",
+      "frame": "brand-ui-evidence-supplier.png",
+      "start_frame": 5416,
+      "end_frame": 5649
+    },
+    {
+      "id": "limits",
+      "kind": "slide",
+      "start": 225.95862500000004,
+      "end": 239.68200000000004,
+      "frame": "brand-limits.png",
+      "start_frame": 5649,
+      "end_frame": 5992
+    },
+    {
+      "id": "decision",
+      "kind": "slide",
+      "start": 239.68200000000004,
+      "end": 268.228,
+      "frame": "brand-decision.png",
+      "start_frame": 5992,
+      "end_frame": 6706
+    },
+    {
+      "id": "ending",
+      "kind": "slide",
+      "start": 268.228,
+      "end": 272.228,
+      "frame": "brand-ending.png",
+      "start_frame": 6706,
+      "end_frame": 6806
+    }
+  ]
+}

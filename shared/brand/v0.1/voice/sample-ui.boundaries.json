@@ -1,0 +1,92 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 2232080,
+    "text": "先"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3178750,
+    "duration": 1785830,
+    "text": "看"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5075830,
+    "duration": 4017910,
+    "text": "结论"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11214160,
+    "duration": 1450830,
+    "text": "再"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12776660,
+    "duration": 3013330,
+    "text": "打开"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15901660,
+    "duration": 4017910,
+    "text": "引用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22598330,
+    "duration": 3125000,
+    "text": "逐项"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25835000,
+    "duration": 3571250,
+    "text": "核对"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29629580,
+    "duration": 3236660,
+    "text": "维修"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32977500,
+    "duration": 4799160,
+    "text": "规则"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39674160,
+    "duration": 3236660,
+    "text": "批次"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 43022500,
+    "duration": 4799160,
+    "text": "阈值"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48714160,
+    "duration": 1674160,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50500000,
+    "duration": 4687500,
+    "text": "工作日"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55299160,
+    "duration": 4575830,
+    "text": "期限"
+  }
+]

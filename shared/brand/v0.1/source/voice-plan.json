@@ -1,0 +1,75 @@
+{
+  "version": "0.1",
+  "status": "approved",
+  "formal_probes": [
+    "问学知识平台。",
+    "欢迎使用问学知识平台。本期，我们来看企业知识怎样支持业务判断。",
+    "企业已经有文档系统，也接入了大模型，为什么还需要问学知识平台？"
+  ],
+  "candidates": [
+    {
+      "id": "A",
+      "label": "现有女声 · 原始写法",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "+12%",
+      "brand_input": "问学知识平台",
+      "purpose": "原始输入对照，不视为标准音"
+    },
+    {
+      "id": "B",
+      "label": "现有女声 · 品牌后分句",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "+12%",
+      "brand_input": "问学，知识平台",
+      "purpose": "只在问学之后提供语气边界；须核听品牌内部连读及外部停顿是否自然"
+    },
+    {
+      "id": "C",
+      "label": "现有女声 · 品牌加引号",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "+12%",
+      "brand_input": "“问学”知识平台",
+      "purpose": "验证引号能否改善品牌切分，不预设有效"
+    },
+    {
+      "id": "D",
+      "label": "男声对照 · 品牌后分句",
+      "voice": "zh-CN-YunxiNeural",
+      "rate": "+12%",
+      "brand_input": "问学，知识平台",
+      "purpose": "比较换音色的听感；不预设男声更准确"
+    }
+  ],
+  "sample": {
+    "candidate": "C",
+    "notice": "用户已确认 C 读音和视觉风格，作为后续视频统一制作基线。",
+    "lines": [
+      {
+        "id": "opening",
+        "display": "欢迎使用问学知识平台。",
+        "speech": "欢迎使用“问学”知识平台。"
+      },
+      {
+        "id": "concept",
+        "display": "这一集，我们从企业售后场景出发，看看三份制度怎样共同支持一次业务判断。",
+        "speech": "这一集，我们从企业售后场景出发，看看三份制度怎样共同支持一次业务判断。"
+      },
+      {
+        "id": "ui",
+        "display": "先看结论，再打开引用，逐项核对维修规则、批次阈值和工作日期限。",
+        "speech": "先看结论，再打开引用，逐项核对维修规则、批次阈值和工作日期限。"
+      },
+      {
+        "id": "ending",
+        "display": "让企业知识，持续服务业务。",
+        "speech": "让企业知识，持续服务业务。"
+      }
+    ]
+  },
+  "voice_review": {
+    "candidate": "C",
+    "status": "approved",
+    "date": "2026-11-02",
+    "confirmation": "C 的读音没有问题"
+  }
+}

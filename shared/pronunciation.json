@@ -1,0 +1,28 @@
+{
+  "brand": {
+    "display": "问学知识平台",
+    "unit": "问学",
+    "instruction": "问学自然连读，再顺畅接知识平台；品牌内部不停顿",
+    "reference_audio": "brand/v0.1/voice/C-1.mp3",
+    "review_status": "approved",
+    "selected_candidate": "C",
+    "approved_on": "2026-11-02",
+    "context_reference_audio": "brand/v0.1/voice/candidate-C.mp3"
+  },
+  "legacy_voice": {
+    "engine": "edge-tts",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "+12%"
+  },
+  "selected": {
+    "version": "0.1",
+    "review_page": "brand/v0.1/试看.html",
+    "voice_plan": "brand/v0.1/source/voice-plan.json",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "+12%",
+    "speech_brand_input": "“问学”知识平台",
+    "status": "approved",
+    "note": "用户确认 C 的读音没有问题；作为后续配音方案，旧视频仍待修正。",
+    "selected_candidate": "C"
+  }
+}

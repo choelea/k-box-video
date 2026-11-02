@@ -1,0 +1,38 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 1897500,
+    "text": "让"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3067080,
+    "duration": 2567080,
+    "text": "企业"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5745410,
+    "duration": 4799160,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12218750,
+    "duration": 3460000,
+    "text": "持续"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15790000,
+    "duration": 2790000,
+    "text": "服务"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18692080,
+    "duration": 4129580,
+    "text": "业务"
+  }
+]

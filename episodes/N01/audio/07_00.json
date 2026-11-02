@@ -1,0 +1,146 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 1897500,
+    "text": "这"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2843750,
+    "duration": 1339160,
+    "text": "就"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4182910,
+    "duration": 1116250,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5522500,
+    "duration": 1785410,
+    "text": "问"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7307910,
+    "duration": 1897500,
+    "text": "学"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9317080,
+    "duration": 2790000,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12218750,
+    "duration": 3571250,
+    "text": "平台"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15790000,
+    "duration": 892910,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16906250,
+    "duration": 3013330,
+    "text": "基础"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20031250,
+    "duration": 4687500,
+    "text": "介绍"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29799160,
+    "duration": 2232080,
+    "text": "从"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32254580,
+    "duration": 2567080,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34932910,
+    "duration": 2567080,
+    "text": "治理"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37611660,
+    "duration": 4575830,
+    "text": "出发"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44866250,
+    "duration": 1562500,
+    "text": "为"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 46540000,
+    "duration": 5357080,
+    "text": "智能体"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52120410,
+    "duration": 1227500,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53460000,
+    "duration": 2790000,
+    "text": "业务"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 56361660,
+    "duration": 4352500,
+    "text": "应用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62611660,
+    "duration": 3348330,
+    "text": "提供"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 66182910,
+    "duration": 3571250,
+    "text": "可信"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 69754580,
+    "duration": 892910,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 70870410,
+    "duration": 3013330,
+    "text": "企业"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 73995410,
+    "duration": 4687500,
+    "text": "知识"
+  }
+]

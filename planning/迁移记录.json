@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-02",
+  "projects": [
+    {
+      "episode": "episodes/N01",
+      "media_files": 90,
+      "duration_seconds": 231.04,
+      "original_video_sha256": "02b5d59361cef20a62e0c3e9703df9df7789aeb8a92958c079d63ba9c9324e21",
+      "copied_video_sha256": "02b5d59361cef20a62e0c3e9703df9df7789aeb8a92958c079d63ba9c9324e21",
+      "repository_verification": {
+        "episode": "episodes/N01",
+        "duration_seconds": 231.04,
+        "media_files": 90,
+        "asset_hashes": "passed",
+        "decode": "passed",
+        "pending_content_review": [
+          "问学知识平台品牌连读需修正并核听"
+        ]
+      }
+    },
+    {
+      "episode": "episodes/N02",
+      "media_files": 93,
+      "duration_seconds": 272.32,
+      "original_video_sha256": "3d2a8a537180055a2eaac22fd507fa541a018fbe80bee13dedb989c17864f178",
+      "copied_video_sha256": "3d2a8a537180055a2eaac22fd507fa541a018fbe80bee13dedb989c17864f178",
+      "repository_verification": {
+        "episode": "episodes/N02",
+        "duration_seconds": 272.32,
+        "media_files": 92,
+        "asset_hashes": "passed",
+        "decode": "passed",
+        "pending_content_review": [
+          "问学知识平台品牌连读需修正并核听"
+        ]
+      }
+    },
+    {
+      "episode": "archive/N02-movie",
+      "media_files": 88,
+      "duration_seconds": 221.28,
+      "original_video_sha256": "6e5366d049cf5d96b2a2bfb2d83ac65d5757c1cce56e9162dc6b884c8af11ec4",
+      "copied_video_sha256": "6e5366d049cf5d96b2a2bfb2d83ac65d5757c1cce56e9162dc6b884c8af11ec4",
+      "repository_verification": {
+        "episode": "archive/N02-movie",
+        "duration_seconds": 221.28,
+        "media_files": 87,
+        "asset_hashes": "passed",
+        "decode": "passed",
+        "pending_content_review": []
+      }
+    }
+  ],
+  "originals_preserved": true,
+  "verification": {
+    "media_lfs_attributes": "passed",
+    "ignored_source_assets": 0,
+    "credential_scan": "passed",
+    "stale_chat_paths": 0,
+    "source_syntax": "passed",
+    "N02_offline_render": "passed",
+    "N02_browser_playback_and_seeks": "passed",
+    "brand_pronunciation": "pending"
+  }
+}

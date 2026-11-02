@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "duration": 272.24,
+    "width": 1920,
+    "height": 1080,
+    "error": null
+  },
+  "seeks": [
+    {
+      "time": 78.984,
+      "playing": true,
+      "error": null,
+      "target": 78.98400000000001
+    },
+    {
+      "time": 130.696425,
+      "playing": true,
+      "error": null,
+      "target": 129.936
+    },
+    {
+      "time": 240.790595,
+      "playing": true,
+      "error": null,
+      "target": 239.68200000000004
+    }
+  ]
+}
