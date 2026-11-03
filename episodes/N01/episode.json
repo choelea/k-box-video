@@ -3,19 +3,23 @@
   "title": "基础介绍",
   "category": "认知与选型",
   "status": "needs-review",
-  "duration_seconds": 231.04,
+  "duration_seconds": 232.04,
   "target_duration_seconds": [
     120,
     420
   ],
-  "product_version": "未记录；2026-11-01 演示环境",
+  "product_version": "2026-11-03 官网六页公开内容快照；线上页面未披露精确提交号",
   "imported_on": "2026-11-02",
   "video": "问学知识平台-基础介绍.mp4",
   "script": "source/plan.json",
   "reading_copy": "讲解稿.md",
   "timeline": "source/timeline.json",
   "pending": [
-    "问学知识平台品牌连读需修正并核听"
+    "三处品牌词的新语境及整片音画同步待用户核听审阅"
   ],
-  "notes": "已制作试片，尚未修正品牌读音；迁移不等于发布或重新审批。"
+  "notes": "v3 按用户纠正区分上位品牌问学与产品 K-BOX / 问学知识平台；定位句使用产品全称，重做对应配音、字幕与时间线。",
+  "revision": 3,
+  "updated_on": "2026-11-03",
+  "brand_baseline": "0.1",
+  "previous_revision": "archive/N01-intro-v2"
 }

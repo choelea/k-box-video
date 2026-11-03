@@ -1,0 +1,230 @@
+[
+  {
+    "id": "positioning",
+    "videoPath": "assets/recordings/page@64e3c0fd1b42eb126bcd31baa812f04a.webm",
+    "elapsed": 31.673,
+    "chapter_duration": 31.520000000000003,
+    "events": [
+      {
+        "type": "focus",
+        "selector": ".architecture-core-row",
+        "time": 0.096
+      },
+      {
+        "type": "focus",
+        "selector": ".architecture-source-row",
+        "time": 8.594
+      },
+      {
+        "type": "focus",
+        "selector": ".architecture-app-row",
+        "time": 16.578
+      },
+      {
+        "type": "focus",
+        "selector": ".architecture-core-row",
+        "time": 24.044
+      }
+    ],
+    "captured_on": "2026-11-03",
+    "source": "https://kbox.dcsmartvision.com/wiki/positioning",
+    "sync": {
+      "method": "observed screenshot state transitions minus recorded action times",
+      "start_seconds": 1.814,
+      "spread_seconds": 0.016,
+      "sampling_fps": 10
+    }
+  },
+  {
+    "id": "capabilities",
+    "videoPath": "assets/recordings/page@98ff29efb6cdf50cb756c8ac4493b3e1.webm",
+    "elapsed": 46.738,
+    "chapter_duration": 46.587999999999994,
+    "events": [
+      {
+        "type": "focus",
+        "selector": ".asset-card:nth-child(1)",
+        "time": 3.655
+      },
+      {
+        "type": "focus",
+        "selector": ".asset-card:nth-child(2)",
+        "time": 12.78
+      },
+      {
+        "type": "focus",
+        "selector": ".asset-card:nth-child(3)",
+        "time": 21.358
+      },
+      {
+        "type": "focus",
+        "selector": ".asset-card:nth-child(4)",
+        "time": 29.286
+      },
+      {
+        "type": "focus",
+        "selector": ".pillar-grid",
+        "time": 38.473
+      }
+    ],
+    "captured_on": "2026-11-03",
+    "source": "https://kbox.dcsmartvision.com/wiki/capabilities",
+    "sync": {
+      "method": "observed screenshot state transitions minus recorded action times",
+      "start_seconds": 1.827,
+      "spread_seconds": 0.031,
+      "sampling_fps": 10
+    }
+  },
+  {
+    "id": "consumption",
+    "videoPath": "assets/recordings/page@efb0c2eb1e381b4681e43fe95bfa261f.webm",
+    "elapsed": 31.407,
+    "chapter_duration": 31.256,
+    "events": [
+      {
+        "type": "focus",
+        "selector": ".consumption-path:nth-child(1)",
+        "time": 5.487
+      },
+      {
+        "type": "focus",
+        "selector": ".consumption-path:nth-child(2)",
+        "time": 14.098
+      },
+      {
+        "type": "focus",
+        "selector": ".consumption-path:nth-child(3)",
+        "time": 22.821
+      }
+    ],
+    "captured_on": "2026-11-03",
+    "source": "https://kbox.dcsmartvision.com/wiki/consumption",
+    "sync": {
+      "method": "observed screenshot state transitions minus recorded action times",
+      "start_seconds": 1.579,
+      "spread_seconds": 0.089,
+      "sampling_fps": 10
+    }
+  },
+  {
+    "id": "scenarios",
+    "videoPath": "assets/recordings/page@356e5f1caccda22754a4b779e0f7dd09.webm",
+    "elapsed": 40.056,
+    "chapter_duration": 39.906000000000006,
+    "events": [
+      {
+        "type": "focus",
+        "selector": ".scenario-card:nth-child(1)",
+        "time": 4.866
+      },
+      {
+        "type": "focus",
+        "selector": ".scenario-card:nth-child(2)",
+        "time": 13.597
+      },
+      {
+        "type": "focus",
+        "selector": ".scenario-card:nth-child(3)",
+        "time": 19.991
+      },
+      {
+        "type": "focus",
+        "selector": ".scenario-card:nth-child(4)",
+        "time": 29.89
+      }
+    ],
+    "captured_on": "2026-11-03",
+    "source": "https://kbox.dcsmartvision.com/wiki/scenarios",
+    "sync": {
+      "method": "observed screenshot state transitions minus recorded action times",
+      "start_seconds": 2.009,
+      "spread_seconds": 0.031,
+      "sampling_fps": 10
+    }
+  },
+  {
+    "id": "enterprise",
+    "videoPath": "assets/recordings/page@c012f98d12f7181bffad848f072ded01.webm",
+    "elapsed": 29.161,
+    "chapter_duration": 29.00999999999999,
+    "events": [
+      {
+        "type": "focus",
+        "selector": ".enterprise-list > div:nth-child(1)",
+        "time": 3.5
+      },
+      {
+        "type": "focus",
+        "selector": ".enterprise-list > div:nth-child(2)",
+        "time": 9.033
+      },
+      {
+        "type": "focus",
+        "selector": ".enterprise-list > div:nth-child(3)",
+        "time": 15.071
+      },
+      {
+        "type": "focus",
+        "selector": ".enterprise-list > div:nth-child(4)",
+        "time": 21.729
+      }
+    ],
+    "captured_on": "2026-11-03",
+    "source": "https://kbox.dcsmartvision.com/wiki/enterprise",
+    "sync": {
+      "method": "observed screenshot state transitions minus recorded action times",
+      "start_seconds": 1.569,
+      "spread_seconds": 0.171,
+      "sampling_fps": 10
+    }
+  },
+  {
+    "id": "docs",
+    "videoPath": "assets/recordings/page@6f116751ed3e60d8252cc9333c76e959.webm",
+    "elapsed": 33.015,
+    "chapter_duration": 32.864000000000004,
+    "events": [
+      {
+        "type": "scroll",
+        "selector": "#quick-start",
+        "time": 5.646
+      },
+      {
+        "type": "focus",
+        "selector": ".docs-choice",
+        "time": 5.902
+      },
+      {
+        "type": "scroll",
+        "selector": "#product-guides",
+        "time": 15.204
+      },
+      {
+        "type": "scroll",
+        "selector": "#api-reference",
+        "time": 18.023
+      },
+      {
+        "type": "scroll",
+        "selector": "#deployment",
+        "time": 20.424
+      },
+      {
+        "type": "scroll",
+        "selector": ".quick-start-grid",
+        "time": 24.237
+      },
+      {
+        "type": "focus",
+        "selector": ".quick-start-card:nth-child(2)",
+        "time": 24.495
+      }
+    ],
+    "captured_on": "2026-11-03",
+    "source": "https://kbox.dcsmartvision.com/wiki/docs",
+    "sync": {
+      "method": "recording retained; still captures aligned to spoken clauses for readable sections"
+    }
+  }
+]

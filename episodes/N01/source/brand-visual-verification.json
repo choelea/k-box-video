@@ -1,0 +1,34 @@
+[
+  {
+    "scene": "intro",
+    "overflow": []
+  },
+  {
+    "scene": "outro",
+    "overflow": []
+  },
+  {
+    "scene": "positioning",
+    "overflow": []
+  },
+  {
+    "scene": "capabilities",
+    "overflow": []
+  },
+  {
+    "scene": "consumption",
+    "overflow": []
+  },
+  {
+    "scene": "scenarios",
+    "overflow": []
+  },
+  {
+    "scene": "enterprise",
+    "overflow": []
+  },
+  {
+    "scene": "docs",
+    "overflow": []
+  }
+]

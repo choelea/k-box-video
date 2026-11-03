@@ -1,0 +1,134 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 2343750,
+    "text": "如果"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3401660,
+    "duration": 2901660,
+    "text": "希望"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6415000,
+    "duration": 3460000,
+    "text": "员工"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10098330,
+    "duration": 3236660,
+    "text": "快速"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13446250,
+    "duration": 1897500,
+    "text": "查"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15455410,
+    "duration": 4241250,
+    "text": "制度"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21258750,
+    "duration": 1674160,
+    "text": "读"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22932910,
+    "duration": 4687500,
+    "text": "手册"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30633750,
+    "duration": 1674160,
+    "text": "先"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32307910,
+    "duration": 1339160,
+    "text": "从"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33870410,
+    "duration": 2901660,
+    "text": "现有"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36883750,
+    "duration": 3236660,
+    "text": "文档"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 40232080,
+    "duration": 4910830,
+    "text": "检索"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 46035830,
+    "duration": 1339160,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47486660,
+    "duration": 2678750,
+    "text": "智能"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50276660,
+    "duration": 3013330,
+    "text": "问答"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53401660,
+    "duration": 4687500,
+    "text": "开始"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 60156250,
+    "duration": 3794580,
+    "text": "验证"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 64062500,
+    "duration": 4129580,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 68415000,
+    "duration": 3348330,
+    "text": "能否"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71875000,
+    "duration": 3236660,
+    "text": "支撑"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 75223330,
+    "duration": 4575830,
+    "text": "回答"
+  }
+]

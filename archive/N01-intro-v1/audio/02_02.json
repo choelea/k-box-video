@@ -1,0 +1,134 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3125000,
+    "text": "第二"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4071250,
+    "duration": 2567080,
+    "text": "类"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6861660,
+    "duration": 1450830,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8424160,
+    "duration": 2790000,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11325830,
+    "duration": 6250000,
+    "text": "图谱库"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22656250,
+    "duration": 3460000,
+    "text": "抽取"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26339160,
+    "duration": 3236660,
+    "text": "文档"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29575830,
+    "duration": 1227500,
+    "text": "中"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30803750,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31807910,
+    "duration": 3348330,
+    "text": "实体"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35267910,
+    "duration": 1004580,
+    "text": "与"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36383750,
+    "duration": 4575830,
+    "text": "关系"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 43973330,
+    "duration": 3460000,
+    "text": "支持"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47656250,
+    "duration": 2678750,
+    "text": "关系"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50446250,
+    "duration": 5357080,
+    "text": "查询"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 57254580,
+    "duration": 1785410,
+    "text": "跨"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 59040000,
+    "duration": 3013330,
+    "text": "文档"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62165000,
+    "duration": 4799160,
+    "text": "关联"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 67857080,
+    "duration": 1674160,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 69642910,
+    "duration": 1562500,
+    "text": "多"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71205410,
+    "duration": 1674160,
+    "text": "跳"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 72991250,
+    "duration": 4910830,
+    "text": "探索"
+  }
+]

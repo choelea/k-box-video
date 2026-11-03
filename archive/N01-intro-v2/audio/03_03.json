@@ -1,0 +1,134 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 1339160,
+    "text": "也"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2397500,
+    "duration": 2120410,
+    "text": "可以"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4517910,
+    "duration": 1339160,
+    "text": "把"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6080410,
+    "duration": 3459580,
+    "text": "选定"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9540000,
+    "duration": 1004580,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10767910,
+    "duration": 2455410,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13335000,
+    "duration": 4910830,
+    "text": "资源"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19138330,
+    "duration": 1785830,
+    "text": "或"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21035830,
+    "duration": 2901660,
+    "text": "数据"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24049160,
+    "duration": 4799160,
+    "text": "主题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29629580,
+    "duration": 3682910,
+    "text": "封装"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33424160,
+    "duration": 1562500,
+    "text": "为"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34986660,
+    "duration": 4575830,
+    "text": "Skill"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41629580,
+    "duration": 1897500,
+    "text": "让"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 43638330,
+    "duration": 5915000,
+    "text": "智能体"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49776660,
+    "duration": 2790000,
+    "text": "按照"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52790000,
+    "duration": 2567080,
+    "text": "使用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55468750,
+    "duration": 5022500,
+    "text": "说明"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 60714160,
+    "duration": 1562500,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62388330,
+    "duration": 3460000,
+    "text": "工具"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 65960000,
+    "duration": 3236660,
+    "text": "流程"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 69307910,
+    "duration": 4241250,
+    "text": "调用"
+  }
+]

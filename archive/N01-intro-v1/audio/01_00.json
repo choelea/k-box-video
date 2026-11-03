@@ -1,0 +1,116 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 4575830,
+    "text": "首先"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5745410,
+    "duration": 1785830,
+    "text": "看"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7531250,
+    "duration": 7812500,
+    "text": "产品定位"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20424160,
+    "duration": 1785830,
+    "text": "问"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22321250,
+    "duration": 3460000,
+    "text": "学位"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25781250,
+    "duration": 1897500,
+    "text": "于"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27901660,
+    "duration": 2901660,
+    "text": "企业"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30915000,
+    "duration": 3682910,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34821250,
+    "duration": 1116250,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36049160,
+    "duration": 5357080,
+    "text": "上层"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42299160,
+    "duration": 4464160,
+    "text": "智能体"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 46875000,
+    "duration": 4017910,
+    "text": "之间"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53348330,
+    "duration": 3348330,
+    "text": "承担"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 56919580,
+    "duration": 2567080,
+    "text": "企业"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 59598330,
+    "duration": 4129580,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 63950830,
+    "duration": 3348330,
+    "text": "就绪"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 67299160,
+    "duration": 1562500,
+    "text": "层"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 68861660,
+    "duration": 669580,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 69642910,
+    "duration": 4687500,
+    "text": "角色"
+  }
+]

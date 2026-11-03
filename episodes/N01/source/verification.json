@@ -1,5 +1,6 @@
 {
-  "duration": 231.04,
+  "revision": 3,
+  "duration": 232.04,
   "resolution": [
     1920,
     1080
@@ -7,8 +8,11 @@
   "fps": "25/1",
   "video_codec": "h264",
   "audio_codec": "aac",
-  "audio_channels": 1,
   "chapters": 8,
-  "size_mb": 17.21,
-  "full_decode": "passed"
+  "size_mb": 11.46,
+  "full_decode": "passed",
+  "subtitle_semantic_chunks": "passed",
+  "continuous_shot_frames": "passed",
+  "brand_occurrences": 3,
+  "brand_treatment": "approved-C treatment applied; three N01 contexts require listening"
 }

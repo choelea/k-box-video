@@ -1,0 +1,6 @@
+{
+  "revision": 3,
+  "integrated_lufs": -16.08,
+  "true_peak_dbtp": -1.68,
+  "source": "decoded final AAC stream, FFmpeg loudnorm input measurement"
+}

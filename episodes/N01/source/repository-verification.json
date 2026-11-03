@@ -1,10 +1,10 @@
 {
   "episode": "episodes/N01",
-  "duration_seconds": 231.04,
-  "media_files": 90,
+  "duration_seconds": 232.04,
+  "media_files": 153,
   "asset_hashes": "passed",
   "decode": "passed",
   "pending_content_review": [
-    "问学知识平台品牌连读需修正并核听"
+    "三处品牌词的新语境及整片音画同步待用户核听审阅"
   ]
 }

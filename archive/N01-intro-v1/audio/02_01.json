@@ -1,0 +1,122 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 5468750,
+    "text": "第一类"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6638330,
+    "duration": 1339160,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8089160,
+    "duration": 3236660,
+    "text": "文档"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11437500,
+    "duration": 5468750,
+    "text": "知识库"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21986660,
+    "duration": 2901660,
+    "text": "通过"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25111660,
+    "duration": 4910830,
+    "text": "解析"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31585000,
+    "duration": 5245410,
+    "text": "切片"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37723330,
+    "duration": 1339160,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39062500,
+    "duration": 1562500,
+    "text": "向"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 40736660,
+    "duration": 4241250,
+    "text": "量化"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47991250,
+    "duration": 1562500,
+    "text": "让"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49665000,
+    "duration": 2567080,
+    "text": "企业"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52343750,
+    "duration": 4352500,
+    "text": "文档"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 57589160,
+    "duration": 2232080,
+    "text": "可以"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 59932910,
+    "duration": 1674160,
+    "text": "被"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 61830410,
+    "duration": 2343750,
+    "text": "语义"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 64285830,
+    "duration": 5022500,
+    "text": "检索"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71205410,
+    "duration": 1450830,
+    "text": "并"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 72767910,
+    "duration": 2901660,
+    "text": "回到"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 75892910,
+    "duration": 7589160,
+    "text": "原文核验"
+  }
+]

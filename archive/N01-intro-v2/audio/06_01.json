@@ -1,0 +1,134 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3460000,
+    "text": "快速"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4517910,
+    "duration": 4799160,
+    "text": "开始"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10098330,
+    "duration": 1339160,
+    "text": "按"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11549160,
+    "duration": 3125000,
+    "text": "目标"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14785830,
+    "duration": 3348330,
+    "text": "提供"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18357080,
+    "duration": 3013330,
+    "text": "操作"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21482080,
+    "duration": 3906250,
+    "text": "路线"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28067080,
+    "duration": 2232080,
+    "text": "可以"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30410830,
+    "duration": 2008750,
+    "text": "从"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32419580,
+    "duration": 4352500,
+    "text": "知识库"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36883750,
+    "duration": 4241250,
+    "text": "问答"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42799160,
+    "duration": 4799160,
+    "text": "百科"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49495410,
+    "duration": 5133750,
+    "text": "图谱"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55522500,
+    "duration": 1674160,
+    "text": "或"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 57307910,
+    "duration": 2901660,
+    "text": "数据"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 60321250,
+    "duration": 3460000,
+    "text": "洞察"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 63781250,
+    "duration": 2343750,
+    "text": "中"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 68080410,
+    "duration": 3460000,
+    "text": "选择"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71651660,
+    "duration": 4352500,
+    "text": "一条"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 76785830,
+    "duration": 3125000,
+    "text": "完成"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 80133750,
+    "duration": 3682910,
+    "text": "首次"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 83928750,
+    "duration": 4017910,
+    "text": "验证"
+  }
+]

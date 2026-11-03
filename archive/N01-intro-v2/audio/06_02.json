@@ -1,0 +1,128 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3682910,
+    "text": "产品"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4741250,
+    "duration": 4352500,
+    "text": "指南"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9986660,
+    "duration": 3348330,
+    "text": "帮助"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13446250,
+    "duration": 3236660,
+    "text": "确认"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16794580,
+    "duration": 2790000,
+    "text": "能力"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19807910,
+    "duration": 1116250,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21035830,
+    "duration": 4687500,
+    "text": "边界"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28513330,
+    "duration": 5133750,
+    "text": "API"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33758750,
+    "duration": 3794580,
+    "text": "参考"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37665000,
+    "duration": 3460000,
+    "text": "面向"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41348330,
+    "duration": 2678750,
+    "text": "系统"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44138330,
+    "duration": 4799160,
+    "text": "集成"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50892910,
+    "duration": 2901660,
+    "text": "部署"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53906250,
+    "duration": 4687500,
+    "text": "运维"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 59486660,
+    "duration": 1897500,
+    "text": "则"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 61495410,
+    "duration": 2678750,
+    "text": "覆盖"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 64397500,
+    "duration": 3236660,
+    "text": "环境"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 67745410,
+    "duration": 4241250,
+    "text": "准备"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 72767910,
+    "duration": 1227500,
+    "text": "与"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 74107080,
+    "duration": 3682910,
+    "text": "上线"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 77901660,
+    "duration": 4799160,
+    "text": "检查"
+  }
+]

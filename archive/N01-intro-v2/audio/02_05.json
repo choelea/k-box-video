@@ -1,0 +1,116 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 2232080,
+    "text": "四"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3178750,
+    "duration": 1450830,
+    "text": "类"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4741250,
+    "duration": 4017910,
+    "text": "资产"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8982080,
+    "duration": 3460000,
+    "text": "共享"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12553750,
+    "duration": 2455410,
+    "text": "治理"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15120410,
+    "duration": 4464160,
+    "text": "入口"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22151660,
+    "duration": 1674160,
+    "text": "由"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24049160,
+    "duration": 2678750,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26839160,
+    "duration": 4129580,
+    "text": "治理"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32866250,
+    "duration": 2120410,
+    "text": "双"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34986660,
+    "duration": 2901660,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38111660,
+    "duration": 2567080,
+    "text": "服务"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 40790000,
+    "duration": 5357080,
+    "text": "引擎"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47040000,
+    "duration": 1450830,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48602500,
+    "duration": 3460000,
+    "text": "可信"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52174160,
+    "duration": 4352500,
+    "text": "供给"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 58758750,
+    "duration": 3906250,
+    "text": "形成"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62888330,
+    "duration": 3460000,
+    "text": "完整"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 66460000,
+    "duration": 3906250,
+    "text": "链路"
+  }
+]

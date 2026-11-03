@@ -1,0 +1,25 @@
+{
+  "id": "N01",
+  "title": "基础介绍",
+  "category": "认知与选型",
+  "status": "archived",
+  "duration_seconds": 231.4,
+  "target_duration_seconds": [
+    120,
+    420
+  ],
+  "product_version": "2026-11-03 官网六页公开内容快照；线上页面未披露精确提交号",
+  "imported_on": "2026-11-02",
+  "video": "问学知识平台-基础介绍.mp4",
+  "script": "source/plan.json",
+  "reading_copy": "讲解稿.md",
+  "timeline": "source/timeline.json",
+  "pending": [
+    "三处品牌词的新语境及整片音画同步待用户核听审阅"
+  ],
+  "notes": "v3 品牌与产品名称纠正前的完整 v2；约 14 秒将问学品牌误作产品主体，保留历史对照。",
+  "revision": 2,
+  "updated_on": "2026-11-03",
+  "brand_baseline": "0.1",
+  "previous_revision": "archive/N01-intro-v1"
+}

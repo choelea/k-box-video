@@ -1,0 +1,74 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3682910,
+    "text": "最后"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4741250,
+    "duration": 3013330,
+    "text": "进入"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7977500,
+    "duration": 3013330,
+    "text": "文档"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11102500,
+    "duration": 4352500,
+    "text": "中心"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18245410,
+    "duration": 1116250,
+    "text": "把"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19473330,
+    "duration": 3348330,
+    "text": "产品"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22932910,
+    "duration": 4464160,
+    "text": "介绍"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28290000,
+    "duration": 4017910,
+    "text": "转化"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32419580,
+    "duration": 6807910,
+    "text": "为可执行"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39227500,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 40232080,
+    "duration": 3571250,
+    "text": "上手"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 43915000,
+    "duration": 3794580,
+    "text": "路径"
+  }
+]

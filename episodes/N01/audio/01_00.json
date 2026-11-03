@@ -20,96 +20,96 @@
   {
     "type": "WordBoundary",
     "offset": 20424160,
-    "duration": 1785830,
-    "text": "问"
+    "duration": 3571250,
+    "text": "问学"
   },
   {
     "type": "WordBoundary",
-    "offset": 22321250,
-    "duration": 3460000,
-    "text": "学位"
+    "offset": 24107080,
+    "duration": 7477500,
+    "text": "知识平台"
   },
   {
     "type": "WordBoundary",
-    "offset": 25781250,
-    "duration": 1897500,
-    "text": "于"
+    "offset": 32477500,
+    "duration": 2901660,
+    "text": "位于"
   },
   {
     "type": "WordBoundary",
-    "offset": 27901660,
+    "offset": 35602500,
     "duration": 2901660,
     "text": "企业"
   },
   {
     "type": "WordBoundary",
-    "offset": 30915000,
-    "duration": 3682910,
+    "offset": 38616250,
+    "duration": 4799160,
     "text": "知识"
   },
   {
     "type": "WordBoundary",
-    "offset": 34821250,
-    "duration": 1116250,
+    "offset": 44307910,
+    "duration": 1339160,
     "text": "和"
   },
   {
     "type": "WordBoundary",
-    "offset": 36049160,
-    "duration": 5357080,
+    "offset": 45758750,
+    "duration": 5133750,
     "text": "上层"
   },
   {
     "type": "WordBoundary",
-    "offset": 42299160,
+    "offset": 51785830,
     "duration": 4464160,
     "text": "智能体"
   },
   {
     "type": "WordBoundary",
-    "offset": 46875000,
+    "offset": 56361660,
     "duration": 4017910,
     "text": "之间"
   },
   {
     "type": "WordBoundary",
-    "offset": 53348330,
+    "offset": 62946250,
     "duration": 3348330,
     "text": "承担"
   },
   {
     "type": "WordBoundary",
-    "offset": 56919580,
+    "offset": 66517910,
     "duration": 2567080,
     "text": "企业"
   },
   {
     "type": "WordBoundary",
-    "offset": 59598330,
-    "duration": 4129580,
+    "offset": 69196250,
+    "duration": 4017910,
     "text": "知识"
   },
   {
     "type": "WordBoundary",
-    "offset": 63950830,
+    "offset": 73437500,
     "duration": 3348330,
     "text": "就绪"
   },
   {
     "type": "WordBoundary",
-    "offset": 67299160,
+    "offset": 76785830,
     "duration": 1562500,
     "text": "层"
   },
   {
     "type": "WordBoundary",
-    "offset": 68861660,
+    "offset": 78348330,
     "duration": 669580,
     "text": "的"
   },
   {
     "type": "WordBoundary",
-    "offset": 69642910,
+    "offset": 79129580,
     "duration": 4687500,
     "text": "角色"
   }

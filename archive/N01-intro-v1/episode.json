@@ -1,0 +1,21 @@
+{
+  "id": "N01",
+  "title": "基础介绍",
+  "category": "认知与选型",
+  "status": "archived",
+  "duration_seconds": 231.04,
+  "target_duration_seconds": [
+    120,
+    420
+  ],
+  "product_version": "未记录；2026-11-01 演示环境",
+  "imported_on": "2026-11-02",
+  "video": "问学知识平台-基础介绍.mp4",
+  "script": "source/plan.json",
+  "reading_copy": "讲解稿.md",
+  "timeline": "source/timeline.json",
+  "pending": [
+    "问学知识平台品牌连读需修正并核听"
+  ],
+  "notes": "2026-11-03 重制前完整保存的基础介绍 v1；含旧菜单名称与原始配音。"
+}

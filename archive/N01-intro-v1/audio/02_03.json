@@ -1,0 +1,122 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3794580,
+    "text": "第三"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4741250,
+    "duration": 2343750,
+    "text": "类"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7307910,
+    "duration": 1227500,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8647500,
+    "duration": 2567080,
+    "text": "企业"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11325830,
+    "duration": 4687500,
+    "text": "百科"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21093750,
+    "duration": 1674160,
+    "text": "把"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22991250,
+    "duration": 3348330,
+    "text": "分散"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26450830,
+    "duration": 4241250,
+    "text": "文档"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31585000,
+    "duration": 2901660,
+    "text": "整理"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34486660,
+    "duration": 1897500,
+    "text": "成"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36607080,
+    "duration": 1450830,
+    "text": "可"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38057910,
+    "duration": 4799160,
+    "text": "阅读"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44531250,
+    "duration": 1674160,
+    "text": "可"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 46205410,
+    "duration": 5022500,
+    "text": "检索"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53236660,
+    "duration": 1339160,
+    "text": "带"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54575830,
+    "duration": 4464160,
+    "text": "来源"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 59821250,
+    "duration": 3125000,
+    "text": "引用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62946250,
+    "duration": 892910,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 64062500,
+    "duration": 3236660,
+    "text": "主题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 67410830,
+    "duration": 4129580,
+    "text": "页面"
+  }
+]

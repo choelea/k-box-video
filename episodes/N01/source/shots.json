@@ -1,0 +1,179 @@
+{
+  "basis": "observed recording transitions; docs stills aligned to spoken clauses",
+  "shots": [
+    {
+      "id": "intro",
+      "chapter": "intro",
+      "kind": "slide",
+      "start": 0,
+      "end": 10.516,
+      "start_frame": 0,
+      "end_frame": 263
+    },
+    {
+      "id": "positioning-01",
+      "chapter": "positioning",
+      "kind": "record",
+      "start": 10.516,
+      "end": 19.67,
+      "record_offset": 0.0,
+      "source_duration": 8.505999999999998,
+      "start_frame": 263,
+      "end_frame": 492,
+      "source": "assets/recordings/page@64e3c0fd1b42eb126bcd31baa812f04a.webm",
+      "trim_start": 1.814
+    },
+    {
+      "id": "positioning-02",
+      "chapter": "positioning",
+      "kind": "record",
+      "start": 19.67,
+      "end": 27.648000000000003,
+      "record_offset": 8.505999999999998,
+      "source_duration": 7.978000000000003,
+      "start_frame": 492,
+      "end_frame": 691,
+      "source": "assets/recordings/page@64e3c0fd1b42eb126bcd31baa812f04a.webm",
+      "trim_start": 10.319999999999999
+    },
+    {
+      "id": "positioning-03",
+      "chapter": "positioning",
+      "kind": "record",
+      "start": 27.648000000000003,
+      "end": 35.122,
+      "record_offset": 16.484,
+      "source_duration": 7.474000000000004,
+      "start_frame": 691,
+      "end_frame": 878,
+      "source": "assets/recordings/page@64e3c0fd1b42eb126bcd31baa812f04a.webm",
+      "trim_start": 18.298000000000002
+    },
+    {
+      "id": "positioning-04",
+      "chapter": "positioning",
+      "kind": "record",
+      "start": 35.122,
+      "end": 42.684,
+      "record_offset": 23.958000000000006,
+      "source_duration": 7.561999999999998,
+      "start_frame": 878,
+      "end_frame": 1067,
+      "source": "assets/recordings/page@64e3c0fd1b42eb126bcd31baa812f04a.webm",
+      "trim_start": 25.772000000000006
+    },
+    {
+      "id": "capabilities",
+      "chapter": "capabilities",
+      "kind": "record",
+      "start": 42.684,
+      "end": 89.27199999999999,
+      "start_frame": 1067,
+      "end_frame": 2232,
+      "source": "assets/recordings/page@98ff29efb6cdf50cb756c8ac4493b3e1.webm",
+      "trim_start": 1.827
+    },
+    {
+      "id": "consumption",
+      "chapter": "consumption",
+      "kind": "record",
+      "start": 89.27199999999999,
+      "end": 120.52799999999999,
+      "start_frame": 2232,
+      "end_frame": 3013,
+      "source": "assets/recordings/page@efb0c2eb1e381b4681e43fe95bfa261f.webm",
+      "trim_start": 1.579
+    },
+    {
+      "id": "scenarios",
+      "chapter": "scenarios",
+      "kind": "record",
+      "start": 120.52799999999999,
+      "end": 160.434,
+      "start_frame": 3013,
+      "end_frame": 4011,
+      "source": "assets/recordings/page@356e5f1caccda22754a4b779e0f7dd09.webm",
+      "trim_start": 2.009
+    },
+    {
+      "id": "enterprise",
+      "chapter": "enterprise",
+      "kind": "record",
+      "start": 160.434,
+      "end": 189.444,
+      "start_frame": 4011,
+      "end_frame": 4736,
+      "source": "assets/recordings/page@c012f98d12f7181bffad848f072ded01.webm",
+      "trim_start": 1.569
+    },
+    {
+      "id": "docs-entry",
+      "chapter": "docs",
+      "kind": "still",
+      "start": 189.444,
+      "end": 194.998,
+      "source": "v2-docs-0.png",
+      "start_frame": 4736,
+      "end_frame": 4875
+    },
+    {
+      "id": "docs-quick-start",
+      "chapter": "docs",
+      "kind": "still",
+      "start": 194.998,
+      "end": 204.56,
+      "source": "v2-docs-1.png",
+      "start_frame": 4875,
+      "end_frame": 5114
+    },
+    {
+      "id": "docs-product-guides",
+      "chapter": "docs",
+      "kind": "still",
+      "start": 204.56,
+      "end": 207.411333,
+      "source": "v2-docs-product-guides.png",
+      "start_frame": 5114,
+      "end_frame": 5185
+    },
+    {
+      "id": "docs-api-reference",
+      "chapter": "docs",
+      "kind": "still",
+      "start": 207.411333,
+      "end": 209.649291,
+      "source": "v2-docs-api-reference.png",
+      "start_frame": 5185,
+      "end_frame": 5241
+    },
+    {
+      "id": "docs-deployment",
+      "chapter": "docs",
+      "kind": "still",
+      "start": 209.649291,
+      "end": 213.594,
+      "source": "v2-docs-2.png",
+      "start_frame": 5241,
+      "end_frame": 5340
+    },
+    {
+      "id": "docs-validation",
+      "chapter": "docs",
+      "kind": "still",
+      "start": 213.594,
+      "end": 222.308,
+      "source": "v2-docs-3.png",
+      "start_frame": 5340,
+      "end_frame": 5558
+    },
+    {
+      "id": "outro",
+      "chapter": "outro",
+      "kind": "slide",
+      "start": 222.308,
+      "end": 232.034,
+      "start_frame": 5558,
+      "end_frame": 5801
+    }
+  ]
+}

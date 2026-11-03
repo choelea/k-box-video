@@ -1,0 +1,134 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3460000,
+    "text": "欢迎"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4406250,
+    "duration": 1116250,
+    "text": "了"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5633750,
+    "duration": 3125000,
+    "text": "解问"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8758750,
+    "duration": 1674160,
+    "text": "学"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10544580,
+    "duration": 2567080,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13223330,
+    "duration": 5022500,
+    "text": "平台"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23325830,
+    "duration": 5692080,
+    "text": "接下来"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31473330,
+    "duration": 1785830,
+    "text": "我们"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33370410,
+    "duration": 1674160,
+    "text": "从"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35267910,
+    "duration": 2232080,
+    "text": "六个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37611660,
+    "duration": 4017910,
+    "text": "方面"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44196250,
+    "duration": 3125000,
+    "text": "看看"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47544580,
+    "duration": 2455410,
+    "text": "企业"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50111660,
+    "duration": 4799160,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55803750,
+    "duration": 3236660,
+    "text": "如何"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 59151660,
+    "duration": 2901660,
+    "text": "成为"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62276660,
+    "duration": 6807910,
+    "text": "人工智能"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 69307910,
+    "duration": 1339160,
+    "text": "可"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 70758750,
+    "duration": 3236660,
+    "text": "使用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 73995410,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 75000000,
+    "duration": 3682910,
+    "text": "可信"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 78794580,
+    "duration": 6361660,
+    "text": "上下文"
+  }
+]

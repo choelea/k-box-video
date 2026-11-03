@@ -1,0 +1,92 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 2678750,
+    "text": "如果"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3848330,
+    "duration": 3682910,
+    "text": "经常"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7642910,
+    "duration": 2790000,
+    "text": "追问"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10656250,
+    "duration": 4241250,
+    "text": "人物"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16460000,
+    "duration": 5580410,
+    "text": "产品"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24049160,
+    "duration": 3236660,
+    "text": "系统"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27397500,
+    "duration": 2678330,
+    "text": "之间"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30075830,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31080410,
+    "duration": 3348330,
+    "text": "关系"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34540000,
+    "duration": 1116250,
+    "text": "与"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35767910,
+    "duration": 4241250,
+    "text": "路径"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42575830,
+    "duration": 1562500,
+    "text": "再"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44250000,
+    "duration": 3906250,
+    "text": "选择"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48379580,
+    "duration": 2790000,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 51281250,
+    "duration": 5022500,
+    "text": "图谱"
+  }
+]

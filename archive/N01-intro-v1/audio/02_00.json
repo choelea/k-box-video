@@ -1,0 +1,50 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3682910,
+    "text": "产品"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4741250,
+    "duration": 4241250,
+    "text": "能力"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9875000,
+    "duration": 3236660,
+    "text": "围绕"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13335000,
+    "duration": 1897080,
+    "text": "四"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15232080,
+    "duration": 1562500,
+    "text": "类"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16906250,
+    "duration": 2678750,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19696250,
+    "duration": 3348330,
+    "text": "资产"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23156250,
+    "duration": 4687500,
+    "text": "展开"
+  }
+]

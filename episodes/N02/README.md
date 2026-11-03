@@ -27,3 +27,5 @@ python tools/video.py serve N02 --port 8769
 subtitle-phrases.json 存放长句的人工语义断句。assemble.py 通过字幕文本或段落定位切镜，改动锚点句后需要同步修改锚点；定位不到会明确报错，不沿用旧时点。图解内容维护在 scenes.json；source/capture-brand.cjs 会同步 HTML 中内嵌场景后录图。
 
 render 使用保存素材，不自动重做配音或截图。先完成上述内容更新再导出，并刷新素材清单与核验记录。
+
+2026-11-03 品牌层级纠正待办：当前成片中“问学的售后知识库”“问学带来的”误以品牌代指产品；下一版须使用“问学知识平台”或“K-BOX”，并同步配音、字幕与镜头。目前尚未重制这两句，见 episode.json。

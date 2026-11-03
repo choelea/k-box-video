@@ -1,13 +1,14 @@
 {
   "brand": {
-    "display": "问学知识平台",
+    "display": "问学",
     "unit": "问学",
     "instruction": "问学自然连读，再顺畅接知识平台；品牌内部不停顿",
     "reference_audio": "brand/v0.1/voice/C-1.mp3",
     "review_status": "approved",
     "selected_candidate": "C",
     "approved_on": "2026-11-02",
-    "context_reference_audio": "brand/v0.1/voice/candidate-C.mp3"
+    "context_reference_audio": "brand/v0.1/voice/candidate-C.mp3",
+    "scope": "上位品牌；不得作为 K-BOX 的产品简称"
   },
   "legacy_voice": {
     "engine": "edge-tts",
@@ -24,5 +25,12 @@
     "status": "approved",
     "note": "用户确认 C 的读音没有问题；作为后续配音方案，旧视频仍待修正。",
     "selected_candidate": "C"
+  },
+  "product": {
+    "display": "问学知识平台",
+    "identifier": "K-BOX",
+    "parent_brand": "问学",
+    "confirmed_on": "2026-11-03",
+    "instruction": "产品定位、能力和界面使用中文产品全称、K-BOX 或上下文明确的本平台；不得仅用问学代称产品"
   }
 }
