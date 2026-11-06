@@ -1,91 +1,72 @@
 # 问学知识平台 · 视频系列
 
-问学是上位品牌；K-BOX 是其旗下的问学知识平台产品。介绍本产品时使用产品全称或 K-BOX。
+**问学是上位品牌；K-BOX / 问学知识平台是旗下的一个产品。** 本仓库统一维护该产品的视频选题、制作规范、素材、成片和发布说明。正式教程每集 2–7 分钟。
 
-本仓库保存 K-BOX 视频的选题、规范、制作源文件和交付物，供持续修改与再制作。每条视频 2–7 分钟。当前已迁入 N01 基础介绍、N02 企业场景版，电影场景试片单独归档。
+## 从哪里开始
 
-## 从这里开始
+| 要做什么 | 入口 |
+| --- | --- |
+| 讨论内容范围 | [内容主线](planning/K-BOX视频系列-内容主线规划.md) |
+| 选择分类和题目 | [分类与选题](planning/K-BOX视频系列-分类与选题规划.md)：N 认知、T 任务、S 细节、R 诊断，当前 50 个编号主题 |
+| 制作或修改视频 | [制作与修改](standards/制作与修改.md)、[验收标准](standards/验收标准.md) |
+| 使用统一品牌与版式 | [品牌与发音](standards/品牌与发音.md)、[视觉风格](standards/视觉风格.md)、[公共素材](shared/README.md) |
+| 新建一集 | [选题卡](templates/episode/选题卡.md)、[分镜模板](templates/episode/分镜.md)、[目录规则](standards/目录与版本管理.md) |
+| 将视频放入官网 | [接入与发布说明](distribution/产品官网-首页介绍视频.md) |
+| 检查重复和资料完整性 | [整理结果与后续规划](reports/目录整理与后续规划.md)、[机器检查报告](reports/repository-audit.json) |
+| 找回旧版本 | [历史版本恢复记录](reports/history/历史版本.json) |
 
-- [分类与选题](planning/K-BOX视频系列-分类与选题规划.md)：四个分类、50 个选题及待补充专题。
-- [内容主线](planning/K-BOX视频系列-内容主线规划.md)：全平台内容范围。
-- [制作与修改规范](standards/制作与修改.md)、[品牌与发音](standards/品牌与发音.md)、[验收标准](standards/验收标准.md)。
-- [品牌读音与视觉风格 v0.1](shared/brand/v0.1/README.md)：四组试听、30 秒样片及公共模板，C 读音与深蓝金色视觉均已确认，作为后续统一标准；[视觉规范](standards/视觉风格.md)。
-- [N01 基础介绍](episodes/N01/README.md)：v3，约 3:52。
-- [N02 企业场景版](episodes/N02/README.md)：当前 v2，约 4:32，深度检索三份售后制度并回读依据。
-- [N02 电影场景历史版](archive/N02-movie/README.md)：保留对照，不作为当前制作模板。
+## 当前视频
 
-N02 已制作应用 C 配音方案与统一视觉的企业场景优化版 v2；优化前企业版与电影版均保留归档。N01 当前为 v3，已纠正品牌与产品命名，更新文档中心画面并应用统一品牌基线；两集的新语境与整片仍需核听审阅。
+| 编号 | 内容与状态 | 交付与源文件 |
+| --- | --- | --- |
+| N01 | 基础介绍 v3，3:52；已更新文档中心，纠正品牌与产品层级，新语境与整片待核听 | [完整项目](episodes/N01/README.md)、[MP4](episodes/N01/问学知识平台-基础介绍.mp4)、[字幕](episodes/N01/问学知识平台-基础介绍.srt)、[配音](episodes/N01/问学知识平台-中文配音.mp3)、[讲解稿](episodes/N01/讲解稿.md) |
+| N02 | 企业场景版 v2，4:32；售后质量问题跨制度检索与核验，两处产品简称待纠正 | [完整项目](episodes/N02/README.md)、[场景方案](episodes/N02/场景方案.md)、[MP4](episodes/N02/N02-企业场景版.mp4)、[字幕](episodes/N02/N02-企业场景版.srt)、[配音](episodes/N02/N02-企业场景版-配音.mp3)、[讲解稿](episodes/N02/讲解稿.md) |
 
-## 已制作视频与配套文件
+技术检查通过与用户内容审阅分别记录，具体待办以各集 `episode.json` 为准。本次目录整理沿用当前讲解与演示内容。
 
-| 视频 | 成片 | 字幕 | 配音 | 讲解稿 | 完整项目 |
-| --- | --- | --- | --- | --- | --- |
-| N01 基础介绍 · v3 · 3:52 | [MP4](episodes/N01/问学知识平台-基础介绍.mp4) | [SRT](episodes/N01/问学知识平台-基础介绍.srt) | [MP3](episodes/N01/问学知识平台-中文配音.mp3) | [讲解稿](episodes/N01/讲解稿.md) | [素材与制作源文件](episodes/N01/README.md) |
-| N02 企业场景优化版 v2 · 4:32 | [MP4](episodes/N02/N02-企业场景版.mp4) | [SRT](episodes/N02/N02-企业场景版.srt) | [MP3](episodes/N02/N02-企业场景版-配音.mp3) | [讲解稿](episodes/N02/讲解稿.md) | [素材与制作源文件](episodes/N02/README.md) |
-
-两条均保留原始录屏、分段配音、截图、图解、分镜、时间线、字幕及合成脚本。2026-11-02 已对照原制作目录复核交付物与原始录屏，素材清单及哈希检查通过。历史电影版另见 archive/N02-movie/。
-
-## 目录与存储
+## 目录分工
 
 ```text
-planning/             内容主线、分类选题、场景方案
-standards/            制作、品牌发音、验收规则
-shared/               公共素材说明
-templates/episode/    新视频选题卡与分镜模板
-episodes/N01/         基础介绍的完整项目
-episodes/N02/         当前 N02 企业场景版完整项目
-archive/              历史试片与早期讨论稿
-tools/                统一核验、导出、试看入口
+planning/             系列内容范围、分类与选题；单集场景放在单集目录
+standards/            制作、命名、发音、视觉、验收和版本管理规则
+shared/               公共品牌基线、发音参考和共享视觉样式
+templates/episode/    新集选题卡、分镜和元数据模板
+episodes/<编号>/      每集当前版本、源文件、原始素材与验收资料
+distribution/         官网等渠道的接入、发布与更新说明
+reports/              全仓检查结果、整理规划；history/ 保存迁移及恢复记录
+tools/                全仓共用的检查、合成入口、截图与试看工具
 ```
 
-每条项目保留 `source/` 制作脚本和配置、`audio/` 分段配音及时间信息、`frames/` 截图和图解、`assets/recordings/` 原始录屏、`assets.json` 素材校验清单，以及 MP4、SRT、MP3、试看页和讲解稿。`build/` 只放可再生中间文件。
+不再维护 `archive/` 目录副本。旧成片与完整旧项目通过 Git 历史及 Git LFS 恢复。`k-box-docs` 仅保留视频资料入口，产品音视频解析等设计仍在产品文档仓库。
 
-文本使用普通 Git，视频、音频和位图使用 Git LFS。成片也纳入 LFS，保证当前交付可以找回。后续若迁到对象存储，需维护下载位置和 SHA-256，不能只删除仓库素材。
+## 安装与常用命令
+
+需要 Python 3.11+、Git LFS、FFmpeg/ffprobe（含 libass）。当前使用 macOS 苹方字体；其他系统须配置有授权的中文字体并复核版式。重新截图还需要 `npm install` 和 Chrome，`CHROME_PATH` 可覆盖公共截图工具的浏览器路径。
 
 ```bash
 git lfs install --local
 git lfs pull
 python3 -m venv .venv
 .venv/bin/python -m pip install -r requirements.txt
-```
 
-需要 Python 3.11 或以上，另需系统安装 FFmpeg（含 ffprobe、libass）。当前导入的排版与核验脚本使用 macOS PingFang 字体；其他系统须先配置有授权的中文字体并重新核对排版。浏览器重新录制另需 `npm install`，现有脚本使用本机 Google Chrome；它不是离线合成的必需依赖。
-
-## 常用操作
-
-以下命令从仓库根目录执行。核验和重新导出使用现有录屏、截图及配音，不会访问线上系统或重新调用模型。
-
-```bash
-# 检查素材清单、路径、文件哈希、成片规格和全片解码
+# 只检查，不访问线上系统，不调用语音服务
+.venv/bin/python tools/audit.py --output reports/repository-audit.json
+.venv/bin/python tools/video.py check N01
 .venv/bin/python tools/video.py check N02
+.venv/bin/python episodes/N01/source/narrate.py --check-only
 
-# 用现有配音与素材重新合成，核验并刷新素材清单
-.venv/bin/python tools/video.py render N02
+# 使用现有配音与原始素材离线导出
+.venv/bin/python tools/video.py render N01
 
-# 本地试看；打开命令输出的地址（支持视频范围请求和拖动）
-.venv/bin/python tools/video.py serve N02 --port 8769
+# 复用公共样式，从本集 scenes.json 生成品牌画面
+node tools/capture-brand.cjs N01
+
+# 单集试看；共享品牌图标等资源时从仓库根目录提供服务
+.venv/bin/python tools/serve.py . --port 8770
 ```
 
-N01 使用同样命令。工具也支持历史项目路径 `archive/N02-movie`。重新导出会覆盖本地对应成片；历史版本通过 Git 提交保留。提交前将想保留的版本保存为一次独立提交，再继续改动。
+仓库根目录试看入口为 `/episodes/N01/试看.html` 和 `/episodes/N02/试看.html`。`tools/video.py serve N01 --port 8769` 也可服务单集，但引用仓库公共素材的页面宜用根目录服务。
 
-## 修改时改哪里
+`render` 不自动重做配音、截图或线上问答。改讲解文本时同步 `source/speech-overrides.json`，生成后核对时间线和镜头，再导出；未列入覆盖表的现存配音通过 `source/narration-manifest.json` 校验，防止只改文本而复用旧声音。
 
-| 修改内容 | 修改入口 | 后续处理 |
-| --- | --- | --- |
-| 选题与范围 | planning/ | 同步总数、关联主题和选题卡 |
-| 讲解内容 | source/plan.json | 同步讲解稿；重做受影响配音、时间线及字幕 |
-| 字幕断句 | source/timeline.json 的 cues、独立 SRT | 保持两者一致；重新导出 |
-| 图解 | source/slides.html | 重新截图到 frames/，再导出 |
-| 实操画面 | assets/recordings/、frames/ | 核对真实操作，更新分镜与素材引用 |
-| N02 镜头时长 | source/assemble.py | 与 timeline.json 的配音时点逐项核对 |
-| 制作状态和待修项 | episode.json | 技术检查、内容审阅分别记录 |
-
-目前迁入的是已使用的制作脚本，尚未实现完整的分段增量生成。当前 N01、N02 v2 的 `narrate.py` 仅更新 speech-overrides.json 中请求变化的片段，再重建时间线、字幕及阅读稿；其他语句变化必须加入覆盖表。不要将它当作无影响的导出步骤。当前 N02 v2 的镜头切换随讲解片段和语义字幕锚点定位；改动锚点文字需同步更新定位配置。后续统一流水线以分镜模板为目标逐步演进。
-
-重新录制需要重新登录，历史会话文件未迁入。管理端和消费端会话通过 `KBOX_MANAGEMENT_STATE`、`KBOX_GUEST_STATE` 环境变量提供；历史电影版使用 `KBOX_BROWSER_STATE`。凭证与会话文件保存在仓库外，目录与脚本不保存真实密码。
-
-## 版本与交付
-
-使用“候选 → 待核验 → 待脚本 → 待录制 → 待审阅 → 已完成”；需要修改时标记待更新，历史版标记归档。`episode.json` 的机器状态与此对应，待审阅使用 `needs-review`。
-
-交付包含成片、独立字幕、配音、讲解稿和可继续制作的素材与脚本。记录适用产品版本；当前旧试片未记录精确产品提交号，按原始情况注明。用户审阅通过后再标记完成或创建发布标签。
+重新录制需通过仓库外环境变量提供登录状态。账号、Token 和浏览器会话不入库。视频、音频和位图走 Git LFS；`build/` 是本地可再生缓存，可清理，不能存放唯一原素材。

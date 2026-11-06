@@ -76,7 +76,8 @@ def check(project):
     result = {'episode': str(project.relative_to(ROOT)), 'duration_seconds': duration,
               'media_files': len(actual), 'asset_hashes': 'passed', 'decode': 'passed',
               'pending_content_review': meta.get('pending', [])}
-    (project / 'source/repository-verification.json').write_text(
+    (project / 'review').mkdir(exist_ok=True)
+    (project / 'review/repository-verification.json').write_text(
         json.dumps(result, ensure_ascii=False, indent=2) + '\n')
     print(json.dumps(result, ensure_ascii=False))
 
@@ -84,7 +85,7 @@ def check(project):
 def main():
     parser = argparse.ArgumentParser(description='问学视频核验、导出与试看')
     parser.add_argument('action', choices=['check', 'render', 'serve', 'inventory'])
-    parser.add_argument('episode', help='例如 N02 或 archive/N02-movie')
+    parser.add_argument('episode', help='例如 N01 或 N02')
     parser.add_argument('--port', type=int, default=8769)
     args = parser.parse_args()
     project = (ROOT / (args.episode if '/' in args.episode else 'episodes/' + args.episode)).resolve()

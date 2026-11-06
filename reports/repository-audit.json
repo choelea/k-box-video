@@ -1,0 +1,109 @@
+{
+  "scope": "当前工作区；排除 .git、build、依赖、缓存和本报告自身",
+  "folders": {
+    ".gitattributes": {
+      "files": 1,
+      "bytes": 458
+    },
+    ".gitignore": {
+      "files": 1,
+      "bytes": 258
+    },
+    "AGENTS.md": {
+      "files": 1,
+      "bytes": 2947
+    },
+    "README.md": {
+      "files": 1,
+      "bytes": 5010
+    },
+    "distribution": {
+      "files": 1,
+      "bytes": 2262
+    },
+    "episodes": {
+      "files": 374,
+      "bytes": 187501489
+    },
+    "package.json": {
+      "files": 1,
+      "bytes": 162
+    },
+    "planning": {
+      "files": 2,
+      "bytes": 47055
+    },
+    "reports": {
+      "files": 5,
+      "bytes": 35978
+    },
+    "requirements.txt": {
+      "files": 1,
+      "bytes": 31
+    },
+    "shared": {
+      "files": 85,
+      "bytes": 5822002
+    },
+    "standards": {
+      "files": 6,
+      "bytes": 16577
+    },
+    "templates": {
+      "files": 3,
+      "bytes": 1655
+    },
+    "tools": {
+      "files": 5,
+      "bytes": 18194
+    }
+  },
+  "files_checked": 487,
+  "local_links_checked": 144,
+  "asset_hashes_checked": 265,
+  "exact_duplicate_groups": [
+    {
+      "sha256": "b030b8cf57782dbd7ad61d8eb284ae244d9c188c63df042baca5088056519f03",
+      "bytes_each": 197470,
+      "files": [
+        "episodes/N01/frames/v2-positioning-0.png",
+        "episodes/N01/frames/v2-positioning-3.png"
+      ],
+      "classification": "intentional",
+      "reason": "定位章首句和末句均高亮知识就绪层，校准程序按两个时点识别状态。保留语义位置，防止后续分镜改动时误用别处画面。"
+    },
+    {
+      "sha256": "d3d418378c645d48409a7c9dc088e25c98ceef742c9417800e608b1be656ee28",
+      "bytes_each": 1697,
+      "files": [
+        "episodes/N02/audio/00_00.json",
+        "shared/brand/v0.1/voice/C-3.boundaries.json"
+      ],
+      "classification": "intentional",
+      "reason": "与复用的开场语音配套的词边界，分别服务单集字幕同步和公共发音对照。"
+    },
+    {
+      "sha256": "72b85bd680b496e4b194cd03bf409b0101d4fabe68c7e4f5b4943f92ed90a670",
+      "bytes_each": 33696,
+      "files": [
+        "episodes/N02/audio/00_00.mp3",
+        "shared/brand/v0.1/voice/C-3.mp3"
+      ],
+      "classification": "intentional",
+      "reason": "N02 开场直接复用用户已核听的 C-3 完整语句。单集配音保持独立可导出，公共样本保持试听基准；Git LFS 按相同内容寻址存储。"
+    },
+    {
+      "sha256": "81ab3f0155cb6abb95659c163e9a1eebdb523fc9892ecd525ba9e91efaa8955d",
+      "bytes_each": 472587,
+      "files": [
+        "episodes/N02/frames/record-evidence-ten.png",
+        "episodes/N02/frames/record-evidence-three.png"
+      ],
+      "classification": "intentional",
+      "reason": "同一真实原文画面同时包含 3 日与 10 日规则，分别绑定两个语义镜头。保留独立文件便于今后分别重录，不能仅因当前相同而联动替换。"
+    }
+  ],
+  "potential_duplicate_bytes": 705450,
+  "unclassified_duplicate_groups": 0,
+  "errors": []
+}

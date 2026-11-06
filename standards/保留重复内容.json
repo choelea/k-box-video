@@ -1,0 +1,21 @@
+{
+  "scope": "按 SHA-256 检出的完全相同文件；仅记录确有用途的副本，不以扩展名不同判断重复",
+  "groups": [
+    {
+      "files": ["episodes/N02/frames/record-evidence-three.png", "episodes/N02/frames/record-evidence-ten.png"],
+      "reason": "同一真实原文画面同时包含 3 日与 10 日规则，分别绑定两个语义镜头。保留独立文件便于今后分别重录，不能仅因当前相同而联动替换。"
+    },
+    {
+      "files": ["episodes/N01/frames/v2-positioning-0.png", "episodes/N01/frames/v2-positioning-3.png"],
+      "reason": "定位章首句和末句均高亮知识就绪层，校准程序按两个时点识别状态。保留语义位置，防止后续分镜改动时误用别处画面。"
+    },
+    {
+      "files": ["episodes/N02/audio/00_00.mp3", "shared/brand/v0.1/voice/C-3.mp3"],
+      "reason": "N02 开场直接复用用户已核听的 C-3 完整语句。单集配音保持独立可导出，公共样本保持试听基准；Git LFS 按相同内容寻址存储。"
+    },
+    {
+      "files": ["episodes/N02/audio/00_00.json", "shared/brand/v0.1/voice/C-3.boundaries.json"],
+      "reason": "与复用的开场语音配套的词边界，分别服务单集字幕同步和公共发音对照。"
+    }
+  ]
+}

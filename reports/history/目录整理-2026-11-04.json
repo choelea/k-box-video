@@ -1,0 +1,660 @@
+{
+  "date": "2026-11-04",
+  "base_commit": "027a475fc35751f40b67b993ed521227fbcde8cb",
+  "moves": [
+    {
+      "from": "planning/迁移记录.json",
+      "to": "reports/history/迁移记录.json"
+    },
+    {
+      "from": "planning/文档迁移记录-2026-11-04.json",
+      "to": "reports/history/文档迁移记录-2026-11-04.json"
+    },
+    {
+      "from": "planning/N02-企业场景与深度模式录制方案.md",
+      "to": "episodes/N02/场景方案.md"
+    },
+    {
+      "from": "episodes/N01/frames/player-check.png",
+      "to": "episodes/N01/review/frames/player-check.png"
+    },
+    {
+      "from": "episodes/N01/frames/product-name-correction.jpg",
+      "to": "episodes/N01/review/frames/product-name-correction.jpg"
+    },
+    {
+      "from": "episodes/N01/frames/qa-v2-capabilities.jpg",
+      "to": "episodes/N01/review/frames/qa-capabilities.jpg"
+    },
+    {
+      "from": "episodes/N01/frames/qa-v2-consumption.jpg",
+      "to": "episodes/N01/review/frames/qa-consumption.jpg"
+    },
+    {
+      "from": "episodes/N01/frames/qa-v2-docs-api-reference.jpg",
+      "to": "episodes/N01/review/frames/qa-docs-api-reference.jpg"
+    },
+    {
+      "from": "episodes/N01/frames/qa-v2-docs-deployment.jpg",
+      "to": "episodes/N01/review/frames/qa-docs-deployment.jpg"
+    },
+    {
+      "from": "episodes/N01/frames/qa-v2-docs-entry.jpg",
+      "to": "episodes/N01/review/frames/qa-docs-entry.jpg"
+    },
+    {
+      "from": "episodes/N01/frames/qa-v2-docs-product-guides.jpg",
+      "to": "episodes/N01/review/frames/qa-docs-product-guides.jpg"
+    },
+    {
+      "from": "episodes/N01/frames/qa-v2-docs-quick-start.jpg",
+      "to": "episodes/N01/review/frames/qa-docs-quick-start.jpg"
+    },
+    {
+      "from": "episodes/N01/frames/qa-v2-docs-validation.jpg",
+      "to": "episodes/N01/review/frames/qa-docs-validation.jpg"
+    },
+    {
+      "from": "episodes/N01/frames/qa-v2-enterprise.jpg",
+      "to": "episodes/N01/review/frames/qa-enterprise.jpg"
+    },
+    {
+      "from": "episodes/N01/frames/qa-v2-intro.jpg",
+      "to": "episodes/N01/review/frames/qa-intro.jpg"
+    },
+    {
+      "from": "episodes/N01/frames/qa-v2-outro.jpg",
+      "to": "episodes/N01/review/frames/qa-outro.jpg"
+    },
+    {
+      "from": "episodes/N01/frames/qa-v2-positioning-01.jpg",
+      "to": "episodes/N01/review/frames/qa-positioning-01.jpg"
+    },
+    {
+      "from": "episodes/N01/frames/qa-v2-positioning-02.jpg",
+      "to": "episodes/N01/review/frames/qa-positioning-02.jpg"
+    },
+    {
+      "from": "episodes/N01/frames/qa-v2-positioning-03.jpg",
+      "to": "episodes/N01/review/frames/qa-positioning-03.jpg"
+    },
+    {
+      "from": "episodes/N01/frames/qa-v2-positioning-04.jpg",
+      "to": "episodes/N01/review/frames/qa-positioning-04.jpg"
+    },
+    {
+      "from": "episodes/N01/frames/qa-v2-scenarios.jpg",
+      "to": "episodes/N01/review/frames/qa-scenarios.jpg"
+    },
+    {
+      "from": "episodes/N01/frames/quality-review.jpg",
+      "to": "episodes/N01/review/frames/quality-review.jpg"
+    },
+    {
+      "from": "episodes/N01/source/brand-occurrences.json",
+      "to": "episodes/N01/review/brand-occurrences.json"
+    },
+    {
+      "from": "episodes/N01/source/brand-visual-verification.json",
+      "to": "episodes/N01/review/brand-visual-verification.json"
+    },
+    {
+      "from": "episodes/N01/source/capture-sync-verification.json",
+      "to": "episodes/N01/review/capture-sync-verification.json"
+    },
+    {
+      "from": "episodes/N01/source/loudness-verification.json",
+      "to": "episodes/N01/review/loudness-verification.json"
+    },
+    {
+      "from": "episodes/N01/source/player-verification.json",
+      "to": "episodes/N01/review/player-verification.json"
+    },
+    {
+      "from": "episodes/N01/source/repository-verification.json",
+      "to": "episodes/N01/review/repository-verification.json"
+    },
+    {
+      "from": "episodes/N01/source/verification.json",
+      "to": "episodes/N01/review/verification.json"
+    },
+    {
+      "from": "episodes/N01/source/revision-v2.json",
+      "to": "episodes/N01/review/revisions/revision-v2.json"
+    },
+    {
+      "from": "episodes/N01/source/revision-v3.json",
+      "to": "episodes/N01/review/revisions/revision-v3.json"
+    },
+    {
+      "from": "episodes/N02/frames/player-check.png",
+      "to": "episodes/N02/review/frames/player-check.png"
+    },
+    {
+      "from": "episodes/N02/frames/qa-v2-answer-batch.jpg",
+      "to": "episodes/N02/review/frames/qa-answer-batch.jpg"
+    },
+    {
+      "from": "episodes/N02/frames/qa-v2-answer-repair.jpg",
+      "to": "episodes/N02/review/frames/qa-answer-repair.jpg"
+    },
+    {
+      "from": "episodes/N02/frames/qa-v2-case.jpg",
+      "to": "episodes/N02/review/frames/qa-case.jpg"
+    },
+    {
+      "from": "episodes/N02/frames/qa-v2-decision.jpg",
+      "to": "episodes/N02/review/frames/qa-decision.jpg"
+    },
+    {
+      "from": "episodes/N02/frames/qa-v2-documents.jpg",
+      "to": "episodes/N02/review/frames/qa-documents.jpg"
+    },
+    {
+      "from": "episodes/N02/frames/qa-v2-ending.jpg",
+      "to": "episodes/N02/review/frames/qa-ending.jpg"
+    },
+    {
+      "from": "episodes/N02/frames/qa-v2-evidence-repair.jpg",
+      "to": "episodes/N02/review/frames/qa-evidence-repair.jpg"
+    },
+    {
+      "from": "episodes/N02/frames/qa-v2-evidence-seven.jpg",
+      "to": "episodes/N02/review/frames/qa-evidence-seven.jpg"
+    },
+    {
+      "from": "episodes/N02/frames/qa-v2-evidence-supplier.jpg",
+      "to": "episodes/N02/review/frames/qa-evidence-supplier.jpg"
+    },
+    {
+      "from": "episodes/N02/frames/qa-v2-evidence-ten.jpg",
+      "to": "episodes/N02/review/frames/qa-evidence-ten.jpg"
+    },
+    {
+      "from": "episodes/N02/frames/qa-v2-evidence-three.jpg",
+      "to": "episodes/N02/review/frames/qa-evidence-three.jpg"
+    },
+    {
+      "from": "episodes/N02/frames/qa-v2-evidence-threshold.jpg",
+      "to": "episodes/N02/review/frames/qa-evidence-threshold.jpg"
+    },
+    {
+      "from": "episodes/N02/frames/qa-v2-intro.jpg",
+      "to": "episodes/N02/review/frames/qa-intro.jpg"
+    },
+    {
+      "from": "episodes/N02/frames/qa-v2-limits.jpg",
+      "to": "episodes/N02/review/frames/qa-limits.jpg"
+    },
+    {
+      "from": "episodes/N02/frames/qa-v2-question.jpg",
+      "to": "episodes/N02/review/frames/qa-question.jpg"
+    },
+    {
+      "from": "episodes/N02/frames/qa-v2-roles.jpg",
+      "to": "episodes/N02/review/frames/qa-roles.jpg"
+    },
+    {
+      "from": "episodes/N02/frames/qa-v2-search.jpg",
+      "to": "episodes/N02/review/frames/qa-search.jpg"
+    },
+    {
+      "from": "episodes/N02/frames/quality-review.jpg",
+      "to": "episodes/N02/review/frames/quality-review.jpg"
+    },
+    {
+      "from": "episodes/N02/source/brand-occurrences.json",
+      "to": "episodes/N02/review/brand-occurrences.json"
+    },
+    {
+      "from": "episodes/N02/source/brand-visual-verification.json",
+      "to": "episodes/N02/review/brand-visual-verification.json"
+    },
+    {
+      "from": "episodes/N02/source/player-verification.json",
+      "to": "episodes/N02/review/player-verification.json"
+    },
+    {
+      "from": "episodes/N02/source/repository-verification.json",
+      "to": "episodes/N02/review/repository-verification.json"
+    },
+    {
+      "from": "episodes/N02/source/verification.json",
+      "to": "episodes/N02/review/verification.json"
+    },
+    {
+      "from": "episodes/N02/source/revision-v2.json",
+      "to": "episodes/N02/review/revisions/revision-v2.json"
+    },
+    {
+      "from": "episodes/N01/source/positioning.json",
+      "to": "episodes/N01/source/snapshots/positioning.json"
+    },
+    {
+      "from": "episodes/N01/frames/positioning.png",
+      "to": "episodes/N01/frames/snapshots/positioning.png"
+    },
+    {
+      "from": "episodes/N01/source/capabilities.json",
+      "to": "episodes/N01/source/snapshots/capabilities.json"
+    },
+    {
+      "from": "episodes/N01/frames/capabilities.png",
+      "to": "episodes/N01/frames/snapshots/capabilities.png"
+    },
+    {
+      "from": "episodes/N01/source/consumption.json",
+      "to": "episodes/N01/source/snapshots/consumption.json"
+    },
+    {
+      "from": "episodes/N01/frames/consumption.png",
+      "to": "episodes/N01/frames/snapshots/consumption.png"
+    },
+    {
+      "from": "episodes/N01/source/scenarios.json",
+      "to": "episodes/N01/source/snapshots/scenarios.json"
+    },
+    {
+      "from": "episodes/N01/frames/scenarios.png",
+      "to": "episodes/N01/frames/snapshots/scenarios.png"
+    },
+    {
+      "from": "episodes/N01/source/enterprise.json",
+      "to": "episodes/N01/source/snapshots/enterprise.json"
+    },
+    {
+      "from": "episodes/N01/frames/enterprise.png",
+      "to": "episodes/N01/frames/snapshots/enterprise.png"
+    },
+    {
+      "from": "episodes/N01/source/docs.json",
+      "to": "episodes/N01/source/snapshots/docs.json"
+    },
+    {
+      "from": "episodes/N01/frames/docs.png",
+      "to": "episodes/N01/frames/snapshots/docs.png"
+    },
+    {
+      "from": "shared/brand/v0.1/source/review-desktop.png",
+      "to": "shared/brand/v0.1/review/frames/review-desktop.png"
+    },
+    {
+      "from": "shared/brand/v0.1/source/review-mobile.png",
+      "to": "shared/brand/v0.1/review/frames/review-mobile.png"
+    },
+    {
+      "from": "shared/brand/v0.1/source/sample-ui-check.jpg",
+      "to": "shared/brand/v0.1/review/frames/sample-ui-check.jpg"
+    },
+    {
+      "from": "shared/brand/v0.1/source/player-verification.json",
+      "to": "shared/brand/v0.1/review/player-verification.json"
+    },
+    {
+      "from": "shared/brand/v0.1/source/sample-verification.json",
+      "to": "shared/brand/v0.1/review/sample-verification.json"
+    },
+    {
+      "from": "shared/brand/v0.1/source/visual-verification.json",
+      "to": "shared/brand/v0.1/review/visual-verification.json"
+    },
+    {
+      "from": "shared/brand/v0.1/source/word-boundary-comparison.json",
+      "to": "shared/brand/v0.1/review/word-boundary-comparison.json"
+    }
+  ],
+  "removed": [
+    {
+      "path": "episodes/N01/frames/qa-103.jpg",
+      "bytes": 123124,
+      "sha256": "7b8d359beeddc3862fd06daccacf4bc6b725783c320ac29d20db3fc67b5c8f1b",
+      "reason": "旧成片验收截图；当前镜头验收图另存 review/frames",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N01/frames/qa-145.jpg",
+      "bytes": 148730,
+      "sha256": "2906e06b3d320f25913198043024050549ef12b532ae323d37caec4d35c06997",
+      "reason": "旧成片验收截图；当前镜头验收图另存 review/frames",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N01/frames/qa-175.jpg",
+      "bytes": 118402,
+      "sha256": "47767e958590852f4981df75e8ba40366a23625eb98f1b082f210e2674eca900",
+      "reason": "旧成片验收截图；当前镜头验收图另存 review/frames",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N01/frames/qa-200.jpg",
+      "bytes": 190912,
+      "sha256": "a7cee75d54f5ca19ef82a6f2ac5dbc471a739380a2ef3b90e367a56989ff0960",
+      "reason": "旧成片验收截图；当前镜头验收图另存 review/frames",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N01/frames/qa-21.jpg",
+      "bytes": 145166,
+      "sha256": "7340e9f17acd2fade7cfeccdf677404856fbc2bdd7f22948b7c068bb17c75e89",
+      "reason": "旧成片验收截图；当前镜头验收图另存 review/frames",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N01/frames/qa-225.jpg",
+      "bytes": 83977,
+      "sha256": "d4fd4273d05a8d577fe9bf076a313d13a5e0d2b210a76f236f18f49540115dff",
+      "reason": "旧成片验收截图；当前镜头验收图另存 review/frames",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N01/frames/qa-3.jpg",
+      "bytes": 76433,
+      "sha256": "21cafe1841c25350fd4a13b697f111f5b0f5927cc550c2dc997c20c5ac9338bf",
+      "reason": "旧成片验收截图；当前镜头验收图另存 review/frames",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N01/frames/qa-56.jpg",
+      "bytes": 142069,
+      "sha256": "d48a0f65145531f6703df6847e2189089810c8da0eb0371837432a2ffb4368e5",
+      "reason": "旧成片验收截图；当前镜头验收图另存 review/frames",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N01/frames/qa-v2-docs.jpg",
+      "bytes": 126459,
+      "sha256": "596d31a98a921df34ab5743587d6f37625545e02760b7aa08e48619920d0a4ae",
+      "reason": "旧成片验收截图；当前镜头验收图另存 review/frames",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N01/frames/qa-v2-positioning.jpg",
+      "bytes": 150360,
+      "sha256": "e9400e104d33fac1a24d2c7a61b596088df589421427667923e22650f36c63cf",
+      "reason": "旧成片验收截图；当前镜头验收图另存 review/frames",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N01/frames/subtitle-check.png",
+      "bytes": 257420,
+      "sha256": "c8ca5002fc6a854318e3f1bc763f2f4f28b0bda122a8229e09cd1caeb76a77e6",
+      "reason": "旧成片验收截图；当前镜头验收图另存 review/frames",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N01/source/serve.py",
+      "bytes": 1867,
+      "sha256": "9acb22862c5a1ad0136c24952182a0aeb505ef3a0a2be6c60219ac027ce62474",
+      "reason": "合并到统一 tools/serve.py；仅端口不同的旧服务器副本",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/frames/qa-120.jpg",
+      "bytes": 142619,
+      "sha256": "7f780b513a07a62741c48af60cb592dcf1e2d8b90274798591a57baca12e8d9f",
+      "reason": "旧成片验收截图；当前镜头验收图另存 review/frames",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/frames/qa-138.jpg",
+      "bytes": 186669,
+      "sha256": "fdc570507e13a98a41607a1b0395927518cbaf5b5accfc5542f3e9768f5910ee",
+      "reason": "旧成片验收截图；当前镜头验收图另存 review/frames",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/frames/qa-158.jpg",
+      "bytes": 224927,
+      "sha256": "ec77b3b1194ebe1546541e3ebcb7d4ce656238c4ecdb94cc827b881a03859061",
+      "reason": "旧成片验收截图；当前镜头验收图另存 review/frames",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/frames/qa-172.jpg",
+      "bytes": 202826,
+      "sha256": "83150f5e79cc05e5b7493fbdecfbf86704eda3bcf82584494bccbf3f076ddbb9",
+      "reason": "旧成片验收截图；当前镜头验收图另存 review/frames",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/frames/qa-190.jpg",
+      "bytes": 308627,
+      "sha256": "8c5d6dd12c369c7b5d9db044199bce914df85b8d8877a594baa73f2cde38fe5b",
+      "reason": "旧成片验收截图；当前镜头验收图另存 review/frames",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/frames/qa-194.jpg",
+      "bytes": 306440,
+      "sha256": "b44029d5df72b1f66f3a2f7761328fb23c6a86ab0425f63e6e37a9042450a862",
+      "reason": "旧成片验收截图；当前镜头验收图另存 review/frames",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/frames/qa-202.jpg",
+      "bytes": 308763,
+      "sha256": "4e0e39c32c940d0eaff1df9757721dd1b71ea7786445ea3dbc126b843be2b1f6",
+      "reason": "旧成片验收截图；当前镜头验收图另存 review/frames",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/frames/qa-217.jpg",
+      "bytes": 305595,
+      "sha256": "530638b31dab63b58218730c27af803dc873e48e940e66c34fd62e0846558669",
+      "reason": "旧成片验收截图；当前镜头验收图另存 review/frames",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/frames/qa-231.jpg",
+      "bytes": 139123,
+      "sha256": "d4a7660a4e760ecf2a4bdbaff5b9ff60af2f5ab49401398344845efb9bcdd91d",
+      "reason": "旧成片验收截图；当前镜头验收图另存 review/frames",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/frames/qa-25.jpg",
+      "bytes": 132312,
+      "sha256": "39dfd845b81642fe51332e8e7ccc9072a815ad015ba02cdb171f4eeeefd03cf1",
+      "reason": "旧成片验收截图；当前镜头验收图另存 review/frames",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/frames/qa-255.jpg",
+      "bytes": 143955,
+      "sha256": "0d4da2c65172a7f613f3e876e1a7b8a1d6183cc8970e442f628c93200a75323d",
+      "reason": "旧成片验收截图；当前镜头验收图另存 review/frames",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/frames/qa-3.jpg",
+      "bytes": 129245,
+      "sha256": "1402c81b176e8a809d15129f3dfae8fc73e34824b65d3d470c719c5395cf663b",
+      "reason": "旧成片验收截图；当前镜头验收图另存 review/frames",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/frames/qa-60.jpg",
+      "bytes": 127747,
+      "sha256": "34670963b48f013f54a589b0a512c5221803ca77cc44eec5a3a04f939506d705",
+      "reason": "旧成片验收截图；当前镜头验收图另存 review/frames",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/frames/qa-85.jpg",
+      "bytes": 131665,
+      "sha256": "c621d587b702fc85ffeb9231a2aae1b0dd9ca0453205b9518f5420f9f729c16c",
+      "reason": "旧成片验收截图；当前镜头验收图另存 review/frames",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/source/serve.py",
+      "bytes": 1867,
+      "sha256": "be29f0f04c46e7fcc2487756f0074790383c58b0f836db0fc3a0bd02f6d6da4e",
+      "reason": "合并到统一 tools/serve.py；仅端口不同的旧服务器副本",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N01/assets/recordings/page@8610e1bcd514f1d85e3fc71dc1b2fc8c.webm",
+      "bytes": 20570855,
+      "sha256": "3e72eceb79124df8e6f5bd3e3ac938f698122755f0ce5cdb1bdca50287851190",
+      "reason": "旧录屏；当前 source 的全部录屏元数据均未引用，已在 Git/LFS 保存",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N01/frames/scenarios-recorded.png",
+      "bytes": 178483,
+      "sha256": "79ae00c7df6a0d39ab7d669c7ff78147bbfce71e57c25717677fc02254ad8935",
+      "reason": "v1 旧版网页录屏截图，当前使用新录制画面",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N01/frames/capabilities-recorded.png",
+      "bytes": 225237,
+      "sha256": "730ce71422502c0d6e09ced70663ae71c0d17d868ded643a0a2fd15479c77cc4",
+      "reason": "v1 旧版网页录屏截图，当前使用新录制画面",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N01/frames/docs-recorded.png",
+      "bytes": 262582,
+      "sha256": "b24cee09d76b31fccea937c61c781b92a2eea0ee0b590f8d2a9ea5cebc982190",
+      "reason": "v1 旧版网页录屏截图，当前使用新录制画面",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N01/frames/positioning-recorded.png",
+      "bytes": 224329,
+      "sha256": "21d0b035051035fd7ddddb136afb3276978bfa5c8a727a7bfa73f5f9cf80fb67",
+      "reason": "v1 旧版网页录屏截图，当前使用新录制画面",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N01/frames/enterprise-recorded.png",
+      "bytes": 128953,
+      "sha256": "75786f7867d5de1e38264c7f75ba0afcaf3a2f8154d178d5e9eb91cd58ef7a97",
+      "reason": "v1 旧版网页录屏截图，当前使用新录制画面",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N01/frames/consumption-recorded.png",
+      "bytes": 136968,
+      "sha256": "8258b7f5ab39b9c998609ac52e8c42474d5d98b0b79812b4de82681265182baf",
+      "reason": "v1 旧版网页录屏截图，当前使用新录制画面",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N01/frames/cover.png",
+      "bytes": 272828,
+      "sha256": "10d7758a0532f32272f3cad8eb0feb343a72c1c23e8c4d4024cfd81fe3a432c5",
+      "reason": "旧版封面；当前封面为 poster.jpg",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N01/audio/voice-test.mp3",
+      "bytes": 42048,
+      "sha256": "7fcf05105343bcb72010ba0d73f674b71fbac0cc3bcba2478c122a1c12a935b2",
+      "reason": "导入时试音；标准参考统一在 shared/brand",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/assets/recordings/page@68e1130347faae85038cf2a53b1ed26d.webm",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "reason": "旧录屏；当前 source 的全部录屏元数据均未引用，已在 Git/LFS 保存",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/assets/recordings/page@345fff82759658b5c4849c75de084a7e.webm",
+      "bytes": 4022912,
+      "sha256": "60e60a4ed8df33b20955e4be50e426efc8f7405a7d26330444b327845e765847",
+      "reason": "旧录屏；当前 source 的全部录屏元数据均未引用，已在 Git/LFS 保存",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/assets/recordings/page@2f16e913b8c822af906af1b4e3dbd403.webm",
+      "bytes": 4142886,
+      "sha256": "dd56290d06f7af32a560c74793ffb1c4aa9254139f7c1b484a0974ebfac9aa0a",
+      "reason": "旧录屏；当前 source 的全部录屏元数据均未引用，已在 Git/LFS 保存",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/assets/recordings/page@db75425231e21f67043647bbdd2cae1e.webm",
+      "bytes": 2957310,
+      "sha256": "a6706425189330f71c5bc4c59a2c7539320ded5a92268a3452eefeeec95a31e4",
+      "reason": "旧录屏；当前 source 的全部录屏元数据均未引用，已在 Git/LFS 保存",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/assets/recordings/page@c84d9cd729fa9b3229327925ed036395.webm",
+      "bytes": 1835008,
+      "sha256": "49c0350044148936e186ba4481f194e30f2623a6fb9aa76993ff2d167f7ec0f7",
+      "reason": "旧录屏；当前 source 的全部录屏元数据均未引用，已在 Git/LFS 保存",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/frames/slide-case.png",
+      "bytes": 272294,
+      "sha256": "36d4aa9bbed66401e9b5461a62c51492a740860958ad40b625dce63e5d6c1610",
+      "reason": "旧版图解；当前镜头使用 brand-* 与 scenes.json",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/frames/slide-decision.png",
+      "bytes": 275803,
+      "sha256": "dd92ec0e190b6cbeed4ad94a15705ec1310a75eab002915d92b90ed0e731e8df",
+      "reason": "旧版图解；当前镜头使用 brand-* 与 scenes.json",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/frames/slide-intro.png",
+      "bytes": 337104,
+      "sha256": "3adc36b85600bbfd1830a62e5073090436f37d37b77fa656c718526e5d8691ac",
+      "reason": "旧版图解；当前镜头使用 brand-* 与 scenes.json",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/frames/slide-roles.png",
+      "bytes": 269944,
+      "sha256": "2f9c515e69baa10cbdd457b8ec62a121b4507ad99f1a056f9b865cd526fed3f8",
+      "reason": "旧版图解；当前镜头使用 brand-* 与 scenes.json",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/frames/slide-limits.png",
+      "bytes": 267503,
+      "sha256": "ab5bcc3148df9cb49091d6e100bb82a692e667c4b6034db7de49937fa6d6484e",
+      "reason": "旧版图解；当前镜头使用 brand-* 与 scenes.json",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N01/source/brand-base.css",
+      "bytes": 3676,
+      "sha256": "5be0c95e27a0d9b3b31cfd24d923bd0f390ccec88a3099d095a997bc51f1acf1",
+      "reason": "与已确认公共模板样式一致；统一引用 shared/brand/v0.1/visual/base.css",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/source/brand-base.css",
+      "bytes": 3677,
+      "sha256": "e21e957053710211d2539f1dd7d50ebb9dc8c8efe1eb4e086205e1f9871c26ac",
+      "reason": "与已确认公共模板样式一致；统一引用 shared/brand/v0.1/visual/base.css",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N01/source/capture-brand.cjs",
+      "bytes": 1682,
+      "sha256": "9c585ca6a4370731ed89a7b1257fb9c147e281f80a9c429c23c2808b38b62b0a",
+      "reason": "两个文件内容完全相同；统一使用 tools/capture-brand.cjs <编号>",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    },
+    {
+      "path": "episodes/N02/source/capture-brand.cjs",
+      "bytes": 1682,
+      "sha256": "9c585ca6a4370731ed89a7b1257fb9c147e281f80a9c429c23c2808b38b62b0a",
+      "reason": "两个文件内容完全相同；统一使用 tools/capture-brand.cjs <编号>",
+      "recover_commit": "027a475fc35751f40b67b993ed521227fbcde8cb"
+    }
+  ],
+  "removed_bytes": 40791063,
+  "note": "所有清理项删除前验证已存在于所记 Git 提交；媒体验证 LFS 内容哈希。此记录不代表回收 Git 历史存储。"
+}

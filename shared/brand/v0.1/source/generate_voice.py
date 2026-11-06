@@ -43,6 +43,7 @@ async def synth(target, text, voice, rate):
 
 
 async def main():
+    (ROOT / "review/frames").mkdir(parents=True, exist_ok=True)
     gate = asyncio.Semaphore(3)
     async def candidate(c):
         async with gate:

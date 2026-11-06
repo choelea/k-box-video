@@ -1,0 +1,18 @@
+{
+  "revision": 3,
+  "date": "2026-11-03",
+  "previous_project": "archive/N01-intro-v2",
+  "previous_video_sha256": "cfe0114e664481ca15e0601b33c51c1fac72115395eef4d0173114e2f50f91a1",
+  "video_sha256": "6302302b674a11605aea7f404c8ecdb7c9044d4b3598e414a97e0de0b0910e81",
+  "corrected_sentence": "首先看产品定位。问学知识平台位于企业知识和上层智能体之间，承担企业知识就绪层的角色。",
+  "rule": "问学是上位品牌，K-BOX / 问学知识平台是旗下产品，不以问学单独代称产品",
+  "changed_audio": [
+    "01_00"
+  ],
+  "picture_alignment": "原定位录屏按原始句子时点切段，首句末尾保持画面以适配新口播；其余章节素材复用，整体随时间线平移",
+  "technical_verification": "full decode, subtitle length, shot continuity, chapter playback, loudness passed",
+  "content_review": "needs-review; new sentence pronunciation and full synchronization need listening",
+  "related_findings": "N02 two shortened product mentions recorded as pending; its video is unchanged",
+  "historical_projects_git_commit": "f94f225ab96682f8903acfe875166161819dbdf2",
+  "historical_paths_note": "旧目录仅表示历史版本位置；见 reports/history/历史版本.json 恢复"
+}

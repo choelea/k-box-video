@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "duration": 232.04,
+    "width": 1920,
+    "height": 1080,
+    "error": null
+  },
+  "seeks": [
+    {
+      "time": 10.832433,
+      "playing": true,
+      "error": null,
+      "target": 10.516
+    },
+    {
+      "time": 42.991897,
+      "playing": true,
+      "error": null,
+      "target": 42.684
+    },
+    {
+      "time": 89.588386,
+      "playing": true,
+      "error": null,
+      "target": 89.272
+    },
+    {
+      "time": 120.846495,
+      "playing": true,
+      "error": null,
+      "target": 120.528
+    },
+    {
+      "time": 160.737621,
+      "playing": true,
+      "error": null,
+      "target": 160.434
+    },
+    {
+      "time": 189.754741,
+      "playing": true,
+      "error": null,
+      "target": 189.444
+    }
+  ]
+}

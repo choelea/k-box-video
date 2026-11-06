@@ -222,13 +222,13 @@ B 是任务入口，C–L 是深入学习路径。跨主线主题只选择一个
 4. **编写脚本与分镜**：采用“目标结果 → 前提 → 讲解或操作 → 核验”的结构。配音、字幕、屏幕重点和预计时长同步编排，保证单条 2–7 分钟。
 5. **保存可维护素材**：保留选题卡、脚本、案例资料、录屏、配音、字幕与功能依据。界面变化时可以更新相关片段，不需要重做整个系列。
 
-现有《问学知识平台基础介绍》试片时长约 3 分 51 秒，作为 A 主线的首条候选成片；已覆盖产品定位、产品能力、知识消费、应用场景、企业级保障和文档中心。
+现有《问学知识平台基础介绍》v3 时长约 3 分 52 秒，作为 A 主线的首条候选成片；已覆盖产品定位、产品能力、知识消费、应用场景、企业级保障和文档中心。
 
 ## 9. 内容核验依据
 
 - [平台概述](../../k-box-wiki/docs/features/platform-overview.md)、[知识库类型](../../k-box-wiki/docs/features/knowledge-base-types.md)、[知识库空间](../../k-box-wiki/docs/features/kb-space.md)：产品定位与知识组织。
 - [文档处理](../../k-box-wiki/docs/features/document-processing.md)、[检索能力](../../k-box-wiki/docs/features/search-retrieval.md)、[Agentic RAG](../../k-box-wiki/docs/features/agentic-rag.md)：处理、检索与问答。
-- [Wiki 设计总览](../概要设计/Wiki/README.md)、[知识图谱设计总览](../概要设计/知识图谱/README.md)、[数据洞察设计总览](../概要设计/数据洞察/README.md)：各领域实现与边界。
+- [Wiki 设计总览](../../k-box-docs/概要设计/Wiki/README.md)、[知识图谱设计总览](../../k-box-docs/概要设计/知识图谱/README.md)、[数据洞察设计总览](../../k-box-docs/概要设计/数据洞察/README.md)：各领域实现与边界。
 - [租户操作权限](../../k-box-wiki/docs/features/system-management-permissions.md)、[生命周期与运营](../../k-box-wiki/docs/features/task-operations-observability.md)、[外部集成](../../k-box-wiki/docs/features/integration-overview.md)：管理与运营依据。
 - [当前菜单配置](../../k-box-ui/src/config/menu.ts)、[Skill 类型定义](../../k-box-api/core-domain/src/main/java/com/kbox/domain/enums/SkillType.java)、[本体 Skill 生成器](../../k-box-api/api-kb/src/main/java/com/kbox/api/kb/generator/skill/OntologySkillGenerator.java)：当前工作区新增入口与供给形态的核对线索。
 

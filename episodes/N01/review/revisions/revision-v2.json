@@ -1,0 +1,39 @@
+{
+  "revision": 2,
+  "updated_on": "2026-11-03",
+  "previous_project": "archive/N01-intro-v1",
+  "previous_video_sha256": "02b5d59361cef20a62e0c3e9703df9df7789aeb8a92958c079d63ba9c9324e21",
+  "video_sha256": "cfe0114e664481ca15e0601b33c51c1fac72115395eef4d0173114e2f50f91a1",
+  "changes": [
+    "六个公开页面重新采集并留存源录屏",
+    "开发者文档菜单与末章统一为文档中心；同步 API 参考名称",
+    "三处品牌语境采用 C 方案；统一视觉基线 0.1",
+    "前五章录屏起点以真实画面高亮校准；文档中心静帧按语义精确切换"
+  ],
+  "verification": {
+    "revision": 2,
+    "duration": 231.4,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fps": "25/1",
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "chapters": 8,
+    "size_mb": 11.36,
+    "full_decode": "passed",
+    "subtitle_semantic_chunks": "passed",
+    "continuous_shot_frames": "passed",
+    "brand_occurrences": 3,
+    "brand_treatment": "approved-C treatment applied; three N01 contexts require listening"
+  },
+  "loudness": {
+    "integrated_lufs": -16.1,
+    "true_peak_dbtp": -1.67,
+    "source": "decoded final AAC stream, FFmpeg loudnorm input measurement"
+  },
+  "content_review": "needs-review; brand contexts and full listening remain pending",
+  "historical_projects_git_commit": "f94f225ab96682f8903acfe875166161819dbdf2",
+  "historical_paths_note": "旧目录仅表示历史版本位置；见 reports/history/历史版本.json 恢复"
+}

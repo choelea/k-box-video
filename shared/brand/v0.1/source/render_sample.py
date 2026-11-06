@@ -33,6 +33,7 @@ def plain(text):
 
 
 def main():
+    (ROOT / "review/frames").mkdir(parents=True, exist_ok=True)
     build = ROOT / 'build'
     build.mkdir(exist_ok=True)
     cues = []
@@ -146,7 +147,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
                                  for s, a, b, v in SHOTS],
         'cues': cues, 'voice_candidate': PLAN['sample']['candidate']
     }, ensure_ascii=False, indent=2) + '\n')
-    (ROOT / 'source/sample-verification.json').write_text(json.dumps({
+    (ROOT / 'review/sample-verification.json').write_text(json.dumps({
         'duration': float(probe['format']['duration']), 'resolution': [1920, 1080],
         'fps': v['r_frame_rate'], 'chapters': len(probe['chapters']),
         'full_decode': 'passed', 'pronunciation_approval': 'pending',

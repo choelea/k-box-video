@@ -1,0 +1,15 @@
+{
+  "note": "历史完整项目在 Git 中恢复，不再保留 archive 工作目录；恢复后需 git lfs pull",
+  "restore_commit": "f94f225ab96682f8903acfe875166161819dbdf2",
+  "projects": [
+    "archive/N01-intro-v1",
+    "archive/N01-intro-v2",
+    "archive/N02-enterprise-v1",
+    "archive/N02-movie"
+  ],
+  "example_commands": [
+    "git worktree add --detach ../k-box-video-history f94f225ab96682f8903acfe875166161819dbdf2",
+    "git -C ../k-box-video-history lfs pull"
+  ],
+  "historical_records": "同目录迁移、修订记录中的旧路径表示当时位置，不是当前构建依赖"
+}

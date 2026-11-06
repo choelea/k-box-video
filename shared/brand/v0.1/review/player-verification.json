@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "duration": 30,
+    "width": 1920,
+    "height": 1080,
+    "error": null
+  },
+  "linksChecked": 13,
+  "candidatePlayback": [
+    {
+      "duration": 16.038,
+      "time": 0,
+      "playing": true,
+      "error": null
+    },
+    {
+      "duration": 16.71,
+      "time": 0,
+      "playing": true,
+      "error": null
+    },
+    {
+      "duration": 15.846,
+      "time": 0,
+      "playing": true,
+      "error": null
+    },
+    {
+      "duration": 17.622,
+      "time": 0.238734,
+      "playing": true,
+      "error": null
+    }
+  ],
+  "chapterSeeks": [
+    {
+      "time": 0.219657,
+      "playing": true,
+      "error": null,
+      "target": 0
+    },
+    {
+      "time": 6.256554,
+      "playing": true,
+      "error": null,
+      "target": 6
+    },
+    {
+      "time": 16.216124,
+      "playing": true,
+      "error": null,
+      "target": 16
+    },
+    {
+      "time": 26.211207,
+      "playing": true,
+      "error": null,
+      "target": 26
+    }
+  ],
+  "mobileOverflow": false,
+  "pageErrors": [],
+  "pronunciationApproval": "pending"
+}

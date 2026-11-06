@@ -5,7 +5,7 @@
 - [试看与试听](试看.html)：四套候选、30 秒样片与四种公共画面。
 - [样片 MP4](品牌风格样片.mp4)、[样片字幕](品牌风格样片.srt)、[视觉总览](visual/风格总览.jpg)。
 - [语音测试源](source/voice-plan.json)：正式写法与合成输入分别保存。
-- [视觉参数](visual/tokens.json)、[可编辑模板](visual/template.html)。
+- [视觉参数](visual/tokens.json)、[统一样式](visual/base.css)、[可编辑模板](visual/template.html)。
 - [品牌发音规范](../../../standards/品牌与发音.md)、[视觉风格规范](../../../standards/视觉风格.md)。
 
 ## 读音候选
@@ -36,4 +36,4 @@ python tools/serve.py . --port 8770
 
 访问 `/shared/brand/v0.1/试看.html`。生成脚本会按请求参数复用已生成的句子；改文本、音色或语速会重新生成对应语音。随后仍会重新拼接候选试听音频；样片需要单独重导。
 
-每个请求的音色、语速和原文保存在 voice/*.request.json。视觉颜色、字号与布局在 tokens.json 和 template.html 中同步修改。选定读音已记录在 shared/pronunciation.json，视觉确认记录在 source/review-status.json 与 visual/tokens.json。
+每个请求的音色、语速和原文保存在 voice/*.request.json。视觉颜色、字号与布局在 visual/base.css 与 tokens.json 中同步维护；template.html 和单集 HTML 共用基础样式。技术核验保存在 review/。选定读音已记录在 shared/pronunciation.json，视觉确认记录在 source/review-status.json 与 visual/tokens.json。

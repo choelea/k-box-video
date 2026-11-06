@@ -1,9 +1,9 @@
 # K-BOX 视频制作约定
 
-本仓库是问学知识平台视频的维护入口。选题在 planning/，当前项目在 episodes/，历史试片在 archive/。后续视频工作保存在这里；不再以聊天临时目录或 k-box-docs 中旧副本作为维护源。
+本仓库是问学知识平台视频的维护入口。planning/ 维护系列选题，episodes/ 维护单集当前项目，distribution/ 维护发布接入，reports/history/ 记录历史恢复与迁移。历史项目使用 Git/LFS，不再维护 archive/ 副本；构建不可读取历史目录。k-box-docs 只保留视频入口，产品音视频解析设计仍归产品文档仓库。
 
 - 每条成片 2–7 分钟；沿用 N（认知与选型）、T（任务实操）、S（细节专题）、R（诊断与优化）编号，不因排序重编号。
-- 先读 README.md、standards/ 和对应 episode.json，保留已有修改与历史试片。
+- 先读 README.md、standards/ 和对应 episode.json，保留已有修改；旧版通过 Git/LFS 恢复。
 - 命名层级（2026-11-03 用户明确纠正）：**问学是上位品牌；K-BOX 是旗下产品，中文产品名为“问学知识平台”**。描述产品定位、能力、架构、知识库及界面时使用“问学知识平台”“K-BOX”或上下文明确的“本平台”，不得单独用“问学”指代此产品，不推断问学旗下其他产品或整个品牌的定位。
 - 产品名中的“问学”自然连读。当前视频采用 C 配音方案及统一视觉；新语境和整片仍需核听，不把技术检查视为发音审阅。
 - 2026-11-02 用户确认品牌基线：采用 C 方案（晓晓女声 +12%，合成时品牌加引号，正式字幕保留原名）及深蓝金色视觉。后续制作先读 shared/brand/active.json 并复用已确认模板，不再逐条重选风格。
@@ -13,3 +13,7 @@
 - 媒体由 Git LFS 管理，build/ 可重新生成。不得提交账号密码、Token、浏览器会话状态。重新录制通过外部环境变量提供会话文件。
 - 修改交付物后同步 episode.json、assets.json 和核验记录。技术检查通过不等于用户内容审阅通过。
 - 不自动重新执行线上问答或覆盖录屏；现有成片可以离线重新合成。核验/导出入口为 tools/video.py。
+
+- 文件分类先读 standards/目录与版本管理.md。生产画面在 frames/，验收图片和记录在 review/，单集修订记录在 review/revisions/；build/ 只保存可再生缓存。
+- 公共基础样式只维护 shared/brand/v0.1/visual/base.css；公共录图入口为 tools/capture-brand.cjs。
+- 配音更新必须同步 source/narration-manifest.json；--check-only 禁止合成和写文件。整理后运行 tools/audit.py，并解释所有新的重复组。

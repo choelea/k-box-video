@@ -10,12 +10,9 @@ for rec in records:
   reports.append({'id':id,**rec['sync']});continue
  buf=subprocess.check_output(['ffmpeg','-v','error','-i',str(R/rec['videoPath']),'-vf','fps=10,scale=352:176','-f','rawvideo','-pix_fmt','rgb24','-']);n=352*176*3;frames=[Image.frombytes('RGB',(352,176),buf[a:a+n]) for a in range(0,len(buf),n)]
  refs=[]
- if id=='docs':
-  refs=[(1,next(x['time'] for x in rec['events'] if x['type']=='focus' and x['selector']=='.docs-choice')),(2,next(x['time'] for x in rec['events'] if x['type']=='scroll' and x['selector']=='#deployment')),(3,next(x['time'] for x in rec['events'] if x['type']=='focus' and x['selector']=='.quick-start-card:nth-child(2)'))]
- else:
-  events=[e for e in rec['events'] if e['type']=='focus']
-  if id=='positioning':refs=[(1,events[1]['time']),(2,events[2]['time'])]
-  else:refs=[(i+1,e['time']) for i,e in enumerate(events)]
+ events=[e for e in rec['events'] if e['type']=='focus']
+ if id=='positioning':refs=[(1,events[1]['time']),(2,events[2]['time'])]
+ else:refs=[(i+1,e['time']) for i,e in enumerate(events)]
  templates=sorted((R/'frames').glob(f'v2-{id}-[0-9].png'))
  images={int(p.stem.split('-')[-1]):Image.open(p).convert('RGB').resize((352,176)) for p in templates}
  scores={li:[sum(ImageStat.Stat(ImageChops.difference(im,f)).mean)/3 for f in frames] for li,im in images.items()}
@@ -31,4 +28,4 @@ for rec in records:
  assert start>=0 and spread<.4,(id,offsets)
  rec['sync']={'method':'observed screenshot state transitions minus recorded action times','start_seconds':round(start,3),'spread_seconds':round(spread,3),'sampling_fps':10}
  reports.append({'id':id,**rec['sync'],'matches':matches});print(id,rec['sync'],flush=True)
-(R/'source/scene-recordings.json').write_text(json.dumps(records,ensure_ascii=False,indent=2)+'\n');(R/'source/capture-sync-verification.json').write_text(json.dumps(reports,ensure_ascii=False,indent=2)+'\n')
+(R/'source/scene-recordings.json').write_text(json.dumps(records,ensure_ascii=False,indent=2)+'\n');(R/'review/capture-sync-verification.json').write_text(json.dumps(reports,ensure_ascii=False,indent=2)+'\n')

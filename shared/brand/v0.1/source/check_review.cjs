@@ -31,13 +31,13 @@ const R=path.dirname(__dirname),URL='http://127.0.0.1:8770/shared/brand/v0.1/'+e
  }
  await page.locator('video').evaluate(v=>{v.pause();v.currentTime=18});
  await page.waitForTimeout(300);await page.evaluate(()=>scrollTo(0,0));
- await page.screenshot({path:path.join(R,'source/review-desktop.png')});
+ await page.screenshot({path:path.join(R,'review/frames/review-desktop.png')});
  await page.setViewportSize({width:390,height:844});await page.waitForTimeout(200);
  const overflow=await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth);
  if(overflow)throw Error('Mobile overflow');
- await page.screenshot({path:path.join(R,'source/review-mobile.png')});
+ await page.screenshot({path:path.join(R,'review/frames/review-mobile.png')});
  if(errors.length)throw Error(errors.join('\n'));
  const result={metadata,linksChecked:links.length,candidatePlayback:audio,chapterSeeks:seeks,mobileOverflow:false,pageErrors:errors,pronunciationApproval:'pending'};
- fs.writeFileSync(path.join(R,'source/player-verification.json'),JSON.stringify(result,null,2));
+ fs.writeFileSync(path.join(R,'review/player-verification.json'),JSON.stringify(result,null,2));
  console.log(JSON.stringify(result));await browser.close();
 })().catch(e=>{console.error(e);process.exit(1)});

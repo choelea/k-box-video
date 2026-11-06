@@ -21,5 +21,7 @@
   "revision": 3,
   "updated_on": "2026-11-03",
   "brand_baseline": "0.1",
-  "previous_revision": "archive/N01-intro-v2"
+  "review_directory": "review",
+  "narration_manifest": "source/narration-manifest.json",
+  "history_record": "../../reports/history/历史版本.json"
 }

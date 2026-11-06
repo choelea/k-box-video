@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-04",
+  "scope": "k-box-docs video planning and video distribution documentation",
+  "files": [
+    {
+      "from": "k-box-docs/规划/K-BOX视频系列-内容主线规划.md",
+      "to": "k-box-video/planning/K-BOX视频系列-内容主线规划.md",
+      "source_sha256": "531958c43f20da2090acfebe30f9bd592de36dc8698f2078e95f18b3f62a8a65",
+      "action": "removed duplicate after verifying all original content retained in the newer video document"
+    },
+    {
+      "from": "k-box-docs/规划/K-BOX视频系列-分类与选题规划.md",
+      "to": "k-box-video/planning/K-BOX视频系列-分类与选题规划.md",
+      "source_sha256": "9c516e937ec6fb079bb877fa2e467e373bb81f94cacccee4eae5951e22ab3b7e",
+      "action": "removed duplicate after verifying all original content retained in the newer video document"
+    },
+    {
+      "from": "k-box-docs/规划/N02-企业场景与深度模式录制方案.md",
+      "to": "k-box-video/planning/N02-企业场景与深度模式录制方案.md",
+      "source_sha256": "e55dccbb87fef2938a5bb0d1fedc04f0e9b00d0ef0e9448a1d5e2e76c04fe7a0",
+      "action": "removed duplicate after verifying all original content retained in the newer video document"
+    },
+    {
+      "from": "k-box-docs/概要设计/产品官网-首页介绍视频.md",
+      "to": "k-box-video/distribution/产品官网-首页介绍视频.md",
+      "source_sha256": "16b1292a14068c705f1ea0419eafb9c65cc10dd856eaf2b9748c1fbd311fb71a",
+      "action": "moved without content loss"
+    }
+  ],
+  "retained_product_design": "k-box-docs/概要设计/音视频文件处理-设计方案.md",
+  "note": "Three planning documents already had newer canonical copies. Original source SHA-256 recorded before removing duplicate files. Technical product docs and website serving assets remain in their owning projects."
+}

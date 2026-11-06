@@ -1,17 +1,13 @@
 """N01 v2: regenerate brand lines only; align formal subtitles to speech events."""
-import asyncio,json,pathlib,re,subprocess,wave
+import asyncio,json,pathlib,re,subprocess,wave,sys
 import edge_tts
 R=pathlib.Path(__file__).resolve().parent.parent;REPO=R.parent.parent
+sys.path.insert(0,str(REPO/'tools'))
+from narration import validate_existing,write_manifest
 plan=json.loads((R/'source/plan.json').read_text())
 overrides=json.loads((R/'source/speech-overrides.json').read_text())
 phrases=json.loads((R/'source/subtitle-phrases.json').read_text())
-# Fail clearly when an edited sentence lacks a regeneration request.
-base=json.loads((REPO/'archive/N01-intro-v1/source/plan.json').read_text())
-changed={row['stem'] for row in overrides['lines']}
-for ci,c in enumerate(plan):
- for li,text in enumerate(c['lines']):
-  if f'{ci:02}_{li:02}' not in changed:
-   assert text==base[ci]['lines'][li], 'Add changed sentence to speech-overrides.json'
+validate_existing(R,plan,overrides)
 voice=json.loads((REPO/'shared/pronunciation.json').read_text())['selected']
 assert voice['status']=='approved' and voice['selected_candidate']=='C'
 async def generate():
@@ -66,9 +62,13 @@ def timeline():
  for i in range(len(cues)-1):cues[i]['end']=min(cues[i]['end'],cues[i+1]['start']-.03)
  with wave.open(str(R/'audio/narration.wav'),'wb') as out:out.setparams((1,2,48000,0,'NONE','not compressed'));out.writeframes(data)
  (R/'source/timeline.json').write_text(json.dumps({'duration':clock,'chapters':chapters,'cues':cues},ensure_ascii=False,indent=2)+'\n')
- (R/'source/brand-occurrences.json').write_text(json.dumps(brands,ensure_ascii=False,indent=2)+'\n')
+ (R/'review/brand-occurrences.json').write_text(json.dumps(brands,ensure_ascii=False,indent=2)+'\n')
  (R/'问学知识平台-基础介绍.srt').write_text(''.join(f'{i+1}\n{stamp(x["start"])} --> {stamp(x["end"])}\n{x["text"]}\n\n' for i,x in enumerate(cues)).rstrip()+'\n')
  notes=(R/'source/production-notes.md').read_text()
  (R/'讲解稿.md').write_text('# 问学知识平台 · 基础介绍\n\n'+'\n\n'.join('## '+c['title']+'\n\n'+'\n\n'.join(c['lines']) for c in plan)+'\n\n---\n\n'+notes)
  print(json.dumps({'duration':clock,'brand_occurrences':len(brands)},ensure_ascii=False))
-if __name__=='__main__':asyncio.run(generate());timeline()
+if __name__=='__main__':
+ if '--check-only' in sys.argv:
+  print('Narration bindings validated; no synthesis or file writes.')
+ else:
+  asyncio.run(generate());timeline();write_manifest(R,plan)

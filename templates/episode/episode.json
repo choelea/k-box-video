@@ -8,5 +8,11 @@
     420
   ],
   "product_version": null,
-  "pending": []
+  "pending": [],
+  "script": "source/plan.json",
+  "reading_copy": "讲解稿.md",
+  "timeline": "source/timeline.json",
+  "narration_manifest": "source/narration-manifest.json",
+  "review_directory": "review",
+  "brand_baseline": "0.1"
 }

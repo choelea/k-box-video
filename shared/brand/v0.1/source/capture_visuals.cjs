@@ -15,6 +15,6 @@ const R=path.dirname(__dirname);
   await page.screenshot({path:path.join(R,'visual/frames',scene+'.png')});
   results.push({scene,viewport:[1920,1080],imagesLoaded:true,overflow:[]});
  }
- fs.writeFileSync(path.join(R,'source/visual-verification.json'),JSON.stringify(results,null,2));
+ fs.writeFileSync(path.join(R,'review/visual-verification.json'),JSON.stringify(results,null,2));
  await browser.close();console.log(JSON.stringify(results));
 })().catch(e=>{console.error(e);process.exit(1)});

@@ -2,17 +2,17 @@
   "version": 1,
   "files": [
     {
-      "path": "source/review-desktop.png",
-      "bytes": 414077,
-      "sha256": "372f2c242c2ae6d27becdacbd77f1ffe0c8451ea2a829ed0c55765ba07bd414e"
+      "path": "review/frames/review-desktop.png",
+      "bytes": 422147,
+      "sha256": "b1b614b0efb89f4290a12f3fe0d6ed387e6fe025375e644e0441e227b82d9e65"
     },
     {
-      "path": "source/review-mobile.png",
-      "bytes": 115653,
-      "sha256": "a1ea775b54b5047259652c071c6b66d9e3104e78300dcc86f833e495991ceb8e"
+      "path": "review/frames/review-mobile.png",
+      "bytes": 124328,
+      "sha256": "d36f45c9ca5685355c8cbf52f317c76e0bfb4b1657d4b483f1e5a2ca9a4a305f"
     },
     {
-      "path": "source/sample-ui-check.jpg",
+      "path": "review/frames/sample-ui-check.jpg",
       "bytes": 121418,
       "sha256": "a6bcf6ea7c0f079709c4ef1eb7cca94da46495669a0ae5dcd2b01d4e95606cc9"
     },
@@ -150,13 +150,6 @@
       "path": "品牌风格样片.mp4",
       "bytes": 1163586,
       "sha256": "1d6654b9baf48f00f567be3e85aba672aa8da989bb6c584c8c6d80c732ed54e4"
-    }
-  ],
-  "dependencies": [
-    {
-      "path": "episodes/N02/frames/record-evidence-ten.png",
-      "relative_to": "repository",
-      "sha256": "81ab3f0155cb6abb95659c163e9a1eebdb523fc9892ecd525ba9e91efaa8955d"
     }
   ]
 }

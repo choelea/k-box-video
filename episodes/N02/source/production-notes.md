@@ -9,5 +9,5 @@
 - 90 天复发换件、30 起及以上三级、批次六项动作、7/3/10 工作日责任与起算点、关键件报告评审沿用已核对依据。平台生成建议不表示冻结、派单或通知已执行。
 - 图解与标题改为已确认视觉样式；实操保留原产品界面。答案与引用详解为真实截图定格，检索为标明的慢放节选。引用面板金色外框为后期强调。
 - 分镜依据讲解片段和字幕句子生成，见 source/shots.json；每个边界统一对齐 25fps，避免片段累计误差。字幕按语义分句，每条不超过 26 个字符，不拆开品牌词。
-- 完整优化前企业版保存在 archive/N02-enterprise-v1，电影试片保存在 archive/N02-movie。
+- 完整优化前企业版与电影试片通过 reports/history/历史版本.json 中记录的 Git 提交恢复。
 - 技术检查记录见 verification.json、repository-verification.json、brand-visual-verification.json、player-verification.json；技术检查不代表新语境的品牌发音已被用户核听。
