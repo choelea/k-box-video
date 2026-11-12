@@ -1,0 +1,158 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 1674160,
+    "text": "以"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2843750,
+    "duration": 2678750,
+    "text": "中国"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5633750,
+    "duration": 3906250,
+    "text": "电影"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9763330,
+    "duration": 2120410,
+    "text": "前"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11883750,
+    "duration": 3013330,
+    "text": "500"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15008750,
+    "duration": 4464160,
+    "text": "知识库"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19585000,
+    "duration": 2008750,
+    "text": "为"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21593750,
+    "duration": 2008750,
+    "text": "例"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25557910,
+    "duration": 5022500,
+    "text": "平台"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30692080,
+    "duration": 2008750,
+    "text": "从"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32924160,
+    "duration": 3124999,
+    "text": "5份"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36272500,
+    "duration": 3013330,
+    "text": "精选"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39397500,
+    "duration": 3347910,
+    "text": "文档"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42745410,
+    "duration": 2455410,
+    "text": "中"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 46093750,
+    "duration": 5245410,
+    "text": "自动生"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 51450830,
+    "duration": 1674160,
+    "text": "成"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53125000,
+    "duration": 1004580,
+    "text": "了"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54352500,
+    "duration": 7812500,
+    "text": "557个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62388330,
+    "duration": 2790000,
+    "text": "主题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 65290000,
+    "duration": 4017910,
+    "text": "页面"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 72321250,
+    "duration": 3236660,
+    "text": "涵盖"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 75781250,
+    "duration": 4464160,
+    "text": "影片"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 81919580,
+    "duration": 4799160,
+    "text": "导演"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 88616250,
+    "duration": 3794580,
+    "text": "演员"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 92410830,
+    "duration": 1339160,
+    "text": "等"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 93861660,
+    "duration": 4575830,
+    "text": "实体"
+  }
+]

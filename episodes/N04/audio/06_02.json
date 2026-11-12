@@ -1,0 +1,134 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 2343750,
+    "text": "如果"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3513330,
+    "duration": 3013330,
+    "text": "同一"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6638330,
+    "duration": 4799160,
+    "text": "主题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11660830,
+    "duration": 1562500,
+    "text": "在"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13335000,
+    "duration": 1673750,
+    "text": "多"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15008750,
+    "duration": 1339160,
+    "text": "份"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16460000,
+    "duration": 3347910,
+    "text": "文档"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19807910,
+    "duration": 2567080,
+    "text": "中"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23267910,
+    "duration": 1562500,
+    "text": "有"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24942080,
+    "duration": 2901660,
+    "text": "不同"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27955410,
+    "duration": 4464160,
+    "text": "描述"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35321250,
+    "duration": 4017910,
+    "text": "页面"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39450830,
+    "duration": 1339160,
+    "text": "会"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 40901660,
+    "duration": 2901660,
+    "text": "使用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44026660,
+    "duration": 3236660,
+    "text": "中性"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47375000,
+    "duration": 4464160,
+    "text": "表述"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52732080,
+    "duration": 1785830,
+    "text": "并"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54629580,
+    "duration": 3013330,
+    "text": "标注"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 57754580,
+    "duration": 4575830,
+    "text": "差异"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 64397500,
+    "duration": 3906250,
+    "text": "方便"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 68526660,
+    "duration": 2790000,
+    "text": "人工"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71428750,
+    "duration": 5022500,
+    "text": "核查"
+  }
+]

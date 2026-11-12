@@ -1,0 +1,62 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 2455410,
+    "text": "如果"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3513330,
+    "duration": 4017910,
+    "text": "问题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7531250,
+    "duration": 1562500,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9317080,
+    "duration": 2901660,
+    "text": "追问"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12330410,
+    "duration": 4687500,
+    "text": "关系"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18580410,
+    "duration": 3571250,
+    "text": "探索"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22263330,
+    "duration": 4017910,
+    "text": "路径"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28513330,
+    "duration": 2232080,
+    "text": "选"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30968750,
+    "duration": 2567080,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33647500,
+    "duration": 4799160,
+    "text": "图谱"
+  }
+]

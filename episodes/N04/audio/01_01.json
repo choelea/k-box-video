@@ -1,0 +1,86 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 2008750,
+    "text": "同"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2955410,
+    "duration": 1785830,
+    "text": "一个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4964160,
+    "duration": 2901660,
+    "text": "主题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7866250,
+    "duration": 669580,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8647500,
+    "duration": 4910830,
+    "text": "信息"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15901660,
+    "duration": 2567080,
+    "text": "可能"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18580410,
+    "duration": 2790000,
+    "text": "需要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21593750,
+    "duration": 1674160,
+    "text": "翻"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23267910,
+    "duration": 3460000,
+    "text": "看好"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26950830,
+    "duration": 2790000,
+    "text": "几份"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29852500,
+    "duration": 4017910,
+    "text": "资料"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34875000,
+    "duration": 2678750,
+    "text": "才能"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37776660,
+    "duration": 3460000,
+    "text": "拼凑"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41348330,
+    "duration": 4464160,
+    "text": "完整"
+  }
+]

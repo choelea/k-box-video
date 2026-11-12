@@ -1,0 +1,13 @@
+{
+  "scenes": [
+    { "id": "intro", "type": "slide", "source": "frames/brand-intro.png" },
+    { "id": "overview", "type": "record", "source": "frames/v3-overview-0.png" },
+    { "id": "document", "type": "record", "source": "frames/v3-document-0.png" },
+    { "id": "wiki", "type": "record", "source": "frames/v3-document-1.png" },
+    { "id": "graph", "type": "record", "source": "frames/v3-retrieval-0.png" },
+    { "id": "insight", "type": "record", "source": "frames/v3-insight-0.png" },
+    { "id": "comparison", "type": "record", "source": "frames/v3-skill-0.png" },
+    { "id": "outro", "type": "slide", "source": "frames/brand-outro.png" }
+  ],
+  "note": "N03 场景配置；wiki/graph 暂用相近截图代替，后续补录"
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 1562500,
+    "text": "以"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2732080,
+    "duration": 2678750,
+    "text": "电影"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5522500,
+    "duration": 3013330,
+    "text": "图谱"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8647500,
+    "duration": 2008750,
+    "text": "为"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10656250,
+    "duration": 2120410,
+    "text": "例"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15232080,
+    "duration": 1339160,
+    "text": "它"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16571250,
+    "duration": 1562500,
+    "text": "从"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18357080,
+    "duration": 5022500,
+    "text": "影片"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24942080,
+    "duration": 4910830,
+    "text": "导演"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31973330,
+    "duration": 3571250,
+    "text": "演员"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35767910,
+    "duration": 1785830,
+    "text": "三"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37553750,
+    "duration": 1227500,
+    "text": "类"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38892910,
+    "duration": 3459580,
+    "text": "实体"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42352500,
+    "duration": 2790000,
+    "text": "中"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 46035830,
+    "duration": 3236660,
+    "text": "构建"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49272500,
+    "duration": 669580,
+    "text": "了"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50165000,
+    "duration": 3236660,
+    "text": "完整"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53401660,
+    "duration": 669580,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54294580,
+    "duration": 2678750,
+    "text": "关系"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 57085000,
+    "duration": 4241250,
+    "text": "网络"
+  }
+]

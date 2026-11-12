@@ -1,0 +1,116 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3013330,
+    "text": "智能"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4071250,
+    "duration": 4799160,
+    "text": "体会"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9651660,
+    "duration": 3460000,
+    "text": "搜索"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13335000,
+    "duration": 3460000,
+    "text": "相关"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16906250,
+    "duration": 4464160,
+    "text": "页面"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23156250,
+    "duration": 2901660,
+    "text": "阅读"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26169580,
+    "duration": 4352500,
+    "text": "内容"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33312500,
+    "duration": 1450830,
+    "text": "并"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34763330,
+    "duration": 1339160,
+    "text": "在"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36325830,
+    "duration": 2790000,
+    "text": "必要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39116250,
+    "duration": 3348330,
+    "text": "时"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 43357080,
+    "duration": 3460000,
+    "text": "回读"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47040000,
+    "duration": 2790000,
+    "text": "来源"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49942080,
+    "duration": 4129580,
+    "text": "文档"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 56192080,
+    "duration": 3013330,
+    "text": "给出"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 59205410,
+    "duration": 1562500,
+    "text": "带"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 60879580,
+    "duration": 3125000,
+    "text": "引用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 64004580,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 64897500,
+    "duration": 4017910,
+    "text": "回答"
+  }
+]

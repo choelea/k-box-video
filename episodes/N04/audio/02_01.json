@@ -1,0 +1,140 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 1897500,
+    "text": "每"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2843750,
+    "duration": 1562500,
+    "text": "份"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4517910,
+    "duration": 4241250,
+    "text": "资料"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8982080,
+    "duration": 1562500,
+    "text": "只"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10656250,
+    "duration": 2455410,
+    "text": "需要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13335000,
+    "duration": 3794580,
+    "text": "上传"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 17241250,
+    "duration": 4129580,
+    "text": "一次"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24272500,
+    "duration": 4910830,
+    "text": "平台"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29294580,
+    "duration": 1674160,
+    "text": "会"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31192080,
+    "duration": 2901660,
+    "text": "自动"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34205410,
+    "duration": 3125000,
+    "text": "识别"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37553750,
+    "duration": 3236250,
+    "text": "其中"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 40790000,
+    "duration": 892910,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41794580,
+    "duration": 5580410,
+    "text": "知识点"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49330410,
+    "duration": 1785830,
+    "text": "并"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 51116250,
+    "duration": 1116250,
+    "text": "把"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52343750,
+    "duration": 2567080,
+    "text": "它们"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55133750,
+    "duration": 3013330,
+    "text": "归类"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 58147500,
+    "duration": 1674160,
+    "text": "到"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 60044580,
+    "duration": 2901660,
+    "text": "对应"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62946250,
+    "duration": 892910,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 63950830,
+    "duration": 3682910,
+    "text": "主题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 67633750,
+    "duration": 2567080,
+    "text": "下"
+  }
+]

@@ -1,0 +1,6 @@
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N03\temp\graph_intro.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N03\temp\graph_img0.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N03\temp\graph_img1.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N03\temp\graph_rec0.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N03\temp\graph_rec1.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N03\temp\graph_padding.mp4'

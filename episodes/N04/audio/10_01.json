@@ -1,0 +1,62 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 4910830,
+    "text": "下次"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6080410,
+    "duration": 2232080,
+    "text": "我们"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8424160,
+    "duration": 2790000,
+    "text": "继续"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11325830,
+    "duration": 5133750,
+    "text": "探讨"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 17352500,
+    "duration": 3460000,
+    "text": "问学"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20924160,
+    "duration": 2567080,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23602500,
+    "duration": 3460000,
+    "text": "平台"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27062500,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28067080,
+    "duration": 3236660,
+    "text": "更多"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31415000,
+    "duration": 4017910,
+    "text": "能力"
+  }
+]

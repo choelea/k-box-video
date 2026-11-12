@@ -1,0 +1,56 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 4799160,
+    "text": "最后"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8089160,
+    "duration": 1674160,
+    "text": "我们"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9875000,
+    "duration": 1897500,
+    "text": "看"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11772500,
+    "duration": 2567080,
+    "text": "一下"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14562500,
+    "duration": 3460000,
+    "text": "完整"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18022500,
+    "duration": 892910,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19138330,
+    "duration": 3013330,
+    "text": "问答"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22263330,
+    "duration": 3013330,
+    "text": "流程"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25388330,
+    "duration": 4799160,
+    "text": "演示"
+  }
+]

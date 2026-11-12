@@ -1,0 +1,152 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 1785830,
+    "text": "以"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2955410,
+    "duration": 3236660,
+    "text": "星途"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6303750,
+    "duration": 5692080,
+    "text": "新能源"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12218750,
+    "duration": 3236660,
+    "text": "售后"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15567080,
+    "duration": 3013330,
+    "text": "运营"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18692080,
+    "duration": 3013330,
+    "text": "数据"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21817080,
+    "duration": 2008750,
+    "text": "为"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23825830,
+    "duration": 2120410,
+    "text": "例"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28736660,
+    "duration": 1227500,
+    "text": "它"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30075830,
+    "duration": 3013330,
+    "text": "连接"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33089160,
+    "duration": 892910,
+    "text": "了"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34205410,
+    "duration": 5022499,
+    "text": "14张"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39339160,
+    "duration": 2678750,
+    "text": "业务"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42017910,
+    "duration": 2567080,
+    "text": "表"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47263330,
+    "duration": 3125000,
+    "text": "涵盖"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50611660,
+    "duration": 4464160,
+    "text": "客户"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 56973330,
+    "duration": 4687500,
+    "text": "车辆"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 63669580,
+    "duration": 5580410,
+    "text": "零部件"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71317080,
+    "duration": 6138330,
+    "text": "供应商"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 79352500,
+    "duration": 3236660,
+    "text": "维修"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 82700830,
+    "duration": 4241250,
+    "text": "记录"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 87835000,
+    "duration": 1785830,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 89732080,
+    "duration": 3460000,
+    "text": "工单"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 93192080,
+    "duration": 1339160,
+    "text": "等"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 94642910,
+    "duration": 4241250,
+    "text": "数据"
+  }
+]

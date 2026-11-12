@@ -1,0 +1,122 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3682910,
+    "text": "数据"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4741250,
+    "duration": 3125000,
+    "text": "洞察"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7866250,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8870410,
+    "duration": 3348330,
+    "text": "核心"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12330410,
+    "duration": 3236660,
+    "text": "价值"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15567080,
+    "duration": 2901660,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21147500,
+    "duration": 1674160,
+    "text": "让"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22932910,
+    "duration": 1116250,
+    "text": "不"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24049160,
+    "duration": 1785830,
+    "text": "懂"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26057910,
+    "duration": 4129580,
+    "text": "SQL"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30187500,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31080410,
+    "duration": 4799160,
+    "text": "用户"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36772500,
+    "duration": 1227500,
+    "text": "也"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38000000,
+    "duration": 1116250,
+    "text": "能"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39227500,
+    "duration": 5133750,
+    "text": "安全"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 45812500,
+    "duration": 3906250,
+    "text": "准确"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49718750,
+    "duration": 781250,
+    "text": "地"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50611660,
+    "duration": 3906250,
+    "text": "查询"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54741250,
+    "duration": 2343750,
+    "text": "业务"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 57196250,
+    "duration": 4241250,
+    "text": "数据"
+  }
+]

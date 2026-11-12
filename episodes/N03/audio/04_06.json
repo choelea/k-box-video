@@ -1,0 +1,110 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3013330,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4071250,
+    "duration": 3125000,
+    "text": "图谱"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7196250,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8200830,
+    "duration": 3460000,
+    "text": "核心"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11772500,
+    "duration": 3236250,
+    "text": "价值"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15008750,
+    "duration": 2790000,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20812500,
+    "duration": 3236660,
+    "text": "回答"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24272500,
+    "duration": 2343750,
+    "text": "谁"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26616250,
+    "duration": 1562500,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28290000,
+    "duration": 1897500,
+    "text": "谁"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30187500,
+    "duration": 1116250,
+    "text": "有"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31415000,
+    "duration": 1897500,
+    "text": "什么"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33424160,
+    "duration": 2901660,
+    "text": "关系"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36549160,
+    "duration": 1227500,
+    "text": "这"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37776660,
+    "duration": 1450830,
+    "text": "类"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39450830,
+    "duration": 3013330,
+    "text": "结构"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42464160,
+    "duration": 1562500,
+    "text": "化"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44138330,
+    "duration": 4352500,
+    "text": "问题"
+  }
+]

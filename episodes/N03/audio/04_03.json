@@ -1,0 +1,200 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 5357080,
+    "text": "接下来"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8870410,
+    "duration": 1785830,
+    "text": "我们"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10767910,
+    "duration": 1785830,
+    "text": "看"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12553750,
+    "duration": 2343750,
+    "text": "一下"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15120410,
+    "duration": 4017910,
+    "text": "图谱"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19250000,
+    "duration": 3125000,
+    "text": "问答"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22598330,
+    "duration": 3013330,
+    "text": "查询"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25723330,
+    "duration": 4910830,
+    "text": "演示"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35714160,
+    "duration": 4352500,
+    "text": "用户"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 40178750,
+    "duration": 2120410,
+    "text": "可以"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42299160,
+    "duration": 1562500,
+    "text": "问"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44085000,
+    "duration": 6361660,
+    "text": "陈凯歌"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50669580,
+    "duration": 3125000,
+    "text": "导演"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53794580,
+    "duration": 781250,
+    "text": "了"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54799160,
+    "duration": 2901660,
+    "text": "哪些"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 57812500,
+    "duration": 4575830,
+    "text": "电影"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62611660,
+    "duration": 1897500,
+    "text": "或"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 64732080,
+    "duration": 4910830,
+    "text": "长津湖"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 69642910,
+    "duration": 892910,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 70647500,
+    "duration": 4464160,
+    "text": "主演"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 76004580,
+    "duration": 1450830,
+    "text": "还"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 77455410,
+    "duration": 1897080,
+    "text": "演"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 79352500,
+    "duration": 1004580,
+    "text": "过"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 80468750,
+    "duration": 3348330,
+    "text": "什么"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 85825830,
+    "duration": 4464160,
+    "text": "图谱"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 90401660,
+    "duration": 1450830,
+    "text": "会"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 91964160,
+    "duration": 2455410,
+    "text": "沿着"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 94642910,
+    "duration": 2790000,
+    "text": "关系"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 97544580,
+    "duration": 4352500,
+    "text": "路径"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 102790000,
+    "duration": 3236660,
+    "text": "给出"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 106250000,
+    "duration": 3460000,
+    "text": "结构"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 109710000,
+    "duration": 1562500,
+    "text": "化"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 111383750,
+    "duration": 3682910,
+    "text": "答案"
+  }
+]

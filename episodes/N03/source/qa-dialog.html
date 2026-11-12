@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>N03 问答演示 - 星途售后知识库</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: "PingFang SC", "Microsoft YaHei", sans-serif;
+  background: #f5f7fa;
+  width: 1920px;
+  height: 1080px;
+  padding: 40px;
+}
+.chat-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.chat-header {
+  padding: 24px 32px;
+  border-bottom: 1px solid #e8e8e8;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.chat-header .avatar {
+  width: 48px;
+  height: 48px;
+  background: linear-gradient(135deg, #1a2940, #c9a961);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+.chat-header .info h3 {
+  font-size: 18px;
+  color: #1a2940;
+  margin-bottom: 4px;
+}
+.chat-header .info p {
+  font-size: 14px;
+  color: #666;
+}
+.chat-body {
+  flex: 1;
+  padding: 32px;
+  overflow-y: auto;
+}
+.message {
+  margin-bottom: 32px;
+  display: flex;
+  gap: 16px;
+}
+.message.user {
+  flex-direction: row-reverse;
+}
+.message .avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  flex-shrink: 0;
+}
+.message.assistant .avatar {
+  background: linear-gradient(135deg, #1a2940, #c9a961);
+  color: white;
+}
+.message.user .avatar {
+  background: #e8e8e8;
+  color: #666;
+}
+.message .content {
+  max-width: 70%;
+}
+.message .bubble {
+  padding: 20px 24px;
+  border-radius: 16px;
+  font-size: 16px;
+  line-height: 1.8;
+}
+.message.user .bubble {
+  background: #1a2940;
+  color: white;
+  border-top-right-radius: 4px;
+}
+.message.assistant .bubble {
+  background: #f5f7fa;
+  color: #333;
+  border-top-left-radius: 4px;
+}
+.bubble h4 {
+  font-size: 16px;
+  color: #1a2940;
+  margin-bottom: 16px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #e8e8e8;
+}
+.bubble ol {
+  margin-left: 20px;
+  margin-bottom: 16px;
+}
+.bubble li {
+  margin-bottom: 12px;
+}
+.bubble .highlight {
+  color: #c9a961;
+  font-weight: 500;
+}
+.bubble .sources {
+  margin-top: 24px;
+  padding-top: 16px;
+  border-top: 1px dashed #ddd;
+  font-size: 14px;
+  color: #666;
+}
+.bubble .sources h5 {
+  font-size: 14px;
+  color: #1a2940;
+  margin-bottom: 12px;
+}
+.bubble .sources .source-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+  padding: 8px 12px;
+  background: white;
+  border-radius: 6px;
+  border: 1px solid #e8e8e8;
+}
+.bubble .sources .source-item .tag {
+  background: #c9a961;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+}
+.bubble .sources .source-item .name {
+  color: #333;
+}
+.chat-footer {
+  padding: 20px 32px;
+  border-top: 1px solid #e8e8e8;
+  display: flex;
+  gap: 12px;
+}
+.chat-footer input {
+  flex: 1;
+  padding: 14px 20px;
+  border: 1px solid #e8e8e8;
+  border-radius: 24px;
+  font-size: 15px;
+  outline: none;
+}
+.chat-footer button {
+  padding: 14px 32px;
+  background: #1a2940;
+  color: white;
+  border: none;
+  border-radius: 24px;
+  font-size: 15px;
+  cursor: pointer;
+}
+</style>
+</head>
+<body>
+<div class="chat-container">
+  <div class="chat-header">
+    <div class="avatar">星</div>
+    <div class="info">
+      <h3>星小秘 · 售后知识助手</h3>
+      <p>基于星途新能源售后知识库 · 3 篇文档</p>
+    </div>
+  </div>
+
+  <div class="chat-body">
+    <div class="message user">
+      <div class="avatar">我</div>
+      <div class="content">
+        <div class="bubble">
+          供应商来料不良导致的质量问题，应该如何处置？
+        </div>
+      </div>
+    </div>
+
+    <div class="message assistant">
+      <div class="avatar">星</div>
+      <div class="content">
+        <div class="bubble">
+          <h4>供应商来料不良质量问题处置流程</h4>
+          <p>根据星途新能源售后质量管理制度，供应商来料不良导致的质量问题应按以下流程处置：</p>
+
+          <ol>
+            <li>
+              <span class="highlight">质量问题记录与反馈</span><br>
+              记录不良现象、批次信息和影响范围，及时向供应商发出《质量问题整改通知》<sup>[1]</sup>
+            </li>
+            <li>
+              <span class="highlight">应急处置措施</span><br>
+              如涉及批次问题，启动《批次质量异常应急预案》，对受影响车辆进行评估和隔离处置<sup>[2]</sup>
+            </li>
+            <li>
+              <span class="highlight">供应商整改管理</span><br>
+              按《供应商质量管理制度》进行考核和约谈，要求供应商在 5 个工作日内提交整改报告<sup>[3]</sup>
+            </li>
+            <li>
+              <span class="highlight">效果验证与闭环</span><br>
+              对整改措施进行跟踪验证，连续 3 批次来料合格后方可关闭问题<sup>[3]</sup>
+            </li>
+          </ol>
+
+          <div class="sources">
+            <h5>📚 参考来源</h5>
+            <div class="source-item">
+              <span class="tag">引用1</span>
+              <span class="name">星途新能源售后质量处置指引 · 第4.2节 质量问题反馈</span>
+            </div>
+            <div class="source-item">
+              <span class="tag">引用2</span>
+              <span class="name">星途新能源批次质量异常应急预案 · 第3节 应急响应</span>
+            </div>
+            <div class="source-item">
+              <span class="tag">引用3</span>
+              <span class="name">星途新能源供应商质量管理制度 · 第6节 整改与考核</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="chat-footer">
+    <input type="text" placeholder="输入问题，按 Enter 发送..." />
+    <button>发送</button>
+  </div>
+</div>
+</body>
+</html>

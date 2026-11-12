@@ -1,0 +1,28 @@
+{
+  "id": "N04",
+  "title": "企业 Wiki 怎样把分散资料变成可阅读知识？",
+  "category": "认知与选型",
+  "status": "audio-generated",
+  "duration_seconds": 204.59,
+  "target_duration_seconds": [
+    180,
+    300
+  ],
+  "product_version": "2026-11 月演示环境",
+  "imported_on": "2026-11-11",
+  "video": "N04-企业Wiki知识沉淀.mp4",
+  "script": "source/plan.json",
+  "reading_copy": "讲解稿.md",
+  "timeline": "source/timeline.json",
+  "pending": [],
+  "notes": "N04 深入讲解企业 Wiki 的业务价值，展示如何将分散资料转化为可阅读、可追溯的主题知识。使用演示数据，非真实业务数据。",
+  "revision": 1,
+  "updated_on": "2026-11-11",
+  "brand_baseline": "0.1",
+  "review_directory": "review",
+  "narration_manifest": "source/narration-manifest.json",
+  "output_file": "N04-企业Wiki知识沉淀.mp4",
+  "video_style": "N01/N02/N03 branded frame overlay with real system recordings",
+  "subtitles": "burned-in",
+  "demo_data_notice": "本视频使用演示数据，非真实业务数据"
+}

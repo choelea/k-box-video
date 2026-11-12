@@ -1,0 +1,80 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3682910,
+    "text": "时间"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4741250,
+    "duration": 2008750,
+    "text": "久"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6750000,
+    "duration": 2008750,
+    "text": "了"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11437500,
+    "duration": 2790000,
+    "text": "资料"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14450830,
+    "duration": 4575830,
+    "text": "越来越"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19026660,
+    "duration": 2232080,
+    "text": "多"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23267910,
+    "duration": 2901660,
+    "text": "找到"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26281250,
+    "duration": 3125000,
+    "text": "需要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29406250,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30299160,
+    "duration": 4352500,
+    "text": "内容"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35544580,
+    "duration": 2232080,
+    "text": "变得"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37888330,
+    "duration": 1562500,
+    "text": "更"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39450830,
+    "duration": 4464160,
+    "text": "困难"
+  }
+]

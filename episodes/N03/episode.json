@@ -1,0 +1,36 @@
+{
+  "id": "N03",
+  "title": "文档库、Wiki、图谱和数据洞察怎么选？",
+  "category": "认知与选型",
+  "status": "video-assembled",
+  "duration_seconds": 297.51,
+  "target_duration_seconds": [
+    300,
+    420
+  ],
+  "product_version": "2026-11 月测试环境快照",
+  "imported_on": "2026-11-10",
+  "video": "N03-四种知识能力怎么选.mp4",
+  "script": "source/plan.json",
+  "reading_copy": "讲解稿.md",
+  "timeline": "source/timeline.json",
+  "pending": [],
+  "notes": "N03 提供四类能力的比较框架，帮助观众根据业务问题选择起点。每个能力章节包含品牌介绍页、产品截图和操作录屏。",
+  "revision": 3,
+  "updated_on": "2026-11-11",
+  "brand_baseline": "0.1",
+  "review_directory": "review",
+  "narration_manifest": "source/narration-manifest.json",
+  "history_record": "../../reports/history/历史版本.json",
+  "output_file": "N03-四种知识能力怎么选.mp4",
+  "output_size_mb": 14.0,
+  "video_style": "N01/N02 branded frame overlay with intro pages",
+  "subtitles": "burned-in",
+  "intro_pages": ["document-intro", "wiki-intro", "graph-intro", "insight-intro"],
+  "recordings_integrated": [
+    "知识问答 - Trim.mp4",
+    "Wiki问答 - Trim.mp4",
+    "图谱问答 - Trim.mp4",
+    "数据洞察问答 - Trim - Trim.mp4"
+  ]
+}

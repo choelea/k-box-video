@@ -1,0 +1,5 @@
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N03\temp\wiki_intro.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N03\temp\wiki_img0.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N03\temp\wiki_img1.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N03\temp\wiki_rec0.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N03\temp\wiki_rec1.mp4'

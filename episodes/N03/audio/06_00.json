@@ -1,0 +1,62 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3348330,
+    "text": "怎样"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4406250,
+    "duration": 2790000,
+    "text": "选择"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7307910,
+    "duration": 4575830,
+    "text": "起点"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16964160,
+    "duration": 3013330,
+    "text": "这里"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20089160,
+    "duration": 2901660,
+    "text": "给出"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22991250,
+    "duration": 2120410,
+    "text": "一个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25335000,
+    "duration": 3682910,
+    "text": "简单"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29017910,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30022500,
+    "duration": 2901660,
+    "text": "判断"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33035830,
+    "duration": 4464160,
+    "text": "框架"
+  }
+]

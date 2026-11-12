@@ -1,0 +1,6 @@
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N03\temp\insight_intro.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N03\temp\insight_img0.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N03\temp\insight_img1.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N03\temp\insight_rec0.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N03\temp\insight_rec1.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N03\temp\insight_padding.mp4'

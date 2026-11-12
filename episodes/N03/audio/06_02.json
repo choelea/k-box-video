@@ -1,0 +1,56 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 2455410,
+    "text": "如果"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3513330,
+    "duration": 3682910,
+    "text": "问题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7196250,
+    "duration": 1562500,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8982080,
+    "duration": 7924160,
+    "text": "汇总知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18357080,
+    "duration": 3682910,
+    "text": "沉淀"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22151660,
+    "duration": 4799160,
+    "text": "主题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28960000,
+    "duration": 2120410,
+    "text": "选"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31192080,
+    "duration": 4017910,
+    "text": "企业"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35991250,
+    "duration": 4017910,
+    "text": "Wiki"
+  }
+]

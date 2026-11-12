@@ -1,0 +1,146 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 2567080,
+    "text": "如果"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3625000,
+    "duration": 2901660,
+    "text": "资料"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6750000,
+    "duration": 3460000,
+    "text": "经常"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10321250,
+    "duration": 4464160,
+    "text": "变化"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 17241250,
+    "duration": 3236660,
+    "text": "或者"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20700830,
+    "duration": 1562500,
+    "text": "同"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22375000,
+    "duration": 1785830,
+    "text": "一个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24272500,
+    "duration": 3013330,
+    "text": "主题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27285830,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28178750,
+    "duration": 5022500,
+    "text": "信息"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33982080,
+    "duration": 3125000,
+    "text": "散落"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37107080,
+    "duration": 1450830,
+    "text": "在"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38669580,
+    "duration": 2008750,
+    "text": "多"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 40678750,
+    "duration": 2901660,
+    "text": "处"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 45647500,
+    "duration": 4464160,
+    "text": "Wiki"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50335000,
+    "duration": 2232080,
+    "text": "可以"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52678750,
+    "duration": 3236660,
+    "text": "帮助"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 56026660,
+    "duration": 3460000,
+    "text": "保持"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 59710000,
+    "duration": 2678330,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62388330,
+    "duration": 892910,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 63504580,
+    "duration": 3347910,
+    "text": "一致"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 66852500,
+    "duration": 2901660,
+    "text": "性"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 69977500,
+    "duration": 1450830,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71540000,
+    "duration": 6473330,
+    "text": "完整性"
+  }
+]

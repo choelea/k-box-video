@@ -1,0 +1,68 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 2455410,
+    "text": "如果"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3513330,
+    "duration": 3571250,
+    "text": "问题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7085000,
+    "duration": 1450830,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8647500,
+    "duration": 3571250,
+    "text": "查原"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12218750,
+    "duration": 2901660,
+    "text": "文"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16571250,
+    "duration": 1785830,
+    "text": "找"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18468750,
+    "duration": 4799160,
+    "text": "依据"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25723330,
+    "duration": 2008750,
+    "text": "先"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27732080,
+    "duration": 1674160,
+    "text": "选"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29629580,
+    "duration": 3125000,
+    "text": "文档"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32866250,
+    "duration": 5580410,
+    "text": "知识库"
+  }
+]

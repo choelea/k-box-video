@@ -1,0 +1,68 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 2901660,
+    "text": "基于"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3960000,
+    "duration": 2901660,
+    "text": "这些"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7085000,
+    "duration": 2901660,
+    "text": "主题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10098330,
+    "duration": 4352500,
+    "text": "页面"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16682910,
+    "duration": 2120410,
+    "text": "可以"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18915000,
+    "duration": 3906250,
+    "text": "创建"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23044580,
+    "duration": 3125000,
+    "text": "维基"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26281250,
+    "duration": 3236660,
+    "text": "百科"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29629580,
+    "duration": 5915000,
+    "text": "智能体"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36437500,
+    "duration": 3236660,
+    "text": "进行"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39785830,
+    "duration": 4352500,
+    "text": "问答"
+  }
+]

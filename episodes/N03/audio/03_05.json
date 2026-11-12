@@ -1,0 +1,104 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3460000,
+    "text": "企业"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4629580,
+    "duration": 3013330,
+    "text": "Wiki"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7642910,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8647500,
+    "duration": 3460000,
+    "text": "核心"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12218750,
+    "duration": 3236660,
+    "text": "价值"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15455410,
+    "duration": 2901660,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21035830,
+    "duration": 1562500,
+    "text": "把"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22710000,
+    "duration": 3348330,
+    "text": "分散"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26169580,
+    "duration": 3794580,
+    "text": "资料"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30857080,
+    "duration": 3236660,
+    "text": "变成"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34317080,
+    "duration": 1450830,
+    "text": "可"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35767910,
+    "duration": 4910830,
+    "text": "阅读"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42241250,
+    "duration": 1785410,
+    "text": "可"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44026660,
+    "duration": 3682910,
+    "text": "追溯"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47710000,
+    "duration": 1004580,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48937500,
+    "duration": 2790000,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 51839160,
+    "duration": 4241250,
+    "text": "入口"
+  }
+]

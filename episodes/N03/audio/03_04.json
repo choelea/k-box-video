@@ -1,0 +1,92 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 5468750,
+    "text": "接下来"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8870410,
+    "duration": 1897500,
+    "text": "我们"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10879580,
+    "duration": 1785410,
+    "text": "看"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12665000,
+    "duration": 3571250,
+    "text": "一下"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 17129580,
+    "duration": 3794580,
+    "text": "Wiki"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21147500,
+    "duration": 3125000,
+    "text": "问答"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24383750,
+    "duration": 3013330,
+    "text": "对话"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27508750,
+    "duration": 4910830,
+    "text": "演示"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34986660,
+    "duration": 3794580,
+    "text": "了解"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39004580,
+    "duration": 3236660,
+    "text": "如何"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42352500,
+    "duration": 1450830,
+    "text": "对"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44026660,
+    "duration": 2901660,
+    "text": "Wiki"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47040000,
+    "duration": 3682910,
+    "text": "内容"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50946250,
+    "duration": 3013330,
+    "text": "进行"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54071250,
+    "duration": 3906250,
+    "text": "追问"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 2678750,
+    "text": "如果"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3848330,
+    "duration": 2343750,
+    "text": "只是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6415000,
+    "duration": 3013330,
+    "text": "临时"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9540000,
+    "duration": 2901660,
+    "text": "回答"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12665000,
+    "duration": 3571250,
+    "text": "少量"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16348330,
+    "duration": 4241250,
+    "text": "问题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23044580,
+    "duration": 1785830,
+    "text": "先"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24830410,
+    "duration": 3125000,
+    "text": "验证"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28178750,
+    "duration": 6361660,
+    "text": "文档库"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34763330,
+    "duration": 1450830,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36325830,
+    "duration": 4464160,
+    "text": "智能体"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 40901660,
+    "duration": 4241250,
+    "text": "即可"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48714160,
+    "duration": 2120410,
+    "text": "如果"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 51057910,
+    "duration": 3013330,
+    "text": "同一"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54182910,
+    "duration": 4575830,
+    "text": "主题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 58982080,
+    "duration": 1562500,
+    "text": "被"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 60656250,
+    "duration": 3013330,
+    "text": "反复"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 63781250,
+    "duration": 5245410,
+    "text": "查询"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71093750,
+    "duration": 1785830,
+    "text": "再"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 72991250,
+    "duration": 3906250,
+    "text": "评估"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 77120410,
+    "duration": 2901660,
+    "text": "Wiki"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 80022500,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 80915000,
+    "duration": 3906250,
+    "text": "页面"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 85044580,
+    "duration": 3013330,
+    "text": "维护"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 88169580,
+    "duration": 4575830,
+    "text": "收益"
+  }
+]

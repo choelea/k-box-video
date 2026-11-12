@@ -1,0 +1,92 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 1450830,
+    "text": "在"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2508750,
+    "duration": 3013330,
+    "text": "很多"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5633750,
+    "duration": 3682910,
+    "text": "企业"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9317080,
+    "duration": 2120410,
+    "text": "里"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14004580,
+    "duration": 2790000,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16906250,
+    "duration": 3348330,
+    "text": "散落"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20254580,
+    "duration": 1562500,
+    "text": "在"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22040000,
+    "duration": 2790000,
+    "text": "各种"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24942080,
+    "duration": 4241250,
+    "text": "文档"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31080410,
+    "duration": 5133750,
+    "text": "表格"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38223330,
+    "duration": 4687500,
+    "text": "邮件"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 43803750,
+    "duration": 1339160,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 45254580,
+    "duration": 3013330,
+    "text": "个人"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48379580,
+    "duration": 3347910,
+    "text": "笔记"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 51727500,
+    "duration": 2343750,
+    "text": "中"
+  }
+]

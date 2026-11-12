@@ -1,0 +1,8 @@
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N03\temp\intro.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N03\temp\overview.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N03\temp\document.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N03\temp\wiki.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N03\temp\graph.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N03\temp\insight.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N03\temp\comparison.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N03\temp\outro.mp4'
