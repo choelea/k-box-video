@@ -1,0 +1,176 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 5692080,
+    "text": "K-BOX"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6750000,
+    "duration": 4910830,
+    "text": "本身"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12553750,
+    "duration": 2455410,
+    "text": "已经"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15120410,
+    "duration": 2901660,
+    "text": "提供"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18022500,
+    "duration": 892910,
+    "text": "了"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19138330,
+    "duration": 3236660,
+    "text": "完整"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22375000,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23379580,
+    "duration": 2455410,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25946250,
+    "duration": 4352500,
+    "text": "管理"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31192080,
+    "duration": 1562500,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32866250,
+    "duration": 3348330,
+    "text": "问答"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36325830,
+    "duration": 3794580,
+    "text": "能力"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 45200830,
+    "duration": 1674160,
+    "text": "但"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 46875000,
+    "duration": 1004580,
+    "text": "在"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48102500,
+    "duration": 3348330,
+    "text": "很多"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 51562500,
+    "duration": 2567080,
+    "text": "企业"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54241250,
+    "duration": 3906250,
+    "text": "场景"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 58147500,
+    "duration": 2343750,
+    "text": "中"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62946250,
+    "duration": 2455410,
+    "text": "业务"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 65513330,
+    "duration": 4464160,
+    "text": "系统"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71540000,
+    "duration": 3236660,
+    "text": "客服"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 74888330,
+    "duration": 4910830,
+    "text": "平台"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 82366250,
+    "duration": 2343750,
+    "text": "内部"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 84821250,
+    "duration": 4575830,
+    "text": "工具"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 90290000,
+    "duration": 1339160,
+    "text": "也"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 91741250,
+    "duration": 2455410,
+    "text": "需要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 94307910,
+    "duration": 3125000,
+    "text": "使用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 97656250,
+    "duration": 2567080,
+    "text": "这些"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 100335000,
+    "duration": 4464160,
+    "text": "知识"
+  }
+]

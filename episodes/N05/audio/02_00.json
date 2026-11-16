@@ -1,0 +1,212 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 2790000,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3848330,
+    "duration": 4799160,
+    "text": "图谱"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9540000,
+    "duration": 3236660,
+    "text": "专门"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12888330,
+    "duration": 2790000,
+    "text": "用来"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15790000,
+    "duration": 3236660,
+    "text": "处理"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19138330,
+    "duration": 2567080,
+    "text": "这种"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21928750,
+    "duration": 4575830,
+    "text": "关系型"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26616250,
+    "duration": 4575830,
+    "text": "问题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36272500,
+    "duration": 1339160,
+    "text": "它"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37611660,
+    "duration": 1227500,
+    "text": "把"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39062500,
+    "duration": 2901660,
+    "text": "业务"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41964160,
+    "duration": 1450830,
+    "text": "中"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 43415000,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44307910,
+    "duration": 4799160,
+    "text": "实体"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49330410,
+    "duration": 1450830,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50892910,
+    "duration": 3013330,
+    "text": "关系"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53906250,
+    "duration": 3460000,
+    "text": "显式"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 57366250,
+    "duration": 781250,
+    "text": "地"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 58370410,
+    "duration": 2678750,
+    "text": "组织"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 61160830,
+    "duration": 3571250,
+    "text": "起来"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 67745410,
+    "duration": 3236660,
+    "text": "实体"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71093750,
+    "duration": 2901660,
+    "text": "包括"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 74218750,
+    "duration": 5133750,
+    "text": "产品"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 81138330,
+    "duration": 5915000,
+    "text": "供应商"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 89285830,
+    "duration": 4464160,
+    "text": "零件"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 95758750,
+    "duration": 5022500,
+    "text": "客户"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 102678750,
+    "duration": 3348330,
+    "text": "故障"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 106138330,
+    "duration": 4464160,
+    "text": "现象"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 112276660,
+    "duration": 3125000,
+    "text": "关系"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 115513330,
+    "duration": 3125000,
+    "text": "包括"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 118861660,
+    "duration": 4129580,
+    "text": "供应"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 125000000,
+    "duration": 4799160,
+    "text": "采购"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 131696250,
+    "duration": 4352500,
+    "text": "安装"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 138057910,
+    "duration": 4575830,
+    "text": "报修"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 144419580,
+    "duration": 5022500,
+    "text": "关联"
+  }
+]

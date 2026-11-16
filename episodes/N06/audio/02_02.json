@@ -1,0 +1,146 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 2567080,
+    "text": "如果"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3625000,
+    "duration": 2343750,
+    "text": "没有"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6080410,
+    "duration": 3459580,
+    "text": "明确"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9540000,
+    "duration": 892910,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10656250,
+    "duration": 2343750,
+    "text": "语义"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13111660,
+    "duration": 4241250,
+    "text": "定义"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19919580,
+    "duration": 2901660,
+    "text": "不同"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22821250,
+    "duration": 1785830,
+    "text": "人"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24830410,
+    "duration": 1339160,
+    "text": "用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26281250,
+    "duration": 3794580,
+    "text": "同样"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30075830,
+    "duration": 892910,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31192080,
+    "duration": 2678750,
+    "text": "自然"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33982080,
+    "duration": 2790000,
+    "text": "语言"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36883750,
+    "duration": 4129580,
+    "text": "提问"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 43803750,
+    "duration": 2901660,
+    "text": "得到"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 46705410,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47598330,
+    "duration": 5803750,
+    "text": "查询"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53625000,
+    "duration": 2567080,
+    "text": "可能"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 56415000,
+    "duration": 3794580,
+    "text": "完全"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 60321250,
+    "duration": 3682910,
+    "text": "不同"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 65848330,
+    "duration": 3236660,
+    "text": "结果"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 69307910,
+    "duration": 3013330,
+    "text": "自然"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 72432910,
+    "duration": 1004580,
+    "text": "也"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 73549160,
+    "duration": 3906250,
+    "text": "不同"
+  }
+]

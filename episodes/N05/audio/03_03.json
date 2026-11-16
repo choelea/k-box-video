@@ -1,0 +1,182 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 2678750,
+    "text": "基于"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3848330,
+    "duration": 2120410,
+    "text": "这个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6080410,
+    "duration": 4799160,
+    "text": "图谱"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12888330,
+    "duration": 2232080,
+    "text": "可以"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15232080,
+    "duration": 3571250,
+    "text": "创建"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19026660,
+    "duration": 5803750,
+    "text": "智能体"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25723330,
+    "duration": 3794580,
+    "text": "进行"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29741250,
+    "duration": 4687500,
+    "text": "关系型"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34540000,
+    "duration": 4129580,
+    "text": "问答"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 43750000,
+    "duration": 2790000,
+    "text": "比如"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 46651660,
+    "duration": 1450830,
+    "text": "问"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48102500,
+    "duration": 1785830,
+    "text": "某"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49888330,
+    "duration": 6250000,
+    "text": "供应商"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 56361660,
+    "duration": 2343750,
+    "text": "具备"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 58817080,
+    "duration": 3460000,
+    "text": "哪些"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62388330,
+    "duration": 4241250,
+    "text": "资质"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 69531250,
+    "duration": 2790000,
+    "text": "智能"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 72432910,
+    "duration": 4799160,
+    "text": "体会"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 78125000,
+    "duration": 2455410,
+    "text": "沿着"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 80692080,
+    "duration": 3459580,
+    "text": "图谱"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 84151660,
+    "duration": 892910,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 85267910,
+    "duration": 2901660,
+    "text": "关系"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 88281250,
+    "duration": 4017910,
+    "text": "链路"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 94419580,
+    "duration": 3236660,
+    "text": "给出"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 97879580,
+    "duration": 3013330,
+    "text": "完整"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 100892910,
+    "duration": 669580,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 101674160,
+    "duration": 4575830,
+    "text": "回答"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 107142910,
+    "duration": 1785830,
+    "text": "并"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 109040000,
+    "duration": 3013330,
+    "text": "标注"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 112165000,
+    "duration": 4687500,
+    "text": "来源"
+  }
+]

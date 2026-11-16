@@ -1,0 +1,27 @@
+{
+  "id": "N06",
+  "title": "自然语言问数为什么需要业务语义治理？",
+  "category": "认知与选型",
+  "status": "video-generated",
+  "duration_seconds": 264.0,
+  "target_duration_seconds": [
+    300,
+    400
+  ],
+  "product_version": "2026-11",
+  "imported_on": "2026-11-13",
+  "video": null,
+  "script": "source/plan.json",
+  "reading_copy": "讲解稿.md",
+  "timeline": "source/timeline.json",
+  "pending": [],
+  "notes": "N06 讲解自然语言问数中物理表字段与业务口径之间的差距，说明业务语义治理的必要性。使用同一问题下两种统计口径的案例。",
+  "revision": 0,
+  "updated_on": "2026-11-13",
+  "brand_baseline": "0.1",
+  "review_directory": "review",
+  "output_file": "N06-自然语言问数与业务语义.mp4",
+  "video_style": "branded frame overlay with real system recordings",
+  "subtitles": "burned-in",
+  "demo_data_notice": "本视频使用演示数据，非真实业务数据"
+}

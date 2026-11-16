@@ -1,0 +1,284 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 1674160,
+    "text": "举"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2620410,
+    "duration": 1562500,
+    "text": "一个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4406250,
+    "duration": 3571250,
+    "text": "典型"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8089160,
+    "duration": 4129580,
+    "text": "例子"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15343750,
+    "duration": 3236660,
+    "text": "销售"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18692080,
+    "duration": 3794580,
+    "text": "部门"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22486660,
+    "duration": 2008750,
+    "text": "说"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24718750,
+    "duration": 2678750,
+    "text": "本月"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27620410,
+    "duration": 3013330,
+    "text": "活跃"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30745410,
+    "duration": 6250000,
+    "text": "客户数"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39062500,
+    "duration": 2120410,
+    "text": "他们"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41182910,
+    "duration": 892910,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42187500,
+    "duration": 4352500,
+    "text": "定义"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47432910,
+    "duration": 2901660,
+    "text": "可能"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50335000,
+    "duration": 3013330,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54241250,
+    "duration": 3013330,
+    "text": "本月"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 57366250,
+    "duration": 1450830,
+    "text": "有"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 58817080,
+    "duration": 5022500,
+    "text": "下单"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 64732080,
+    "duration": 1562500,
+    "text": "且"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 66294580,
+    "duration": 1227500,
+    "text": "有"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 67633750,
+    "duration": 3348330,
+    "text": "回款"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 70982080,
+    "duration": 892910,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 72098330,
+    "duration": 3125000,
+    "text": "独立"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 75335000,
+    "duration": 5803750,
+    "text": "客户数"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 86272500,
+    "duration": 1673750,
+    "text": "但"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 87946250,
+    "duration": 1227500,
+    "text": "在"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 89397500,
+    "duration": 4910410,
+    "text": "数据库"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 94307910,
+    "duration": 2232080,
+    "text": "里"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 99218750,
+    "duration": 781250,
+    "text": "你"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 100111660,
+    "duration": 2567080,
+    "text": "可能"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 102790000,
+    "duration": 2678750,
+    "text": "需要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 105692080,
+    "duration": 3236660,
+    "text": "关联"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 109040000,
+    "duration": 5803750,
+    "text": "订单表"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 116741250,
+    "duration": 3906250,
+    "text": "回款"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 120647500,
+    "duration": 2455410,
+    "text": "表"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 124107080,
+    "duration": 1450830,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 125669580,
+    "duration": 6026660,
+    "text": "客户表"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 134821250,
+    "duration": 2232080,
+    "text": "还要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 137165000,
+    "duration": 4464160,
+    "text": "定义"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 142522500,
+    "duration": 2232080,
+    "text": "什么"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 144866250,
+    "duration": 1897500,
+    "text": "算"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 146986660,
+    "duration": 3236660,
+    "text": "有效"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 150335000,
+    "duration": 3794580,
+    "text": "订单"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 156250000,
+    "duration": 2790000,
+    "text": "什么"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 159151660,
+    "duration": 1897500,
+    "text": "算"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 161272500,
+    "duration": 3013330,
+    "text": "有效"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 164397500,
+    "duration": 4575830,
+    "text": "回款"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3682910,
+    "text": "假设"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4629580,
+    "duration": 1004580,
+    "text": "你"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5745410,
+    "duration": 1339160,
+    "text": "问"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7085000,
+    "duration": 669580,
+    "text": "了"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7866250,
+    "duration": 1339160,
+    "text": "一"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9205410,
+    "duration": 2008750,
+    "text": "句"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11437500,
+    "duration": 2790000,
+    "text": "今年"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14339160,
+    "duration": 4464160,
+    "text": "销售额"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18915000,
+    "duration": 4575830,
+    "text": "多少"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26616250,
+    "duration": 1227500,
+    "text": "这"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27955410,
+    "duration": 1785830,
+    "text": "看"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29741250,
+    "duration": 2008750,
+    "text": "起来"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31973330,
+    "duration": 2008750,
+    "text": "很"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33982080,
+    "duration": 4129580,
+    "text": "简单"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41236660,
+    "duration": 1450830,
+    "text": "但"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42799160,
+    "duration": 4799160,
+    "text": "系统"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48379580,
+    "duration": 1450830,
+    "text": "要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49830410,
+    "duration": 3013330,
+    "text": "回答"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52955410,
+    "duration": 2008750,
+    "text": "这个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55075830,
+    "duration": 4017910,
+    "text": "问题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 60937500,
+    "duration": 3236660,
+    "text": "需要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 64285830,
+    "duration": 3125000,
+    "text": "理解"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 67633750,
+    "duration": 3013330,
+    "text": "很多"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 70758750,
+    "duration": 2455410,
+    "text": "业务"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 73325830,
+    "duration": 4352500,
+    "text": "含义"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 80580410,
+    "duration": 5915000,
+    "text": "销售额"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 86718750,
+    "duration": 1227500,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 88057910,
+    "duration": 6138330,
+    "text": "指含税"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 95089160,
+    "duration": 2343750,
+    "text": "还是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 97544580,
+    "duration": 1227500,
+    "text": "不"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 98772500,
+    "duration": 2008750,
+    "text": "含"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 100781250,
+    "duration": 2790000,
+    "text": "税"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 108593750,
+    "duration": 2120410,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 110825830,
+    "duration": 3236660,
+    "text": "订单"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 114174160,
+    "duration": 4687500,
+    "text": "金额"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 119754580,
+    "duration": 2455410,
+    "text": "还是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 122432910,
+    "duration": 1785830,
+    "text": "实"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 124218750,
+    "duration": 1785830,
+    "text": "收"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 126116250,
+    "duration": 4910830,
+    "text": "金额"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 136160830,
+    "duration": 1897080,
+    "text": "要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 138057910,
+    "duration": 2008750,
+    "text": "不要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 140290000,
+    "duration": 2901660,
+    "text": "扣除"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 143303750,
+    "duration": 5133750,
+    "text": "退货"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 153571250,
+    "duration": 3460000,
+    "text": "今年"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 157254580,
+    "duration": 1116250,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 158482080,
+    "duration": 3236660,
+    "text": "自然"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 161718750,
+    "duration": 3013330,
+    "text": "年"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 165625000,
+    "duration": 2343750,
+    "text": "还是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 168080410,
+    "duration": 4017910,
+    "text": "财务"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 172098330,
+    "duration": 3013330,
+    "text": "年"
+  }
+]

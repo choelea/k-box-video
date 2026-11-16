@@ -1,0 +1,158 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 1674160,
+    "text": "当"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2843750,
+    "duration": 2790000,
+    "text": "文档"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5745410,
+    "duration": 4575830,
+    "text": "问答"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11102500,
+    "duration": 3125000,
+    "text": "无法"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14339160,
+    "duration": 3013330,
+    "text": "覆盖"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 17575830,
+    "duration": 4464160,
+    "text": "关系型"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22151660,
+    "duration": 3794580,
+    "text": "查询"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25946250,
+    "duration": 2790000,
+    "text": "时"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31415000,
+    "duration": 4910830,
+    "text": "图谱"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36437500,
+    "duration": 1450830,
+    "text": "就"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37888330,
+    "duration": 892910,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38892910,
+    "duration": 4352500,
+    "text": "下一步"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 43468750,
+    "duration": 2343750,
+    "text": "值得"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 45924160,
+    "duration": 3459580,
+    "text": "建设"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49383750,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50276660,
+    "duration": 3794580,
+    "text": "能力"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 59151660,
+    "duration": 4910830,
+    "text": "下次"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 64285830,
+    "duration": 2232080,
+    "text": "我们"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 66629580,
+    "duration": 2790000,
+    "text": "继续"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 69531250,
+    "duration": 5133750,
+    "text": "探讨"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 75557910,
+    "duration": 3460000,
+    "text": "问学"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 79129580,
+    "duration": 2567080,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 81807910,
+    "duration": 3460000,
+    "text": "平台"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 85267910,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 86272500,
+    "duration": 3236660,
+    "text": "更多"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 89620410,
+    "duration": 4017910,
+    "text": "能力"
+  }
+]

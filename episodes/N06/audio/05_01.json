@@ -1,0 +1,146 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3571250,
+    "text": "页面"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4629580,
+    "duration": 3347910,
+    "text": "展示"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7977500,
+    "duration": 892910,
+    "text": "了"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9093750,
+    "duration": 3236660,
+    "text": "完整"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12330410,
+    "duration": 669580,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13223330,
+    "duration": 2901660,
+    "text": "问答"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16236660,
+    "duration": 4575830,
+    "text": "过程"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23714160,
+    "duration": 3348330,
+    "text": "用户"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27062500,
+    "duration": 1004580,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28290000,
+    "duration": 3013330,
+    "text": "自然"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31415000,
+    "duration": 2678750,
+    "text": "语言"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34205410,
+    "duration": 4464160,
+    "text": "问题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39562500,
+    "duration": 1450830,
+    "text": "被"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41125000,
+    "duration": 2678750,
+    "text": "翻译"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 43803750,
+    "duration": 2008750,
+    "text": "成"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 46035830,
+    "duration": 3347910,
+    "text": "精确"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49383750,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50276660,
+    "duration": 5133750,
+    "text": "SQL"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 57477500,
+    "duration": 3906250,
+    "text": "系统"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 61495410,
+    "duration": 2678750,
+    "text": "执行"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 64285830,
+    "duration": 5133750,
+    "text": "查询"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 70312500,
+    "duration": 1785830,
+    "text": "并"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 72210000,
+    "duration": 3236660,
+    "text": "返回"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 75557910,
+    "duration": 4687500,
+    "text": "结果"
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 1674160,
+    "text": "但"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2843750,
+    "duration": 2790000,
+    "text": "以下"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5745410,
+    "duration": 4687500,
+    "text": "情况"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11325830,
+    "duration": 2567080,
+    "text": "需要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14116250,
+    "duration": 2567080,
+    "text": "语义"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16794580,
+    "duration": 3906250,
+    "text": "治理"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23602500,
+    "duration": 2455410,
+    "text": "业务"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26169580,
+    "duration": 3571250,
+    "text": "指标"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29964160,
+    "duration": 1339160,
+    "text": "有"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31415000,
+    "duration": 3348330,
+    "text": "明确"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34875000,
+    "duration": 4017910,
+    "text": "定义"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39785830,
+    "duration": 1562500,
+    "text": "且"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41460000,
+    "duration": 2790000,
+    "text": "不同"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44361660,
+    "duration": 4017910,
+    "text": "部门"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48602500,
+    "duration": 2455410,
+    "text": "需要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 51169580,
+    "duration": 1562500,
+    "text": "对"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52732080,
+    "duration": 1227500,
+    "text": "齐"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54071250,
+    "duration": 4575830,
+    "text": "口径"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 60379580,
+    "duration": 2008750,
+    "text": "一个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62500000,
+    "duration": 4799160,
+    "text": "问题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 67522500,
+    "duration": 2455410,
+    "text": "需要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 70089160,
+    "duration": 3236660,
+    "text": "关联"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 73549160,
+    "duration": 1339160,
+    "text": "多"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 74888330,
+    "duration": 2120410,
+    "text": "张"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 77008750,
+    "duration": 2455410,
+    "text": "表"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 80468750,
+    "duration": 2567080,
+    "text": "才能"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 83147500,
+    "duration": 2678750,
+    "text": "得到"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 86049160,
+    "duration": 2901660,
+    "text": "正确"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 89062500,
+    "duration": 4241250,
+    "text": "结果"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 96986660,
+    "duration": 1785830,
+    "text": "非"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 98772500,
+    "duration": 2455410,
+    "text": "技术"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 101339160,
+    "duration": 4575830,
+    "text": "用户"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 106807910,
+    "duration": 2455410,
+    "text": "需要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 109375000,
+    "duration": 1674160,
+    "text": "用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 111272500,
+    "duration": 3013330,
+    "text": "自然"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 114397500,
+    "duration": 2901660,
+    "text": "语言"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 117410830,
+    "duration": 4241250,
+    "text": "提问"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 123660830,
+    "duration": 1674160,
+    "text": "但"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 125446250,
+    "duration": 4575830,
+    "text": "数据库"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 130133750,
+    "duration": 3794580,
+    "text": "结构"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 134151660,
+    "duration": 2120410,
+    "text": "太"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 136272500,
+    "duration": 4687500,
+    "text": "复杂"
+  }
+]

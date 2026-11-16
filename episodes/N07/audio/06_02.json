@@ -1,0 +1,152 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 1562500,
+    "text": "这"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2508750,
+    "duration": 1785830,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4517910,
+    "duration": 3348330,
+    "text": "Open"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7977500,
+    "duration": 4799160,
+    "text": "API"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12776660,
+    "duration": 669580,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13669580,
+    "duration": 3125000,
+    "text": "调试"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16906250,
+    "duration": 4352500,
+    "text": "界面"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23602500,
+    "duration": 2343750,
+    "text": "可以"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26057910,
+    "duration": 2901660,
+    "text": "直接"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29071250,
+    "duration": 3460000,
+    "text": "发送"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32754580,
+    "duration": 3236660,
+    "text": "检索"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36102500,
+    "duration": 5245410,
+    "text": "请求"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42241250,
+    "duration": 1562500,
+    "text": "并"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 43915000,
+    "duration": 3794580,
+    "text": "查看"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47932910,
+    "duration": 3013330,
+    "text": "返回"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 51057910,
+    "duration": 4575830,
+    "text": "结果"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 58647500,
+    "duration": 3460000,
+    "text": "包含"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62330410,
+    "duration": 3013330,
+    "text": "命中"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 65343750,
+    "duration": 557910,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 66013330,
+    "duration": 4687500,
+    "text": "片段"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 72656250,
+    "duration": 5357080,
+    "text": "相关度"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 78125000,
+    "duration": 4910830,
+    "text": "分数"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 83928750,
+    "duration": 1450830,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 85491250,
+    "duration": 3125000,
+    "text": "原文"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 88727500,
+    "duration": 4575830,
+    "text": "链接"
+  }
+]

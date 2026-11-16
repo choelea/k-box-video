@@ -1,0 +1,98 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 1674160,
+    "text": "再"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2620410,
+    "duration": 1897500,
+    "text": "看"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4741250,
+    "duration": 1450830,
+    "text": "另"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6192080,
+    "duration": 2008750,
+    "text": "一个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8312500,
+    "duration": 4017910,
+    "text": "案例"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 17410830,
+    "duration": 2790000,
+    "text": "这是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20312500,
+    "duration": 2678750,
+    "text": "一个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23214160,
+    "duration": 3460000,
+    "text": "星途"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26785830,
+    "duration": 3794580,
+    "text": "故障"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30803750,
+    "duration": 2790000,
+    "text": "推理"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33705410,
+    "duration": 5915000,
+    "text": "智能体"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42187500,
+    "duration": 3348330,
+    "text": "专门"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 45647500,
+    "duration": 3348330,
+    "text": "用于"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49218750,
+    "duration": 3571250,
+    "text": "汽车"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52901660,
+    "duration": 3013330,
+    "text": "故障"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 56026660,
+    "duration": 4129580,
+    "text": "诊断"
+  }
+]

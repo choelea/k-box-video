@@ -1,0 +1,260 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3460000,
+    "text": "数据"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4517910,
+    "duration": 5022500,
+    "text": "主题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10321250,
+    "duration": 1562500,
+    "text": "还"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11995410,
+    "duration": 4352500,
+    "text": "支持"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16571250,
+    "duration": 1897500,
+    "text": "从"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18692080,
+    "duration": 2455410,
+    "text": "不同"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21258750,
+    "duration": 3236660,
+    "text": "视角"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24607080,
+    "duration": 4352500,
+    "text": "提问"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34040000,
+    "duration": 4017910,
+    "text": "比如"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38281250,
+    "duration": 1897500,
+    "text": "从"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 40401660,
+    "duration": 2790000,
+    "text": "故障"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 43303750,
+    "duration": 3236250,
+    "text": "码视"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 46540000,
+    "duration": 4687500,
+    "text": "角问"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52120410,
+    "duration": 2120410,
+    "text": "这个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54352500,
+    "duration": 5245410,
+    "text": "故障码"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 60491250,
+    "duration": 3125000,
+    "text": "涉及"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 63839160,
+    "duration": 3236660,
+    "text": "哪些"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 67187500,
+    "duration": 4687500,
+    "text": "批次"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 73883750,
+    "duration": 3906250,
+    "text": "或者"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 77901660,
+    "duration": 1785830,
+    "text": "从"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 79910830,
+    "duration": 3013330,
+    "text": "车型"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 83035830,
+    "duration": 4799160,
+    "text": "视角"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 88727500,
+    "duration": 1450830,
+    "text": "问"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 90290000,
+    "duration": 2008750,
+    "text": "这个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 92410830,
+    "duration": 5245410,
+    "text": "车型"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 98549160,
+    "duration": 1227500,
+    "text": "有"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 99888330,
+    "duration": 3348330,
+    "text": "哪些"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 103460000,
+    "duration": 1562500,
+    "text": "未"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 105022500,
+    "duration": 2901660,
+    "text": "处理"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 107924160,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 108928750,
+    "duration": 3013330,
+    "text": "批次"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 112053750,
+    "duration": 4575830,
+    "text": "异常"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 118526660,
+    "duration": 4017910,
+    "text": "系统"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 122767910,
+    "duration": 1115830,
+    "text": "都"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 123883750,
+    "duration": 1004580,
+    "text": "能"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 125000000,
+    "duration": 4241250,
+    "text": "依据"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 129464160,
+    "duration": 1897500,
+    "text": "同"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 131361660,
+    "duration": 2678750,
+    "text": "一套"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 134263330,
+    "duration": 2343750,
+    "text": "语义"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 136718750,
+    "duration": 4910830,
+    "text": "规则"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 142522500,
+    "duration": 3125000,
+    "text": "给出"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 145870410,
+    "duration": 3348330,
+    "text": "准确"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 149330410,
+    "duration": 3571250,
+    "text": "答案"
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3348330,
+    "text": "欢迎"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4406250,
+    "duration": 4017910,
+    "text": "了解"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8647500,
+    "duration": 3460000,
+    "text": "问学"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12330410,
+    "duration": 2455410,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14897500,
+    "duration": 5022500,
+    "text": "平台"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25000000,
+    "duration": 3794580,
+    "text": "今天"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29017910,
+    "duration": 1450830,
+    "text": "我们"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30580410,
+    "duration": 1450830,
+    "text": "来"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32142910,
+    "duration": 3682910,
+    "text": "聊聊"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36049160,
+    "duration": 3125000,
+    "text": "自然"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39285830,
+    "duration": 2790000,
+    "text": "语言"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42187500,
+    "duration": 1897500,
+    "text": "问"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44085000,
+    "duration": 2790000,
+    "text": "数"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50223330,
+    "duration": 3794580,
+    "text": "为什么"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54241250,
+    "duration": 2901660,
+    "text": "直接"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 57254580,
+    "duration": 1450830,
+    "text": "对"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 58928750,
+    "duration": 4129580,
+    "text": "数据库"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 63169580,
+    "duration": 4575830,
+    "text": "提问"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 68638330,
+    "duration": 2790000,
+    "text": "往往"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71540000,
+    "duration": 3794580,
+    "text": "得不到"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 75557910,
+    "duration": 3236660,
+    "text": "正确"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 78794580,
+    "duration": 669580,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 79687500,
+    "duration": 2343750,
+    "text": "业务"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 82142910,
+    "duration": 4129580,
+    "text": "答案"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 88281250,
+    "duration": 3236660,
+    "text": "以及"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 91741250,
+    "duration": 2678750,
+    "text": "业务"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 94531250,
+    "duration": 2678750,
+    "text": "语义"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 97321250,
+    "duration": 4464160,
+    "text": "治理"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 102678750,
+    "duration": 3348330,
+    "text": "如何"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 106138330,
+    "duration": 3125000,
+    "text": "解决"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 109486660,
+    "duration": 1897500,
+    "text": "这个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 111495410,
+    "duration": 4464160,
+    "text": "问题"
+  }
+]

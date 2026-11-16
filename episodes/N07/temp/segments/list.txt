@@ -1,0 +1,8 @@
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N07\temp\segments\00.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N07\temp\segments\01.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N07\temp\segments\02.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N07\temp\segments\03.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N07\temp\segments\04.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N07\temp\segments\05.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N07\temp\segments\06.mp4'
+file 'C:\Users\null\.copilot\k-box-video-main\episodes\N07\temp\segments\07.mp4'

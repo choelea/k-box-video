@@ -1,0 +1,176 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 1897500,
+    "text": "当"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3067080,
+    "duration": 2567080,
+    "text": "技术"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5745410,
+    "duration": 4352500,
+    "text": "人员"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10321250,
+    "duration": 3348330,
+    "text": "输入"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13892910,
+    "duration": 2790000,
+    "text": "故障"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16794580,
+    "duration": 4017910,
+    "text": "现象"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20812500,
+    "duration": 2790000,
+    "text": "时"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26057910,
+    "duration": 2901660,
+    "text": "智能"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29071250,
+    "duration": 4687500,
+    "text": "体会"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34651660,
+    "duration": 3571250,
+    "text": "结合"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38446250,
+    "duration": 3125000,
+    "text": "图谱"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41571250,
+    "duration": 1562500,
+    "text": "中"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 43133750,
+    "duration": 892910,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44250000,
+    "duration": 3348330,
+    "text": "车型"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47710000,
+    "duration": 4799160,
+    "text": "配置"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54575830,
+    "duration": 3460000,
+    "text": "历史"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 58147500,
+    "duration": 3013330,
+    "text": "故障"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 61272500,
+    "duration": 4352500,
+    "text": "记录"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 66517910,
+    "duration": 1562500,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 68192080,
+    "duration": 3460000,
+    "text": "维修"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71763330,
+    "duration": 3682910,
+    "text": "方案"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 78236660,
+    "duration": 3571250,
+    "text": "给出"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 82031250,
+    "duration": 2567080,
+    "text": "可能"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 84598330,
+    "duration": 892910,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 85714160,
+    "duration": 2790000,
+    "text": "故障"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 88616250,
+    "duration": 4241250,
+    "text": "原因"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 93750000,
+    "duration": 1450830,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 95312500,
+    "duration": 3571250,
+    "text": "排查"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 98995410,
+    "duration": 4464160,
+    "text": "建议"
+  }
+]

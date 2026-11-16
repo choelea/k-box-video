@@ -1,0 +1,80 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 4799160,
+    "text": "平台"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5968750,
+    "duration": 2790000,
+    "text": "提供"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8758750,
+    "duration": 781250,
+    "text": "了"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9763330,
+    "duration": 2120410,
+    "text": "三"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11883750,
+    "duration": 1450830,
+    "text": "种"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13557910,
+    "duration": 2343750,
+    "text": "接入"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16013330,
+    "duration": 4799160,
+    "text": "方式"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23491250,
+    "duration": 3571250,
+    "text": "Open"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27174160,
+    "duration": 5692080,
+    "text": "API"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34763330,
+    "duration": 5468750,
+    "text": "MCP"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 40343750,
+    "duration": 4464160,
+    "text": "协议"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 45700830,
+    "duration": 1674160,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47375000,
+    "duration": 4352500,
+    "text": "Skill"
+  }
+]

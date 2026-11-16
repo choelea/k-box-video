@@ -1,0 +1,110 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 2790000,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3848330,
+    "duration": 4910830,
+    "text": "图谱"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9651660,
+    "duration": 1450830,
+    "text": "把"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11214160,
+    "duration": 2790000,
+    "text": "业务"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14116250,
+    "duration": 4129580,
+    "text": "实体"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18468750,
+    "duration": 1339160,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19919580,
+    "duration": 3125000,
+    "text": "关系"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23044580,
+    "duration": 3236660,
+    "text": "显式"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26392910,
+    "duration": 2678750,
+    "text": "组织"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29182910,
+    "duration": 3571250,
+    "text": "起来"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35544580,
+    "duration": 1450830,
+    "text": "让"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37107080,
+    "duration": 4464160,
+    "text": "系统"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41794580,
+    "duration": 2008750,
+    "text": "能够"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 43915000,
+    "duration": 3460000,
+    "text": "回答"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47598330,
+    "duration": 1450830,
+    "text": "多"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49049160,
+    "duration": 1785830,
+    "text": "跳"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 51057910,
+    "duration": 2790000,
+    "text": "推理"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53960000,
+    "duration": 4352500,
+    "text": "问题"
+  }
+]

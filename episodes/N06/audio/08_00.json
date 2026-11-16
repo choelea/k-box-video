@@ -1,0 +1,134 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3125000,
+    "text": "自然"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4182910,
+    "duration": 2790000,
+    "text": "语言"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7196250,
+    "duration": 1562500,
+    "text": "问"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8758750,
+    "duration": 1339160,
+    "text": "数"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10098330,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10991250,
+    "duration": 4910830,
+    "text": "难点"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16906250,
+    "duration": 1116250,
+    "text": "不"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18022500,
+    "duration": 3013330,
+    "text": "在于"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21147500,
+    "duration": 3348330,
+    "text": "理解"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24718750,
+    "duration": 3013330,
+    "text": "自然"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27843750,
+    "duration": 4241250,
+    "text": "语言"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35210000,
+    "duration": 1450830,
+    "text": "而"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36772500,
+    "duration": 2790000,
+    "text": "在于"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39785830,
+    "duration": 1227500,
+    "text": "把"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41125000,
+    "duration": 2678750,
+    "text": "业务"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 43915000,
+    "duration": 4799160,
+    "text": "口径"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49495410,
+    "duration": 2901660,
+    "text": "翻译"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52397500,
+    "duration": 2008750,
+    "text": "成"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54629580,
+    "duration": 3125000,
+    "text": "正确"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 57754580,
+    "duration": 669580,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 58647500,
+    "duration": 2567080,
+    "text": "数据"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 61325830,
+    "duration": 4910830,
+    "text": "查询"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 2008750,
+    "text": "我们"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3067080,
+    "duration": 1562500,
+    "text": "来"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4629580,
+    "duration": 1674160,
+    "text": "看"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6415000,
+    "duration": 1562500,
+    "text": "一个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8200830,
+    "duration": 3460000,
+    "text": "实际"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11772500,
+    "duration": 4241250,
+    "text": "案例"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20982080,
+    "duration": 1562500,
+    "text": "这"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22544580,
+    "duration": 1116250,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23772500,
+    "duration": 2678750,
+    "text": "一个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26674160,
+    "duration": 5245410,
+    "text": "新能源"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32031250,
+    "duration": 3348330,
+    "text": "汽车"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35602500,
+    "duration": 3460000,
+    "text": "售后"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39062500,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 40067080,
+    "duration": 2678750,
+    "text": "数据"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42857080,
+    "duration": 4799160,
+    "text": "主题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50335000,
+    "duration": 3125000,
+    "text": "页面"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53571250,
+    "duration": 4241250,
+    "text": "左侧"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 58035830,
+    "duration": 1227500,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 59375000,
+    "duration": 5915000,
+    "text": "关系图"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 67410830,
+    "duration": 3459580,
+    "text": "展示"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 70870410,
+    "duration": 892910,
+    "text": "了"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71986660,
+    "duration": 5245410,
+    "text": "故障码"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 79129580,
+    "duration": 3682910,
+    "text": "生产"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 82924160,
+    "duration": 4910830,
+    "text": "批次"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 89955410,
+    "duration": 3682910,
+    "text": "装配"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 93750000,
+    "duration": 4910830,
+    "text": "车型"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 98772500,
+    "duration": 1785830,
+    "text": "等"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 100781250,
+    "duration": 3013330,
+    "text": "业务"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 103906250,
+    "duration": 3013330,
+    "text": "概念"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 107031250,
+    "duration": 2790000,
+    "text": "之间"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 109821250,
+    "duration": 892910,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 110937500,
+    "duration": 3348330,
+    "text": "关联"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 114397500,
+    "duration": 4464160,
+    "text": "关系"
+  }
+]

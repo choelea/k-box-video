@@ -1,0 +1,134 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 6361660,
+    "text": "MCP"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7419580,
+    "duration": 1897500,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9428750,
+    "duration": 3236660,
+    "text": "Open"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12776660,
+    "duration": 4799160,
+    "text": "API"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 17575830,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18468750,
+    "duration": 2901660,
+    "text": "区别"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21482080,
+    "duration": 4464160,
+    "text": "在于"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28625000,
+    "duration": 3348330,
+    "text": "Open"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32085000,
+    "duration": 5692080,
+    "text": "API"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38669580,
+    "duration": 1674160,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 40343750,
+    "duration": 1004580,
+    "text": "我"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41460000,
+    "duration": 2678750,
+    "text": "告诉"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44250000,
+    "duration": 3571250,
+    "text": "系统"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48044580,
+    "duration": 1785830,
+    "text": "怎么"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49830410,
+    "duration": 3236660,
+    "text": "查"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55133750,
+    "duration": 5692080,
+    "text": "MCP"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 60937500,
+    "duration": 2901660,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 64732080,
+    "duration": 4799160,
+    "text": "Agent"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 70424160,
+    "duration": 3013330,
+    "text": "自己"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 73549160,
+    "duration": 2678750,
+    "text": "决定"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 76450830,
+    "duration": 3571250,
+    "text": "要不要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 80022500,
+    "duration": 3236660,
+    "text": "查"
+  }
+]

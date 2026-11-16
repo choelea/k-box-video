@@ -1,0 +1,164 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 4464160,
+    "text": "Skill"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5410830,
+    "duration": 1785830,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7307910,
+    "duration": 1450830,
+    "text": "另"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8758750,
+    "duration": 2343750,
+    "text": "一种"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11214160,
+    "duration": 3906250,
+    "text": "思路"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20200830,
+    "duration": 1339160,
+    "text": "它"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21540000,
+    "duration": 1227500,
+    "text": "把"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22879580,
+    "duration": 1450830,
+    "text": "一"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24330410,
+    "duration": 1785830,
+    "text": "组"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26339160,
+    "duration": 2678750,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29129580,
+    "duration": 4799160,
+    "text": "资源"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34151660,
+    "duration": 1339160,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35602500,
+    "duration": 2901660,
+    "text": "调用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38616250,
+    "duration": 5022500,
+    "text": "规则"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44642910,
+    "duration": 3125000,
+    "text": "打包"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47767910,
+    "duration": 1562500,
+    "text": "成"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49553750,
+    "duration": 1674160,
+    "text": "一个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 51450830,
+    "duration": 2567080,
+    "text": "能力"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54129580,
+    "duration": 4687500,
+    "text": "单元"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 61607080,
+    "duration": 2120410,
+    "text": "可以"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 63839160,
+    "duration": 1339160,
+    "text": "被"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 65401660,
+    "duration": 4129580,
+    "text": "内部"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 69754580,
+    "duration": 1674160,
+    "text": "或"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71540000,
+    "duration": 3236660,
+    "text": "外部"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 74776660,
+    "duration": 1004580,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 76004580,
+    "duration": 4575830,
+    "text": "智能体"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 80692080,
+    "duration": 4241250,
+    "text": "使用"
+  }
+]

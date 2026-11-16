@@ -1,0 +1,242 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 1897500,
+    "text": "在"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3067080,
+    "duration": 2901660,
+    "text": "Skill"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6080410,
+    "duration": 4464160,
+    "text": "中心"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13111660,
+    "duration": 781250,
+    "text": "你"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14004580,
+    "duration": 2120410,
+    "text": "可以"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16236660,
+    "duration": 3348330,
+    "text": "创建"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19696250,
+    "duration": 1785830,
+    "text": "一个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21482080,
+    "duration": 4241250,
+    "text": "Skill"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27955410,
+    "duration": 3460000,
+    "text": "绑定"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31638330,
+    "duration": 2901660,
+    "text": "指定"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34540000,
+    "duration": 892910,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35544580,
+    "duration": 5468750,
+    "text": "知识库"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42910830,
+    "duration": 3125000,
+    "text": "Wiki"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 46035830,
+    "duration": 2901660,
+    "text": "库"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49830410,
+    "duration": 1785830,
+    "text": "或"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 51727500,
+    "duration": 6361660,
+    "text": "图谱库"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 60044580,
+    "duration": 1785830,
+    "text": "并"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 61942080,
+    "duration": 3571250,
+    "text": "配置"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 65736660,
+    "duration": 3013330,
+    "text": "调用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 68861660,
+    "duration": 3571250,
+    "text": "范围"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 72656250,
+    "duration": 1116250,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 73883750,
+    "duration": 5245410,
+    "text": "权限"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 84263330,
+    "duration": 3460000,
+    "text": "创建"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 87835000,
+    "duration": 3347910,
+    "text": "完成"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 91182910,
+    "duration": 2343750,
+    "text": "后"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 95535830,
+    "duration": 2232080,
+    "text": "可以"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 97879580,
+    "duration": 4799160,
+    "text": "导出"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 103460000,
+    "duration": 1562500,
+    "text": "给"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 105133750,
+    "duration": 3682910,
+    "text": "外部"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 109040000,
+    "duration": 3348330,
+    "text": "Agent"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 112500000,
+    "duration": 4129580,
+    "text": "使用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 119307910,
+    "duration": 1227500,
+    "text": "也"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 120647500,
+    "duration": 2232080,
+    "text": "可以"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 122879580,
+    "duration": 1562500,
+    "text": "在"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 124665000,
+    "duration": 3125000,
+    "text": "平台"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 127790000,
+    "duration": 4241250,
+    "text": "内部"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 132254580,
+    "duration": 2678750,
+    "text": "多个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 135044580,
+    "duration": 4241250,
+    "text": "智能体"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 139397500,
+    "duration": 3013330,
+    "text": "之间"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 142522500,
+    "duration": 4352500,
+    "text": "共享"
+  }
+]

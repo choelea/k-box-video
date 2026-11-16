@@ -1,0 +1,230 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3906250,
+    "text": "数据"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4964160,
+    "duration": 1339160,
+    "text": "在"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6415000,
+    "duration": 4464160,
+    "text": "哪里"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15848330,
+    "duration": 2008750,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 17857080,
+    "duration": 1562500,
+    "text": "在"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19642910,
+    "duration": 6026660,
+    "text": "订单表"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27567080,
+    "duration": 6138330,
+    "text": "发票表"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34710000,
+    "duration": 2343750,
+    "text": "还是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37165000,
+    "duration": 3571250,
+    "text": "回款"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 40848330,
+    "duration": 4129580,
+    "text": "表里"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50111660,
+    "duration": 2455410,
+    "text": "如果"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52678750,
+    "duration": 4799160,
+    "text": "系统"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 57700830,
+    "duration": 2901660,
+    "text": "直接"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 60714160,
+    "duration": 1339160,
+    "text": "把"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62165000,
+    "duration": 3013330,
+    "text": "这些"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 65290000,
+    "duration": 3125000,
+    "text": "字段"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 68526660,
+    "duration": 4352500,
+    "text": "加总"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 75335000,
+    "duration": 2901660,
+    "text": "得到"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 78236660,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 79129580,
+    "duration": 4910830,
+    "text": "数字"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 84932910,
+    "duration": 2678750,
+    "text": "可能"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 87723330,
+    "duration": 1227500,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 89062500,
+    "duration": 3125000,
+    "text": "业务"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 92299160,
+    "duration": 2678330,
+    "text": "部门"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 94977500,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 95870410,
+    "duration": 4687500,
+    "text": "理解"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 101450830,
+    "duration": 4017910,
+    "text": "完全"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 105580410,
+    "duration": 3682910,
+    "text": "不同"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 114397500,
+    "duration": 2008750,
+    "text": "同"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 116406250,
+    "duration": 1674160,
+    "text": "一个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 118192080,
+    "duration": 4575830,
+    "text": "问题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 125223330,
+    "duration": 2790000,
+    "text": "不同"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 128125000,
+    "duration": 2567080,
+    "text": "部门"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 130915000,
+    "duration": 2790000,
+    "text": "给出"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 133705410,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 134598330,
+    "duration": 4241250,
+    "text": "答案"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 139732080,
+    "duration": 2567080,
+    "text": "可能"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 142410830,
+    "duration": 5803750,
+    "text": "差几倍"
+  }
+]

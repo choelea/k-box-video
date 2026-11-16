@@ -1,0 +1,176 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3348330,
+    "text": "欢迎"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4406250,
+    "duration": 4017910,
+    "text": "了解"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8647500,
+    "duration": 3460000,
+    "text": "问学"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12330410,
+    "duration": 2455410,
+    "text": "知识"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14897500,
+    "duration": 5022500,
+    "text": "平台"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25000000,
+    "duration": 3571250,
+    "text": "今天"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28794580,
+    "duration": 1450830,
+    "text": "我们"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30357080,
+    "duration": 1450830,
+    "text": "来"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31807910,
+    "duration": 1450830,
+    "text": "聊"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33370410,
+    "duration": 3571250,
+    "text": "一个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37835000,
+    "duration": 1450830,
+    "text": "在"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39397500,
+    "duration": 3459580,
+    "text": "集成"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42857080,
+    "duration": 2790000,
+    "text": "时"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 45870410,
+    "duration": 3348330,
+    "text": "经常"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49330410,
+    "duration": 1004580,
+    "text": "被"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50446250,
+    "duration": 2901660,
+    "text": "问到"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53348330,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 54241250,
+    "duration": 4575830,
+    "text": "问题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 61607080,
+    "duration": 5803750,
+    "text": "API"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 69419580,
+    "duration": 6361660,
+    "text": "MCP"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 78013330,
+    "duration": 3460000,
+    "text": "Skill"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 81585000,
+    "duration": 2455000,
+    "text": "三"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 84040000,
+    "duration": 1450830,
+    "text": "种"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 85602500,
+    "duration": 2567080,
+    "text": "接入"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 88281250,
+    "duration": 4464160,
+    "text": "方式"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 94754580,
+    "duration": 3013330,
+    "text": "应该"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 97879580,
+    "duration": 1897500,
+    "text": "选"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 100000000,
+    "duration": 1674160,
+    "text": "哪"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 101674160,
+    "duration": 3682910,
+    "text": "一个"
+  }
+]

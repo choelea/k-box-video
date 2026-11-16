@@ -1,0 +1,98 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3125000,
+    "text": "文档"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4182910,
+    "duration": 4464160,
+    "text": "问答"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9540000,
+    "duration": 1674160,
+    "text": "很"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11214160,
+    "duration": 1897500,
+    "text": "难"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13335000,
+    "duration": 2567080,
+    "text": "直接"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16013330,
+    "duration": 3013330,
+    "text": "给出"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19250000,
+    "duration": 4910830,
+    "text": "完整答"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24160830,
+    "duration": 2008750,
+    "text": "案"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 29517910,
+    "duration": 1450830,
+    "text": "但"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31080410,
+    "duration": 4910830,
+    "text": "图谱"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36214160,
+    "duration": 2120410,
+    "text": "可以"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38446250,
+    "duration": 2567080,
+    "text": "沿着"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41236660,
+    "duration": 2678750,
+    "text": "关系"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44026660,
+    "duration": 3013330,
+    "text": "链路"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47263330,
+    "duration": 2901660,
+    "text": "逐步"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50276660,
+    "duration": 4352500,
+    "text": "推导"
+  }
+]

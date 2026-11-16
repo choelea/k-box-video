@@ -1,0 +1,146 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 1562500,
+    "text": "当"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2620410,
+    "duration": 5022500,
+    "text": "用户"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7866250,
+    "duration": 1562500,
+    "text": "在"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 9540000,
+    "duration": 2678750,
+    "text": "智能"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12330410,
+    "duration": 1674160,
+    "text": "体"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14004580,
+    "duration": 1674160,
+    "text": "中"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15901660,
+    "duration": 2455410,
+    "text": "提出"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18468750,
+    "duration": 3348330,
+    "text": "问题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21817080,
+    "duration": 2901660,
+    "text": "时"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27508750,
+    "duration": 4352500,
+    "text": "系统"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31973330,
+    "duration": 1674160,
+    "text": "会"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33647500,
+    "duration": 2790000,
+    "text": "依据"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36660830,
+    "duration": 2901660,
+    "text": "数据"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39674160,
+    "duration": 3236660,
+    "text": "主题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42910830,
+    "duration": 1450830,
+    "text": "中"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 44361660,
+    "duration": 1004580,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 45589160,
+    "duration": 2567080,
+    "text": "语义"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48267910,
+    "duration": 4910830,
+    "text": "规则"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55022500,
+    "duration": 3125000,
+    "text": "自动"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 58258750,
+    "duration": 3460000,
+    "text": "生成"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 61942080,
+    "duration": 3125000,
+    "text": "对应"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 65067080,
+    "duration": 1897500,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 67745410,
+    "duration": 4241250,
+    "text": "SQL"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 72098330,
+    "duration": 5133750,
+    "text": "查询"
+  }
+]

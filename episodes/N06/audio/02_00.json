@@ -1,0 +1,176 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3460000,
+    "text": "数据"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4517910,
+    "duration": 2567080,
+    "text": "库里"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7085000,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7977500,
+    "duration": 5915000,
+    "text": "表结构"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14785830,
+    "duration": 1450830,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16236660,
+    "duration": 1227500,
+    "text": "为"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 17687500,
+    "duration": 4575830,
+    "text": "存储"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22486660,
+    "duration": 1004580,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23602500,
+    "duration": 3460000,
+    "text": "查询"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27174160,
+    "duration": 3013330,
+    "text": "效率"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30299160,
+    "duration": 3459580,
+    "text": "设计"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 33758750,
+    "duration": 1562500,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38335000,
+    "duration": 2567080,
+    "text": "不是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41013330,
+    "duration": 1339160,
+    "text": "为"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42575830,
+    "duration": 2678750,
+    "text": "业务"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 45366250,
+    "duration": 3013330,
+    "text": "理解"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 48491250,
+    "duration": 3459580,
+    "text": "设计"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 51950830,
+    "duration": 1674160,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 58593750,
+    "duration": 1897500,
+    "text": "这"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 60491250,
+    "duration": 1227500,
+    "text": "就"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 61718750,
+    "duration": 1116250,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 63057910,
+    "duration": 4241250,
+    "text": "物理表"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 67410830,
+    "duration": 4687500,
+    "text": "字段"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 72991250,
+    "duration": 1339160,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 74442080,
+    "duration": 2901660,
+    "text": "业务"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 77455410,
+    "duration": 3571250,
+    "text": "口径"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 81138330,
+    "duration": 2678750,
+    "text": "之间"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 83817080,
+    "duration": 669580,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 84598330,
+    "duration": 4910830,
+    "text": "差距"
+  }
+]

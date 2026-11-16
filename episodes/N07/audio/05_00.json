@@ -1,0 +1,158 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3794580,
+    "text": "简单"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4852500,
+    "duration": 3236660,
+    "text": "对比"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8312500,
+    "duration": 2120410,
+    "text": "三"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10432910,
+    "duration": 1450830,
+    "text": "种"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11995410,
+    "duration": 4799160,
+    "text": "方式"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21875000,
+    "duration": 3682910,
+    "text": "Open"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25669580,
+    "duration": 5692080,
+    "text": "API"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31473330,
+    "duration": 3460000,
+    "text": "适合"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35156250,
+    "duration": 2901660,
+    "text": "程序"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38169580,
+    "duration": 6473330,
+    "text": "化集成"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47656250,
+    "duration": 1674160,
+    "text": "调"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49330410,
+    "duration": 4241250,
+    "text": "用方"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53794580,
+    "duration": 2790000,
+    "text": "需要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 56807910,
+    "duration": 3125000,
+    "text": "精确"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 60044580,
+    "duration": 2790000,
+    "text": "控制"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 63057910,
+    "duration": 3125000,
+    "text": "检索"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 66294580,
+    "duration": 4799160,
+    "text": "参数"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71986660,
+    "duration": 1674160,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 73772500,
+    "duration": 3236660,
+    "text": "返回"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 77120410,
+    "duration": 4464160,
+    "text": "结构"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 83705410,
+    "duration": 3571250,
+    "text": "比如"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 87500000,
+    "duration": 2567080,
+    "text": "业务"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 90178750,
+    "duration": 3236660,
+    "text": "系统"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 93526660,
+    "duration": 4352500,
+    "text": "对接"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 99888330,
+    "duration": 3013330,
+    "text": "数据"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 103013330,
+    "duration": 4464160,
+    "text": "同步"
+  }
+]

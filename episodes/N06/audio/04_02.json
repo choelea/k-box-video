@@ -1,0 +1,128 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 3013330,
+    "text": "这些"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4071250,
+    "duration": 6138330,
+    "text": "关系图"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11883750,
+    "duration": 2567080,
+    "text": "业务"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14562500,
+    "duration": 4687500,
+    "text": "概念"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20142910,
+    "duration": 1674160,
+    "text": "和"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21928750,
+    "duration": 8147500,
+    "text": "QueryMemory"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 30968750,
+    "duration": 3236660,
+    "text": "构成"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34205410,
+    "duration": 1004580,
+    "text": "了"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35432910,
+    "duration": 2790000,
+    "text": "数据"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38335000,
+    "duration": 3125000,
+    "text": "主题"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41460000,
+    "duration": 892910,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42575830,
+    "duration": 2567080,
+    "text": "语义"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 45254580,
+    "duration": 4799160,
+    "text": "基础"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52008750,
+    "duration": 1785830,
+    "text": "让"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53906250,
+    "duration": 3013330,
+    "text": "系统"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 57031250,
+    "duration": 4241250,
+    "text": "知道"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62165000,
+    "duration": 3460000,
+    "text": "如何"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 65736660,
+    "duration": 3013330,
+    "text": "理解"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 68973330,
+    "duration": 2901660,
+    "text": "用户"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71875000,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 72767910,
+    "duration": 4129580,
+    "text": "提问"
+  }
+]

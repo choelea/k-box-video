@@ -1,0 +1,248 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 946250,
+    "duration": 1339160,
+    "text": "它"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2285830,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3178750,
+    "duration": 3571250,
+    "text": "特点"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6750000,
+    "duration": 3236660,
+    "text": "是"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10879580,
+    "duration": 1339160,
+    "text": "不"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12218750,
+    "duration": 2790000,
+    "text": "需要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15232080,
+    "duration": 3125000,
+    "text": "预先"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18468750,
+    "duration": 1674160,
+    "text": "写"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 20142910,
+    "duration": 3459580,
+    "text": "死调"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23602500,
+    "duration": 1339160,
+    "text": "用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25053750,
+    "duration": 4017910,
+    "text": "逻辑"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34151660,
+    "duration": 5022500,
+    "text": "Agent"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39955410,
+    "duration": 2790000,
+    "text": "根据"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42857080,
+    "duration": 2901660,
+    "text": "用户"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 45870410,
+    "duration": 3236660,
+    "text": "提问"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49107080,
+    "duration": 781250,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50000000,
+    "duration": 4017910,
+    "text": "内容"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 56919580,
+    "duration": 2901660,
+    "text": "自动"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 59932910,
+    "duration": 4575830,
+    "text": "判断"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 65290000,
+    "duration": 3236660,
+    "text": "是否"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 68638330,
+    "duration": 2455410,
+    "text": "需要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71205410,
+    "duration": 4241250,
+    "text": "调用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 75669580,
+    "duration": 5245410,
+    "text": "K-BOX"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 80915000,
+    "duration": 1004580,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 82142910,
+    "duration": 3125000,
+    "text": "检索"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 85379580,
+    "duration": 4575830,
+    "text": "工具"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 91852500,
+    "duration": 3013330,
+    "text": "调用"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 95089160,
+    "duration": 2678750,
+    "text": "哪个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 97767910,
+    "duration": 2901660,
+    "text": "库"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 102678750,
+    "duration": 2343750,
+    "text": "传"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 105133750,
+    "duration": 2232080,
+    "text": "什么"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 107477500,
+    "duration": 5022500,
+    "text": "参数"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 117522500,
+    "duration": 4017910,
+    "text": "适合"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 121651660,
+    "duration": 2901660,
+    "text": "需要"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 124776660,
+    "duration": 3013330,
+    "text": "灵活"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 127901660,
+    "duration": 3682910,
+    "text": "组合"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 131807910,
+    "duration": 2455410,
+    "text": "多个"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 134375000,
+    "duration": 2901660,
+    "text": "工具"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 137276660,
+    "duration": 892910,
+    "text": "的"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 138392910,
+    "duration": 2678750,
+    "text": "对话"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 141182910,
+    "duration": 5022500,
+    "text": "场景"
+  }
+]
